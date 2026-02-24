@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CocoonMegascarab.description>A stasis cocoon containing a megascarab.\n\nWhen conditions are inhospitable, insects sometimes form stasis cocoons and burrow underground. These cocoons keep insects safe from fire, extreme temperatures, and other threats for years.\n\nPollutants can stimulate cocoons and cause them to resurface, and strong pollutants can attract cocoons from great distances.\n\nCocoons do nothing if they are not disturbed. If a cocoon is disturbed or destroyed, the insect within will awaken and attack, triggering other nearby cocoons in the process.</CocoonMegascarab.description>
+  <CocoonMegascarab.label>მეგასკარაბის ქოქოსი</CocoonMegascarab.label>
+  <CocoonMegaspider.description>A stasis cocoon containing a megaspider.\n\nWhen conditions are inhospitable, insects sometimes form stasis cocoons and burrow underground. These cocoons keep insects safe from fire, extreme temperatures, and other threats for years.\n\nPollutants can stimulate cocoons and cause them to resurface, and strong pollutants can attract cocoons from great distances.\n\nCocoons do nothing if they are not disturbed. If a cocoon is disturbed or destroyed, the insect within will awaken and attack, triggering other nearby cocoons in the process.</CocoonMegaspider.description>
+  <CocoonMegaspider.label>მეგაspider cocoon</CocoonMegaspider.label>
+  <CocoonSpelopede.description>A stasis cocoon containing a spelopede.\n\nWhen conditions are inhospitable, insects sometimes form stasis cocoons and burrow underground. These cocoons keep insects safe from fire, extreme temperatures, and other threats for years.\n\nPollutants can stimulate cocoons and cause them to resurface, and strong pollutants can attract cocoons from great distances.\n\nCocoons do nothing if they are not disturbed. If a cocoon is disturbed or destroyed, the insect within will awaken and attack, triggering other nearby cocoons in the process.</CocoonSpelopede.description>
+  <CocoonSpelopede.label>spelopede cocoon</CocoonSpelopede.label>
+  <CollapsedRocks.description>ჩამონგრეული კლდეები, საკმარისად მჭიდროდ შეფუთული სახურავის ასამაღლებლად.</CollapsedRocks.description>
+  <CollapsedRocks.label>ჩამონგრეული კლდეები</CollapsedRocks.label>
+  <GlowPod.description>გიგანტური მწერების მიერ წარმოებული ბიოლუმინესცენტური ჯიში. ანათებს საკუთარ შუქზე დიდი ხნის განმავლობაში, შემდეგ კვდება.</GlowPod.description>
+  <GlowPod.label>მბზინავი ბუდე</GlowPod.label>
+  <Hive.description>გიგანტური მწერების სკამი. თუ გააქტიურდება, ის დროთა განმავლობაში გამოიმუშავებს დამატებით მწერებს და ჭინჭრის ციებას, ასევე ძვირფას მწერების ჟელეს.</Hive.description>
+  <Hive.label>სკაია</Hive.label>
+  <MineableComponentsIndustrial.description>უძველესი მანქანა, დროთა განმავლობაში შეკუმშული. შეიძლება მოპოვებული იყოს სასარგებლო კომპონენტებისთვის.</MineableComponentsIndustrial.description>
+  <MineableComponentsIndustrial.label>კომპაქტური მანქანები</MineableComponentsIndustrial.label>
+  <MineableGold.description>კლდე, რომელიც შეიცავს ოქროს ნაჭრებს.</MineableGold.description>
+  <MineableGold.label>ოქროს საბადო</MineableGold.label>
+  <MineableJade.description>კლდე, რომელიც შეიცავს ნეფრიტის ნაჭრებს.</MineableJade.description>
+  <MineableJade.label>ნეფრიტი</MineableJade.label>
+  <MineablePlasteel.description>უძველესი დატკეპნილი ნანგრევები მდიდარია პლასტილით.</MineablePlasteel.description>
+  <MineablePlasteel.label>კომპაქტური პლასტელი</MineablePlasteel.label>
+  <MineableSilver.description>კლდე, რომელიც შეიცავს ვერცხლის ნაჭრებს.</MineableSilver.description>
+  <MineableSilver.label>ვერცხლის საბადო</MineableSilver.label>
+  <MineableSteel.description>ზოგიერთი უძველესი, ჩამონგრეული სტრუქტურის ნაშთები. მდიდარია ფოლადით.</MineableSteel.description>
+  <MineableSteel.label>კომპაქტური ფოლადი</MineableSteel.label>
+  <MineableUranium.description>ურანის ნაჭრების შემცველი კლდე.</MineableUranium.description>
+  <MineableUranium.label>ურანის საბადო</MineableUranium.label>
+  <RaisedRocks.description>ნანგრევებისგან დამზადებული მყიფე კედელი. დროთა განმავლობაში ის დაინგრევა.</RaisedRocks.description>
+  <RaisedRocks.label>აწეული კლდეები</RaisedRocks.label>
+  <SteamGeyser.description>მაღალი წნევის ორთქლის ბუნებრივი წყარო. გეოთერმული გენერატორებს შეუძლიათ გამოიყენონ ორთქლის ენერგია. მასზე აშენებული ოთახები სწრაფად მზადდება.</SteamGeyser.description>
+  <SteamGeyser.label>ორთქლის გეიზერი</SteamGeyser.label>
+</LanguageData>

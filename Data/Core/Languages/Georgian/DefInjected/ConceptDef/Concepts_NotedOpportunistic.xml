@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnimalsDontAttackDoors.helpText>ადამიანებზე მონადირე ცხოველებზე თავს დაესხმება კარებს, თუ დაინახავენ, რომ თქვენი ერთ-ერთი კოლონისტი მათში მოძრაობს. ისინი ასევე თავს დაესხმებიან არააქტიურ კოშკებს.</AnimalsDontAttackDoors.helpText>
+  <AnimalsDontAttackDoors.label>ცხოველები თავს ესხმიან კარებს</AnimalsDontAttackDoors.label>
+  <BillsTab.helpText>იმისათვის, რომ კოლონისტებმა იმუშაონ მაგიდასთან, აირჩიეთ ცხრილი და გახსენით ჩანართი Bills. აქ შეგიძლიათ თქვათ, რა კერძები მოვამზადოთ, რა ნივთები მოვამზადოთ, რა არსებები დავჭრათ.</BillsTab.helpText>
+  <BillsTab.label>გადასახადების ჩანართი</BillsTab.label>
+  <Books.helpText>Colonists read books for recreation, to gain skills, to unlock research, and more. You can see a specific book's effects by selecting it and opening its 'Details' tab.\n\nTo choose what colonists will read, open the ASSIGN tab and configure READING POLICIES.\n\nStore books in bookcases to passively enhance intellectual and reading work done nearby, and increase the beauty of the bookcase. Bookcases passively increase research speed, XP gained from reading, and recreation gained from reading in the same room.</Books.helpText>
+  <Books.label>წიგნები</Books.label>
+  <BuildOrbitalTradeBeacon.helpText>ორბიტალური ტრეიდერებისთვის ნივთების ან ვერცხლის გასაგზავნად, თქვენ უნდა ააწყოთ ORBITAL TRADE BEACON და მოათავსოთ ნივთების მარაგი მის მახლობლად.</BuildOrbitalTradeBeacon.helpText>
+  <BuildOrbitalTradeBeacon.label>შექმენით ორბიტალური სავაჭრო შუქურა</BuildOrbitalTradeBeacon.label>
+  <Capturing.helpText>When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use.</Capturing.helpText>
+  <Capturing.label>დაჭერა</Capturing.label>
+  <DoorOpenSpeed.helpText>Doors open at different speeds depending on what they're made of.\n\nWarning: Stone doors open very slowly. Anyone passing through will be significantly slowed down.</DoorOpenSpeed.helpText>
+  <DoorOpenSpeed.label>კარების გახსნის სიჩქარე</DoorOpenSpeed.label>
+  <Drafting.helpText>To control colonists directly for combat, Draft them by selecting them and hitting the DRAFT button.\n\nA drafted colonist will do only what you tell them, and can only take combat actions. Those with weapons will use them when possible.\n\nDon't leave colonists Drafted forever - they'll starve and become unhappy.</Drafting.helpText>
+  <Drafting.label>შემუშავება საბრძოლველად</Drafting.label>
+  <DrugAddiction.helpText>You can inspect your colonists' desire to take a drug in their Needs tab.\n\nAs long as their need level is at zero, their addiction changes to a "withdrawal" state which can have various negative side effects.\n\nHowever, after long enough in withdrawal, their addiction will end and the drug need will disappear.</DrugAddiction.helpText>
+  <DrugAddiction.label>ნარკომანია</DrugAddiction.label>
+  <DrugBurning.helpText>Drugs can be useful, but can also lead to harmful addictions.\n\nIf you want to avoid drugs in your colony, you have the option of burning them at a campfire.</DrugBurning.helpText>
+  <DrugBurning.label>ნარკოტიკების წვა</DrugBurning.label>
+  <DrugPolicies.helpText>You can assign colonists to take specific drugs on a specific schedule. For example, you can make them take infection-blocking drugs regularly, or drink a beer a day to stay happy.\n\nOpen the ASSIGN tab and press the 'Manage drug policies' button. Create a new drug policy. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires!</DrugPolicies.helpText>
+  <DrugPolicies.label>ნარკოტიკების პოლიტიკა</DrugPolicies.label>
+  <GroupGotoHereDragging.helpText>Right-click and drag to have your drafted fighters form a line.\n\nSpread out - bunched-up targets are easy to hit!</GroupGotoHereDragging.helpText>
+  <GroupGotoHereDragging.label>პოზიციონირების მებრძოლები</GroupGotoHereDragging.label>
+  <InteractingWithTraders.helpText>You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to their head.</InteractingWithTraders.helpText>
+  <InteractingWithTraders.label>ტრეიდერებთან ურთიერთობა</InteractingWithTraders.label>
+  <OpeningComms.helpText>კომუნიკაციისთვის აირჩიეთ კოლონისტი და დააწკაპუნეთ მაუსის მარჯვენა ღილაკით კომისიის კონსოლზე.</OpeningComms.helpText>
+  <OpeningComms.label>კომისიის კონსოლის გამოყენებით</OpeningComms.label>
+  <PrisonerTab.helpText>Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored, or executed, and what kind of medical care they get. You can set food restrictions for the prisoner in their health tab.\n\nColonists with the Warden work type will interact with the prisoner.</PrisonerTab.helpText>
+  <PrisonerTab.label>პატიმრის ჩანართი</PrisonerTab.label>
+  <QueueOrders.helpText>ლომბარდებისთვის ბრძანებების მიცემისას, შეგიძლიათ რამდენიმე ბრძანების რიგში დაყენება „shift“-ის დაჭერით. ეს ასევე მუშაობს დაუმუშავებელ პაიონებს სამუშაოს მიცემისას.</QueueOrders.helpText>
+  <QueueOrders.label>შეკვეთის რიგში</QueueOrders.label>
+  <ReformCaravan.helpText>შეხვედრის შემდეგ, თქვენ შეგიძლიათ მარტივად შექმნათ ქარავანი მსოფლიო ხედში RE-FORM CARAVAN ბრძანების გამოყენებით.</ReformCaravan.helpText>
+  <ReformCaravan.label>რეფორმირების ქარავნები</ReformCaravan.label>
+  <Rescuing.helpText>To rescue a wounded person, select a healthy colonist and then right-click on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them.</Rescuing.helpText>
+  <Rescuing.label>გადარჩენა</Rescuing.label>
+  <SetGrowingZonePlant.helpText>You can set what to plant in a growing zone. You can even grow trees!\n\nJust select the growing zone, open the Growing tab, and click the 'plant' button.</SetGrowingZonePlant.helpText>
+  <SetGrowingZonePlant.label>დააყენეთ რა მცენარე უნდა გაიზარდოს</SetGrowingZonePlant.label>
+  <Shelves.helpText>Shelves store three times as much as empty ground. Items on shelves will also never deteriorate and don't affect the beauty of their surroundings.\n\nYou can link shelves into groups and configure them as one. First, select two or more shelves, then click 'Link storage settings'.</Shelves.helpText>
+  <Shelves.label>თაროები</Shelves.label>
+  <ShieldBelts.helpText>Shield belts stop ranged attacks from coming in or out. They have no effect on melee attacks.\n\nTo fight against shield belts, either concentrate a lot of gunfire on the target, or fight hand-to-hand.</ShieldBelts.helpText>
+  <ShieldBelts.label>ფარის ქამრები</ShieldBelts.label>
+  <TVForSickPeople.helpText>ავადმყოფებს შეუძლიათ ტელევიზორის ყურება საწოლში წოლისას.</TVForSickPeople.helpText>
+  <TVForSickPeople.label>ტელევიზორი ავადმყოფებისთვის</TVForSickPeople.label>
+</LanguageData>

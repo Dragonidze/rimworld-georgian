@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Aurora.description>ავრორა ანათებს ცას. თვალწარმტაცი დისპლეი გაზრდის მის ნახვის ნებისმიერ ადამიანს განწყობას.</Aurora.description>
+  <Aurora.label>ავრორა</Aurora.label>
+  <Aurora.letterText>A beautiful aurora is lighting up the sky.\n\nThe undulating colors will boost the mood of anyone outside to see them, and make the night brighter.</Aurora.letterText>
+  <ClimateCycle.description>მრავალწლიანი კლიმატის ციკლი ელიფსური ორბიტის გამო.</ClimateCycle.description>
+  <ClimateCycle.label>კლიმატის ციკლი</ClimateCycle.label>
+  <ColdSnap.description>უჩვეულო სიცივე ყინავს რეგიონს.</ColdSnap.description>
+  <ColdSnap.label>ცივი ნაკადი</ColdSnap.label>
+  <ColdSnap.letterText>An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die.</ColdSnap.letterText>
+  <Eclipse.description>დაბნელება ჩრდილავს ზედაპირს. სიბნელე იქნება, დღისითაც კი.</Eclipse.description>
+  <Eclipse.label>დაბნელება</Eclipse.label>
+  <Eclipse.letterText>ამ პლანეტის ერთ-ერთი მთვარე მზის წინ ბრუნავს. დაბნელება დაიწყო.</Eclipse.letterText>
+  <Flashstorm.description>საშინელი ლოკალიზებული ქარიშხალი აფეთქებს მცირე ტერიტორიას განმეორებითი ელვისებური დარტყმით.</Flashstorm.description>
+  <Flashstorm.label>შტორმი</Flashstorm.label>
+  <Flashstorm.letterText>ლოკალიზებული შტორმი ელვისებურად ურტყამს პატარა ადგილს. ამან შეიძლება გამოიწვიოს მასიური ხანძარი.</Flashstorm.letterText>
+  <HeatWave.description>სიცხის უკიდურესი ტალღა აწვება ტერიტორიას.</HeatWave.description>
+  <HeatWave.label>სითბოს ტალღა</HeatWave.label>
+  <HeatWave.letterText>An unusual heat wave has begun.\n\nHeat waves can induce deadly heatstroke. Stay cool by building either a passive or electric cooler, or by getting deep underground where the rocks are naturally cool.</HeatWave.letterText>
+  <Planetkiller.description>ვარსკვლავთშორისი პლანეტამკვლელი იარაღი უახლოვდება ამ პლანეტას. ის დაამსხვრევს პლანეტას, როგორც თოფის ტყვია, რომელიც კვერცხს მოხვდება და მთელ სიცოცხლეს მოსპობს.</Planetkiller.description>
+  <Planetkiller.label>პლანეტის მკვლელი</Planetkiller.label>
+  <PsychicDrone.description>შორეული არქოტექნიკა ასხივებს ფსიქიკურ სიგნალებს ორბიტალური გამაძლიერებლის მეშვეობით, რაც ადამიანებს სიგიჟემდე მიჰყავს.</PsychicDrone.description>
+  <PsychicDrone.label>ფსიქიკური დრონი</PsychicDrone.label>
+  <PsychicDrone.letterText>Every {0} colonist feels a wave of anxiety and anger!\n\nSome distant engine of hatred is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}.</PsychicDrone.letterText>
+  <PsychicSoothe.description>შორეული არქოტექნიკა ასხივებს ფსიქიკურ სიგნალებს ორბიტალური გამაძლიერებლის მეშვეობით, ამშვიდებს ადამიანებს და ასტაბილურებს მათ გონებას.</PsychicSoothe.description>
+  <PsychicSoothe.label>ფსიქიკური ამშვიდებს</PsychicSoothe.label>
+  <PsychicSoothe.letterText>Every {0} colonist smiles with contentment!\n\nSome distant engine of happiness is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit better.</PsychicSoothe.letterText>
+  <SolarFlare.description>მზის აფეთქება პლანეტას აფრქვევს. ელექტრომაგნიტური ჩარევა ხელს შეუშლის უმეტეს ელექტრო მოწყობილობების მუშაობას.</SolarFlare.description>
+  <SolarFlare.label>მზის აფეთქება</SolarFlare.label>
+  <SolarFlare.letterText>A solar flare has begun.\n\nThe intense radiation will shut down all electrical devices.\n\nIt should pass in about a day.</SolarFlare.letterText>
+  <ToxicFallout.description>ტოქსიკური მტვრის გროვა ნელ-ნელა იშლება მთელ ამ რეგიონში. ნებისმიერი ცოცხალი არსება, რომელიც არ არის სახურავის ქვეშ, ნელ-ნელა მოიწამლება და გარეთ დარჩენილი ნივთები კოროზირდება.</ToxicFallout.description>
+  <ToxicFallout.label>ტოქსიკური გამონადენი</ToxicFallout.label>
+  <ToxicFallout.letterText>A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to nearly a quadrum.</ToxicFallout.letterText>
+  <VolcanicWinter.description>ზოგიერთი შორეული ვულკანი ან ხანძარი ახშობს ატმოსფეროს ფერფლით, რაც მნიშვნელოვნად ამცირებს შუქის რაოდენობას, რომელიც აღწევს ზედაპირზე. ტემპერატურა უფრო დაბალი იქნება და მცენარეები ნელა გაიზრდება.</VolcanicWinter.description>
+  <VolcanicWinter.label>ვულკანური ზამთარი</VolcanicWinter.label>
+  <VolcanicWinter.letterText>Some distant volcano or fire has begun spewing massive quantities of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Temperatures will drop and plants will suffer for lack of sunlight. It could pass in a few weeks, or it might last many quadrums.</VolcanicWinter.letterText>
+</LanguageData>

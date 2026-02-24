@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ConventChild16.description>უკანონო ურთიერთობის ბავშვი, [PAWN_nameDef] ასკეტებმა აღზარდეს შუა საუკუნეების მონასტერში. [PAWN_pronoun]-მა შეიტყო შრომისმოყვარეობისა და დამორჩილების ღირებულება, მაგრამ ასწავლეს, რომ ტექნოლოგია ერეტიულია და ძალადობა ამორალური.</ConventChild16.description>
+  <ConventChild16.title>მონასტრის ბავშვი</ConventChild16.title>
+  <ConventChild16.titleShort>უკანონო</ConventChild16.titleShort>
+  <MedievalLordling19.description>[PAWN_nameDef] was a minor noble in an old kingdom on a medieval world. [PAWN_pronoun] grew up in a manor made of handcut stone, served by servants of the lower classes.\n\nSuch a life teaches no technical skills and instils a lifelong aversion to manual labor - but [PAWN_nameDef] learned early the ways of social manipulation.</MedievalLordling19.description>
+  <MedievalLordling19.title>შუა საუკუნეების ბატონობა</MedievalLordling19.title>
+  <MedievalLordling19.titleFemale>შუა საუკუნეების ქალბატონი</MedievalLordling19.titleFemale>
+  <MedievalLordling19.titleShort>ბატონიშვილი</MedievalLordling19.titleShort>
+  <MedievalLordling19.titleShortFemale>ქალბატონო</MedievalLordling19.titleShortFemale>
+  <MedievalSlave49.description>[PAWN_nameDef] grew up pulling carts and digging holes on a medieval world. Simple manual labor is [PAWN_possessive] oldest companion - along with the master's lash.\n\n[PAWN_pronoun] didn't learn to read until age nine.</MedievalSlave49.description>
+  <MedievalSlave49.title>შუა საუკუნეების მონა</MedievalSlave49.title>
+  <MedievalSlave49.titleShort>მონა</MedievalSlave49.titleShort>
+</LanguageData>

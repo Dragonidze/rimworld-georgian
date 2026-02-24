@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ArrestingCreatesEnemies.helpText>Warning: The person you are trying to arrest may not go quietly.\n\nIf you arrest a non-colonist or a colonist from another faction, their entire faction may become your enemy. \n\nThis arrest has a {0} chance of succeeding, based on the social skill of the arrester.</ArrestingCreatesEnemies.helpText>
+  <ArrestingCreatesEnemies.label>დაკავება აუარესებს ფრაქციის ურთიერთობებს</ArrestingCreatesEnemies.label>
+  <MaxNumberOfPlayerSettlements.helpText>Warning: RimWorld is designed to be played with one player colony at a time. Multiple player colonies are allowed as an experimental testing feature only.\n\nPlaying with multiple colonies will cause gameplay imbalances and split your focus, as well as likely causing performance slowdowns.\n\nWe recommend that you play with the one-colony maximum the game was designed for, at least for your first few games.</MaxNumberOfPlayerSettlements.helpText>
+  <MaxNumberOfPlayerSettlements.label>მოთამაშეთა კოლონიების მაქსიმალური რაოდენობა</MaxNumberOfPlayerSettlements.label>
+  <SteamDeckControlsGame.helpText>დააჭირეთ X-ს არქიტექტურის მენიუს გასახსნელად და {Key:TogglePause} თამაშის დასაპაუზებლად და გასაგრძელებლად. გამოიყენეთ ტრიგერები პირველადი და მეორადი დაწკაპუნებებისთვის. გაადიდეთ და შეამცირეთ და გადაახვიეთ სიებში {Key:MapZoom_In} და {Key:MapZoom_Out}-ით. ხანგრძლივად დააჭირეთ L5 უკანა ღილაკს კამერის სენსორული ეკრანით გადასატანად და მეორადი დაწკაპუნების სიმულაციისთვის.</SteamDeckControlsGame.helpText>
+  <SteamDeckControlsGame.label>ორთქლის გემბანის კონტროლი</SteamDeckControlsGame.label>
+  <SteamDeckControlsMainMenu.helpText>გამოიყენეთ ტრეკიდი კურსორის გადასატანად და მარჯვენა ტრიგერის ღილაკი დასაწკაპუნებლად. დააჭირეთ {Key:Accept} დასათანხმებლად და {Key:Cancel} დასაბრუნებლად.</SteamDeckControlsMainMenu.helpText>
+  <SteamDeckControlsMainMenu.label>ორთქლის გემბანის კონტროლი</SteamDeckControlsMainMenu.label>
+  <SwitchFlickingDesignation.helpText>Note: This only designates that a colonist should flick the switch.\n\nNothing will actually happen until a colonist comes and flicks the switch by hand.</SwitchFlickingDesignation.helpText>
+  <SwitchFlickingDesignation.label>Flick აღნიშვნები მხოლოდ მიუთითებს</SwitchFlickingDesignation.label>
+  <TradeGoodsMustBeNearBeacon.helpText>ორბიტალური ტრეიდერებისთვის ნივთების ან ვერცხლის გასაგზავნად, თქვენ უნდა ააწყოთ ORBITAL TRADE BEACON და მოათავსოთ ნივთების მარაგი მის მახლობლად.</TradeGoodsMustBeNearBeacon.helpText>
+  <TradeGoodsMustBeNearBeacon.label>ვაჭრობის საქონელი და სავაჭრო შუქურები</TradeGoodsMustBeNearBeacon.label>
+  <TradingRequiresPermit.helpText>Trading here requires the title of {0}.\n\nEnsure any trade caravan you send has someone with the title of {0} or higher.</TradingRequiresPermit.helpText>
+  <TradingRequiresPermit.label>ვაჭრობის ნებართვის მოთხოვნები</TradingRequiresPermit.label>
+</LanguageData>

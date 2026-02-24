@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Alerts.helpText>The alerts at the right edge of the screen tell you about issues that need your attention.\n\nKeep an eye on the alerts.</Alerts.helpText>
+  <Alerts.label>გაფრთხილებები</Alerts.label>
+  <AllowedAreas.helpText>Colonists and colony animals can be assigned to ALLOWED AREAS. This forbids them from taking destinations outside their allowed area.\n\nThis can be used to, for example, forbid colonists from going outside.\n\nYou can create multiple allowed areas and assign them to different colonists and animals.\n\nCreate, delete, and assign allowed areas in the SCHEDULE tab.\n\nPaint allowed areas onto the map using the EXPAND ALLOWED AREA and CLEAR ALLOWED AREA designators in the Architect tab.</AllowedAreas.helpText>
+  <AllowedAreas.label>დაშვებული ადგილები</AllowedAreas.label>
+  <AnimalTaming.helpText>You can assign colonists to tame a wild animal with the TAME designator.\n\nColonists will offer the animal food and attempt to tame it.\n\nBeware: Some animals can respond violently to failed taming attempts.</AnimalTaming.helpText>
+  <AnimalTaming.label>ცხოველთა მოთვინიერება</AnimalTaming.label>
+  <AnimalTraining.helpText>You can assign a tame animal to be trained in specific skills on its TRAINING tab or on the ANIMALS tab.\n\nAnimals can't be trained continuously; they need time between training sessions.</AnimalTraining.helpText>
+  <AnimalTraining.label>ცხოველთა წვრთნა</AnimalTraining.label>
+  <CameraDolly.helpText>ამოძრავეთ კამერა მაუსის ღილაკზე 3 (შუა ღილაკი) ან {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} ღილაკზე დაწკაპუნებით და გადაადგილებით.</CameraDolly.helpText>
+  <CameraDolly.label>კამერა დოლი</CameraDolly.label>
+  <CameraZoom.helpText>მასშტაბირება და შემცირება MOUSEWHEEL ან {Key:MapZoom_In} და {Key:MapZoom_Out} ღილაკებით.</CameraZoom.helpText>
+  <CameraZoom.label>კამერის ზუმი</CameraZoom.label>
+  <ClickingMessages.helpText>თქვენ შეგიძლიათ დააწკაპუნოთ შეტყობინებებზე ეკრანის ზედა მარცხენა მხარეს, რათა მყისიერად მოაწყოთ კამერა მათ საგანზე.</ClickingMessages.helpText>
+  <ClickingMessages.label>შეტყობინებების დაწკაპუნება</ClickingMessages.label>
+  <CoverAndShooting.helpText>The most important thing to do in ranged combat is to use cover.\n\nCover only works if your colonist is touching it, and it is between your colonist and the enemy.\n\nYou can also place colonists behind wall corners. They will lean out to shoot.\n\nMost things can be used as cover, but some things are better than others. Hiding behind a tree is better than nothing, but hiding behind sandbags is better than using a tree.</CoverAndShooting.helpText>
+  <CoverAndShooting.label>საფარი და სროლა</CoverAndShooting.label>
+  <Deterioration.helpText>Items left outdoors will slowly deteriorate.\n\nIf you want to store items long-term, keep them in a roofed room.</Deterioration.helpText>
+  <Deterioration.label>ნივთის გაუარესება</Deterioration.label>
+  <EquippingWeapons.helpText>Your colonists arrived with some weapons. Equip them!\n\nSelect each colonist and right-click on the weapon you want them to equip.</EquippingWeapons.helpText>
+  <EquippingWeapons.label>იარაღის აღჭურვა</EquippingWeapons.label>
+  <FirePreparation.helpText>Fires can easily burn down a colony. To defeat them, you must prepare before they happen.
+\nThese design elements can help reduce the damage from fires:
+\n1. Instead of constructing one super-building, build separate buildings with spaces in between.
+\n2. Use less flammable materials. Wood is cheap and fast - but very flammable.
+\n3. Build firebreaks to stop wildfires approaching your base. A strip of concrete floor 3 or 4 cells wide will generally stop an advancing fire.</FirePreparation.helpText>
+  <FirePreparation.label>ცეცხლის მომზადება</FirePreparation.label>
+  <Forbidding.helpText>Colonists will not interact with items marked FORBIDDEN.\n\nForbidden items have a small red X attached. Select a forbidden item and use the controls at the bottom to ALLOW it.</Forbidding.helpText>
+  <Forbidding.label>აკრძალეთ და დაუშვით</Forbidding.label>
+  <ForbiddingDoors.helpText>You can FORBID doors so colonists and tame animals won't go through them.\n\nNote that this isn't a door lock. Doors are always locked, so enemies can't pass freely. Forbidding just directs your colonists not to use the door. Colonists who are going crazy might use the door anyway.</ForbiddingDoors.helpText>
+  <ForbiddingDoors.label>აკრძალული კარები</ForbiddingDoors.label>
+  <FormCaravan.helpText>You can form a caravan to send groups of people traveling across the planet!\n\nIn the WORLD tab, select your home base and click the "form caravan" button.</FormCaravan.helpText>
+  <FormCaravan.label>ქარავნების ფორმირება</FormCaravan.label>
+  <FriendlyFireSafety.helpText>Friendly fire never occurs if the shooter is close to their ally.\n\nFor example, you can safely put a sword-wielding colonist directly in front of a gun-wielding one. The shooter will fire over their friend's shoulder.\n\nThis is a good way to combine ranged and melee fighters.</FriendlyFireSafety.helpText>
+  <FriendlyFireSafety.label>მეგობრული სახანძრო უსაფრთხოება</FriendlyFireSafety.label>
+  <GettingMoreTraders.helpText>More trader caravans will come to visit you if you're allied with more factions.\n\nIf you have no allies, no caravans will ever visit!\n\nYou can also pay allies to send trade caravans by calling them on the comms console.</GettingMoreTraders.helpText>
+  <GettingMoreTraders.label>მეტი ტრეიდერის მიღება</GettingMoreTraders.label>
+  <GrowingFood.helpText>To grow food, place GROWING ZONES using the Architect menu.\n\nThey can only be placed on fertile ground.</GrowingFood.helpText>
+  <GrowingFood.label>მზარდი ზონები</GrowingFood.label>
+  <HistoryTab.helpText>თქვენ შეგიძლიათ იხილოთ თქვენი კოლონიის ბედის ჩანაწერი დროთა განმავლობაში HISTORY ჩანართზე ეკრანის ბოლოში.</HistoryTab.helpText>
+  <HistoryTab.label>ისტორიის ჩანართი</HistoryTab.label>
+  <HomeArea.helpText>The HOME AREA tells your colonists which area to clean and where to extinguish fires.\n\nDefine the HOME AREA with the Zones category under the Architect menu.</HomeArea.helpText>
+  <HomeArea.label>სახლის ტერიტორია</HomeArea.label>
+  <HostilityResponse.helpText>You can configure how colonists should automatically respond to threats like predatory animals.\n\nChoose from FLEE, ATTACK, and IGNORE modes in the ASSIGN menu.</HostilityResponse.helpText>
+  <HostilityResponse.label>მტრული რეაგირების რეჟიმები</HostilityResponse.label>
+  <InfoCard.helpText>The info card shows you detailed statistics about any item, person, or construction.\n\nSelect a person or item and open their info card with the 'i' button on the inspect pane.</InfoCard.helpText>
+  <InfoCard.label>საინფორმაციო ბარათი</InfoCard.label>
+  <ManualWorkPriorities.helpText>One of the most important parts of RimWorld is choosing good work settings for your colonists.\n\nPoor work settings can leave essential work unfinished for a long time while colonists waste time on unimportant tasks.\n\nTo give more control over what work colonists do, you can use the Manual Priorities mode in the WORK tab.\n\nIn this mode, each colonist has a priority number for each work type. Colonists will do priority 1 work from left to right, then priority 2 work from left to right, and so on.\n\nIntelligent use of these setting is essential for a large, well-automated colony.</ManualWorkPriorities.helpText>
+  <ManualWorkPriorities.label>ხელით მუშაობის პრიორიტეტები</ManualWorkPriorities.label>
+  <MedicalOperations.helpText>სამედიცინო ოპერაციის დასანიშნად, როგორიცაა ორგანოს აღება ან პროთეზირების ინსტალაცია, გახსენით კოლონისტის ჯანმრთელობის ჩანართი, შემდეგ გადადით ოპერაციების ქვეჩანართზე.</MedicalOperations.helpText>
+  <MedicalOperations.label>სამედიცინო ოპერაციები</MedicalOperations.label>
+  <Mining.helpText>You can designate where to mine by opening the ARCHITECT menu and selecting the ORDERS tab.\n\nSome mineable blocks yield STEEL, GOLD, PLASTEEL, and other useful materials.</Mining.helpText>
+  <Mining.label>მაინინგი</Mining.label>
+  <Outfits.helpText>Colonists will automatically try to wear the newest, highest-quality apparel they can.\n\nYou don't need to manually assign each piece of apparel to colonists (though you can, if you wish).\n\nTo assign colonists restrictions on how to dress, open the ASSIGN tab, use the "Manage apparel policies" dialog box to design a new outfit, and then assign the outfit to colonists.</Outfits.helpText>
+  <Outfits.label>კოსტიუმები</Outfits.label>
+  <Pause.helpText>Hit {Key:TogglePause} to pause or unpause the game.\n\nYou can give orders while paused.\n\nRemember this - if things get hectic, just hit {Key:TogglePause}!</Pause.helpText>
+  <Pause.label>პაუზა</Pause.label>
+  <ShotAccuracyTooltip.helpText>You can see the exact calculations behind the accuracy of any shot.\n\nTo do so, select the shooter, then rest the mouse over the target. The tooltip will show the chance to hit, and a breakdown of the contribution of various to-hit chance multipliers.</ShotAccuracyTooltip.helpText>
+  <ShotAccuracyTooltip.label>მინიშნება სროლის სიზუსტის შესახებ</ShotAccuracyTooltip.label>
+  <SpoilageAndFreezers.helpText>Most foodstuffs will spoil after a relatively short time.\n\nTo prevent this, you can build a walk-in freezer.\n\nTo build a freezer, construct a closed room, and put one or two coolers into the wall. Set the coolers to a negative target temperature.\n\nFrozen foods won't ever spoil.</SpoilageAndFreezers.helpText>
+  <SpoilageAndFreezers.label>გაფუჭება და საყინულეები</SpoilageAndFreezers.label>
+  <Stockpiles.helpText>Your colonists need somewhere to store items. Designate a STOCKPILE for them to store things.\n\nFind the stockpile in the ZONES section of the ARCHITECT menu in the lower-left.</Stockpiles.helpText>
+  <Stockpiles.label>მარაგები</Stockpiles.label>
+  <StorageTab.helpText>You can configure stockpiles and storage buildings by selecting them and opening the STORAGE TAB above the bottom-left inspector pane.\n\nIn the storage tab of a stockpile, you can expand categories to allow or deny specific items. Click the triangles to the left of category names.\n\nYou can change the PRIORITY of storage. Colonists will fill higher-priority storage first, and move items from lower to higher priority.</StorageTab.helpText>
+  <StorageTab.label>შენახვის ჩანართი</StorageTab.label>
+  <TileInspector.helpText>შეგიძლიათ დაათვალიეროთ კრამიტის დეტალები {Key:ShowCellInspector}-ის დაჭერით. ეს აჩვენებს კრამიტის შინაარსს, ოთახის ინფორმაციას, სილამაზის ინფორმაციას და სხვა.</TileInspector.helpText>
+  <TileInspector.label>კრამიტის ინსპექტორი</TileInspector.label>
+  <TimeAssignments.helpText>თქვენ შეგიძლიათ შეცვალოთ დღის რომელი დრო უნდა გააკეთონ კოლონისტებმა სხვადასხვა აქტივობები განრიგის ჩანართის გამოყენებით.</TimeAssignments.helpText>
+  <TimeAssignments.label>დროის დავალებები</TimeAssignments.label>
+  <TimeControls.helpText>You can speed up time.\n\nTry controlling time with the {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, and {Key:TimeSpeed_Superfast} keys, or with the time controls in the bottom right.</TimeControls.helpText>
+  <TimeControls.label>დროის კონტროლი</TimeControls.label>
+  <WorkTab.helpText>You can set each colonist's work settings in the WORK tab at the bottom left of the screen.\n\nThey will always do the highest priority work that they can find.\n\nIf nobody has a certain work type assigned, or if they are busy with higher-priority tasks, it will never get done.</WorkTab.helpText>
+  <WorkTab.label>სამუშაო პარამეტრები</WorkTab.label>
+</LanguageData>

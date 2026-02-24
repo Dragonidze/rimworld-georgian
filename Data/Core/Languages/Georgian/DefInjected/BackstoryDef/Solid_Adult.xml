@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AceFighterPilot54.description>[PAWN_nameDef] graduated from the Star Academy with honors and distinguished [PAWN_objective]self as an ace fighter pilot in three campaigns against more advanced aggressor cultures.\n\nHowever, after one vicious battle, [PAWN_pronoun] found [PAWN_objective]self stranded and [PAWN_possessive] carrier ship destroyed. With nowhere to go, [PAWN_pronoun] entered [PAWN_possessive] escape pod and prayed.</AceFighterPilot54.description>
+  <AceFighterPilot54.title>ასის მოიერიშე პილოტი</AceFighterPilot54.title>
+  <AceFighterPilot54.titleShort>ტუზი</AceFighterPilot54.titleShort>
+  <AcolyteOfStars6.description>Ever the dreamer, [PAWN_nameDef] traveled across the universe to find the thing [PAWN_pronoun] felt was calling to him.\n\n[PAWN_pronoun] became poorer and poorer, but used every means possible to carry on.</AcolyteOfStars6.description>
+  <AcolyteOfStars6.title>ვარსკვლავების თანამოაზრე</AcolyteOfStars6.title>
+  <AcolyteOfStars6.titleShort>მღვდელი</AcolyteOfStars6.titleShort>
+  <AddictionCounsel60.description>After recovering from a joywire addiction, [PAWN_nameDef] adopted a non-violent way of life and vowed to help others.\n\nTravelling between communities, [PAWN_pronoun] used medicine, arts, and crafts to aid others who struggled with their own addictions.</AddictionCounsel60.description>
+  <AddictionCounsel60.title>მრჩეველი</AddictionCounsel60.title>
+  <AddictionCounsel60.titleShort>მრჩეველი</AddictionCounsel60.titleShort>
+  <Adventurer19.description>[PAWN_nameDef]'s thirst for adventure took [PAWN_objective] to many planets. [PAWN_pronoun] visited the brightest glitterworlds and the darkest war-torn toxic planets in [PAWN_possessive] quest to find novelty and excitement.\n\n[PAWN_pronoun] worked as little as possible, often skirting ethical boundaries to make a quick buck. Among all jobs, [PAWN_pronoun] hated cooking the most.</Adventurer19.description>
+  <Adventurer19.title>ავანტიურისტი</Adventurer19.title>
+  <Adventurer19.titleShort>ავანტიურისტი</Adventurer19.titleShort>
+  <AdventurousWeirdo55.description>A creative but strange individual, [PAWN_nameDef] dedicated [PAWN_possessive] life to [PAWN_possessive] twin passions of medieval world history and high technology.\n\n[PAWN_pronoun] was fascinated by the idea of becoming a 'skyknight' with glittering armor and a giant sword.</AdventurousWeirdo55.description>
+  <AdventurousWeirdo55.title>სათავგადასავლო უცნაურობა</AdventurousWeirdo55.title>
+  <AdventurousWeirdo55.titleShort>უცნაური</AdventurousWeirdo55.titleShort>
+  <AerospaceEngineer44.description>[PAWN_nameDef] იყო ინჟინერი, რომელიც პასუხისმგებელი იყო თვითმფრინავებისა და კოსმოსური ხომალდების წარმოებაზე. [PAWN_pronoun] ორიენტირებული იყო საწარმოო ხაზების გაუმჯობესებაზე და ცნობილი იყო ტექნიკური და კვლევითი საკითხების [PAWN_possessive] ოსტატობით.</AerospaceEngineer44.description>
+  <AerospaceEngineer44.title>კოსმოსური ინჟინერი</AerospaceEngineer44.title>
+  <AerospaceEngineer44.titleShort>ინჟინერი</AerospaceEngineer44.titleShort>
+  <AIProgrammer22.description>[PAWN_nameDef] enlisted in the military's robotics division, developing smarter combat AI.\n\nThe whole time [PAWN_pronoun] was there, [PAWN_pronoun] never spoke with another human. [PAWN_pronoun] spent all [PAWN_possessive] time conversing with the AI [PAWN_pronoun] was developing.</AIProgrammer22.description>
+  <AIProgrammer22.title>AI პროგრამისტი</AIProgrammer22.title>
+  <AIProgrammer22.titleShort>პროგრამისტი</AIProgrammer22.titleShort>
+  <AIResearcher94.description>[PAWN_nameDef] იყო ცნობილი მკვლევარი ხელოვნური ინტელექტის, რობოტიკისა და ინტერაქტიული ჰოლოგრაფიის სფეროში. [PAWN_possessive] მეგობრობამ შექმნილ ხელოვნურ გონებასთან [PAWN_pronoun] მისცა [PAWN_objective] თავდაჯერებულობა რეალურ ადამიანებთან ურთიერთობისთვის და [PAWN_pronoun] მალევე გამოირჩეოდა პირადი კომუნიკაციით.</AIResearcher94.description>
+  <AIResearcher94.title>ხელოვნური ინტელექტის მკვლევარი</AIResearcher94.title>
+  <AIResearcher94.titleShort>მკვლევარი</AIResearcher94.titleShort>
+  <AlcoholicTrucker93.description>[PAWN_nameDef] was a space trucker working for Arcknight Industries when [PAWN_pronoun] killed [PAWN_possessive] wife and daughter in a crash.\n\n[PAWN_possessive] body was repaired with an experimental nano-genetic therapy. Now [PAWN_possessive] muscles continually regenerate and harden, and every movement tears the tissue anew. [PAWN_pronoun] bears the pain in silence.</AlcoholicTrucker93.description>
+  <AlcoholicTrucker93.title>ალკოჰოლური სატვირთო მანქანა</AlcoholicTrucker93.title>
+  <AlcoholicTrucker93.titleShort>ალკოჰოლური</AlcoholicTrucker93.titleShort>
+  <AnarchistRebel77.description>After being abandoned on a special operation, [PAWN_nameDef] swore vengeance upon the state. [PAWN_pronoun] formed an anarchist group dedicated to bringing down coreworld governments.\n\nAfter too many close calls, and too few successes, [PAWN_nameDef] fled to the outer rim.</AnarchistRebel77.description>
+  <AnarchistRebel77.title>ანარქისტი მეამბოხე</AnarchistRebel77.title>
+  <AnarchistRebel77.titleShort>ანარქისტი</AnarchistRebel77.titleShort>
+  <Archaeologist85.description>[PAWN_pronoun] was trapped in an uninspired life. One day, [PAWN_pronoun] jumped on a ship to learn archaeology and see the universe.\n\n[PAWN_pronoun] learned how to survive. [PAWN_pronoun] also learned about people - although [PAWN_pronoun] understood the dead better than the living.</Archaeologist85.description>
+  <Archaeologist85.title>არქეოლოგი</Archaeologist85.title>
+  <Archaeologist85.titleShort>მკვლევარი</Archaeologist85.titleShort>
+  <ArchotechSpy75.description>[PAWN_nameDef] researched archotech intelligences.\n\nStudying a mysterious archotechnological object from orbit, [PAWN_pronoun] became convinced that it was communicating directly with [PAWN_objective]. Eventually [PAWN_possessive] colleagues caught [PAWN_objective] transmitting secret information directed towards the dark sphere, and he was forced to flee.</ArchotechSpy75.description>
+  <ArchotechSpy75.title>არქოტექნიკის მკვლევარი</ArchotechSpy75.title>
+  <ArchotechSpy75.titleShort>მკვლევარი</ArchotechSpy75.titleShort>
+  <ArmyCook0.description>[PAWN_nameDef] შეუერთდა ჯარს, როგორც მუშა და [PAWN_possessive] დროის უმეტეს ნაწილს საჭმლის მომზადებასა და შეკეთებაში ატარებდა. სანამ [PAWN_pronoun] განლაგებული იყო საშიშ პლანეტაზე, [PAWN_pronoun] გაიარა სროლისა და გადარჩენის ძირითადი ტრენინგი.</ArmyCook0.description>
+  <ArmyCook0.title>ჯარის მზარეული</ArmyCook0.title>
+  <ArmyCook0.titleShort>მზარეული</ArmyCook0.titleShort>
+  <ArmyScientist35.description>[PAWN_nameDef]-მა ჩაატარა სამეცნიერო კვლევა პლანეტარული არმიისთვის. [PAWN_pronoun] შეისწავლა ომის სცენარები და შეიმუშავა იარაღის სისტემები, რათა დაეხმაროს ბრძოლების მოგებაში მინიმალური აურზაურით.</ArmyScientist35.description>
+  <ArmyScientist35.title>არმიის მეცნიერი</ArmyScientist35.title>
+  <ArmyScientist35.titleShort>მეცნიერი</ArmyScientist35.titleShort>
+  <ArmySergeant16.description>[PAWN_nameDef] served in [PAWN_possessive] country's military, commanding small units as a non-commissioned officer.\n\n[PAWN_pronoun] excelled creating tactically sound plans despite difficult circumstances.</ArmySergeant16.description>
+  <ArmySergeant16.title>ჯარის სერჟანტი</ArmySergeant16.title>
+  <ArmySergeant16.titleShort>სერჟანტი</ArmySergeant16.titleShort>
+  <Aromatherapist80.description>[PAWN_nameDef] არომათერაპიას იყენებდა სახლში მოყვანილი მცენარეებიდან მოპოვებული ესენციებით.</Aromatherapist80.description>
+  <Aromatherapist80.title>არომათერაპევტი</Aromatherapist80.title>
+  <Aromatherapist80.titleShort>თერაპევტი</Aromatherapist80.titleShort>
+  <ArtifactHunter48.description>[PAWN_nameDef] became depressed and lost interest in life. [PAWN_pronoun] traveled from planet to planet, searching for psychic artifacts amid mechanoid ruins in the hope that they would cure the pain in [PAWN_possessive] soul.\n\nA steady trigger finger and careful planning kept [PAWN_nameDef] alive.</ArtifactHunter48.description>
+  <ArtifactHunter48.title>არტეფაქტებზე მონადირე</ArtifactHunter48.title>
+  <ArtifactHunter48.titleShort>არტეფაქტორი</ArtifactHunter48.titleShort>
+  <ArtificerRampant95.description>Fuelled by the thrill of discovery and [PAWN_possessive] own megalomania, [PAWN_nameDef] set out to invent new devices and improve existing ones, breaking laws and customs as necessary.\n\n[PAWN_pronoun] formed a crew to gather materials for [PAWN_possessive] work - and to deal with outsiders who might interfere.</ArtificerRampant95.description>
+  <ArtificerRampant95.title>ხელოვნური ყოვლისმომცველი</ArtificerRampant95.title>
+  <ArtificerRampant95.titleShort>ხელოსანი</ArtificerRampant95.titleShort>
+  <ArtStudent79.description>წლების პრაქტიკის შემდეგ, ფრეამ შეძლო ჩაებარებინა ხელოვნების უნივერსიტეტში და უნარ-ჩვევები უფრო შორს წაეყვანა. იგი ცდილობდა ხელოვნების ინდუსტრიაში მუშაობას კარგი ქულების დამთავრების შემდეგ. მან გარკვეული პროგრესი მიაღწია კერძო კომისიებთან და შეძლო ღირსეული ცხოვრების გამომუშავება გულიდან.</ArtStudent79.description>
+  <ArtStudent79.title>ხელოვნების სტუდენტი</ArtStudent79.title>
+  <ArtStudent79.titleShort>მხატვარი</ArtStudent79.titleShort>
+  <Assassin7.description>[PAWN_nameDef] was specially trained as an operative to be used for high-risk assassinations. [PAWN_possessive] skill with a rifle was unrivalled.\n\n[PAWN_pronoun] was eventually betrayed by [PAWN_possessive] superiors when a target found out about the hit and offered to fund their future projects. [PAWN_nameDef] swore to never trust anyone again.</Assassin7.description>
+  <Assassin7.title>მკვლელი</Assassin7.title>
+  <Assassin7.titleShort>მკვლელი</Assassin7.titleShort>
+  <AWOLSoldier49.description>[PAWN_nameDef] იყო ქვეითი. როდესაც [PAWN_pronoun] შეატყობინეს [PAWN_possessive] დავალების შესახებ ქსენოა-ზარცას ომში, [PAWN_pronoun] გადაწყვიტა [PAWN_pronoun] არ სურდა ჯარისკაცი ყოფილიყო. [PAWN_pronoun]-მა შეძლო გაქცევა სამხედრო კოსმოსური თვითმფრინავით.</AWOLSoldier49.description>
+  <AWOLSoldier49.title>AWOL ჯარისკაცი</AWOLSoldier49.title>
+  <AWOLSoldier49.titleShort>ჯარისკაცი</AWOLSoldier49.titleShort>
+  <BanditLeader74.description>[PAWN_nameDef] ამაღლდა დანაშაულებრივი ორგანიზაციის რიგებში, საბოლოოდ გახდა მათი ბანდიტების ერთ-ერთი ყველაზე შორეული უჯრედის ლიდერი. [PAWN_possessive] ძაღლი დასვენება არასოდეს ტოვებდა [PAWN_possessive] მხარეს.</BanditLeader74.description>
+  <BanditLeader74.title>ბანდიტის ლიდერი</BanditLeader74.title>
+  <BanditLeader74.titleShort>ბანდიტი</BanditLeader74.titleShort>
+  <BanishedSoldier85.description>[PAWN_nameDef] became the most physically intimidating of the slaves, spending [PAWN_possessive] little free time obsessively sculpting [PAWN_possessive] body. [PAWN_possessive] efforts eventually paid off when the lord offered [PAWN_objective] a job as a personal bodyguard.\n\nLater, when [PAWN_pronoun] plotted to use [PAWN_possessive] position to kill the lord and free the slaves, [PAWN_pronoun] was discovered and barely escaped with [PAWN_possessive] life.</BanishedSoldier85.description>
+  <BanishedSoldier85.title>განდევნილი ჯარისკაცი</BanishedSoldier85.title>
+  <BanishedSoldier85.titleShort>უკანონო</BanishedSoldier85.titleShort>
+  <BattlefieldTech52.description>[PAWN_nameDef] had received firearms training, but [PAWN_possessive] work was focused on technical adaptation and manipulation of combat mechanoids on the battlefield.\n\n[PAWN_pronoun] developed PTSD after narrowly escaping a primitive firebomb attack in a wheat field. The army medically discharged [PAWN_objective] from service.</BattlefieldTech52.description>
+  <BattlefieldTech52.title>ბრძოლის ველის ტექნიკა</BattlefieldTech52.title>
+  <BattlefieldTech52.titleShort>ტექნიკოსი</BattlefieldTech52.titleShort>
+  <BattleMechanic27.description>[PAWN_nameDef] was a tech-obsessed mercenary in an early fusion-era system.\n\n[PAWN_pronoun] was unusually obsessed with gathering the right gear, and often customized [PAWN_possessive] own equipment with original modifications.</BattleMechanic27.description>
+  <BattleMechanic27.title>საბრძოლო მექანიკოსი</BattleMechanic27.title>
+  <BattleMechanic27.titleShort>მექანიკოსი</BattleMechanic27.titleShort>
+  <BeastSlayer67.description>[PAWN_nameDef] traveled between planets, following news of animal attacks. [PAWN_pronoun] would camp on the planet for weeks, learning about [PAWN_possessive] prey before striking. [PAWN_pronoun] most enjoyed hunting thrumbos.\n\nPreferring to work alone, [PAWN_nameDef] enjoyed the thrill of the hunt, and the meat from the kill.</BeastSlayer67.description>
+  <BeastSlayer67.title>მხეცის მკვლელი</BeastSlayer67.title>
+  <BeastSlayer67.titleShort>მკვლელი</BeastSlayer67.titleShort>
+  <BehaviourResearch74.description>Captured as a feral child, [PAWN_nameDef] was forced into the ways of modern society. [PAWN_pronoun] quickly adapted and became a behavioural researcher, eventually owning a private facility.\n\n[PAWN_pronoun] specialized in canines, but learned a great deal about all animals. [PAWN_pronoun] never had interest in plants, however.</BehaviourResearch74.description>
+  <BehaviourResearch74.title>ქცევის კვლევა</BehaviourResearch74.title>
+  <BehaviourResearch74.titleShort>მეცნიერი</BehaviourResearch74.titleShort>
+  <Blacksmith7.description>როგორც მჭედელმა შუა საუკუნეების სამყაროში, [PAWN_nameDef]-მა მოიპოვა რეპუტაცია [PAWN_possessive] სამუშაოს მაღალი ხარისხის გამო. [PAWN_pronoun] ასევე არ იყო ცუდი ხმლების გამოყენებაში [PAWN_pronoun] გაყალბებული.</Blacksmith7.description>
+  <Blacksmith7.title>მჭედელი</Blacksmith7.title>
+  <Blacksmith7.titleShort>მჭედელი</Blacksmith7.titleShort>
+  <BlacksmithShooter21.description>As a young blacksmith, [PAWN_nameDef]'s family shop was raided by the police. [PAWN_pronoun] shot two officers before they knocked [PAWN_objective] out and arrested him.\n\nSentenced to life in prison, [PAWN_nameDef] learned about traveling and raiding from other criminals.</BlacksmithShooter21.description>
+  <BlacksmithShooter21.title>მჭედელი მსროლელი</BlacksmithShooter21.title>
+  <BlacksmithShooter21.titleShort>მეიარაღე</BlacksmithShooter21.titleShort>
+  <BloodgameSurvivor6.description>[PAWN_nameDef] გაიყიდა Corestars Entertainment Company-ს და გამოიყენებოდა როგორც ხორცი კომპანიის ერთ-ერთ სამაუწყებლო შოუში.
+ 
+[PAWN_possessive] მანიპულაციურმა ბუნებამ [PAWN_objective] საკმაოდ კოშმარად აქცია აუდიტორიისთვისაც კი. [PAWN_pronoun] გააძევეს და გადაასახლეს სასიკვდილო ცხოველებით, დამნაშავეებითა და შეიარაღებული კამერა-დრონებით სავსე პლანეტაზე.</BloodgameSurvivor6.description>
+  <BloodgameSurvivor6.title>სისხლის თამაშის გადარჩენილი</BloodgameSurvivor6.title>
+  <BloodgameSurvivor6.titleShort>სისხლისმთამაშებელი</BloodgameSurvivor6.titleShort>
+  <BloodyDentist9.description>After studying at a famous college, [PAWN_nameDef]'s weak personality eventually snapped under the strain of angry administrators and whining patients. [PAWN_pronoun] went on a secret murder spree, killing many of those under [PAWN_possessive] care.\n\nAfter a pursuit, [PAWN_pronoun] managed to escape [PAWN_possessive] planet and travel to a new world.</BloodyDentist9.description>
+  <BloodyDentist9.title>სისხლიანი სტომატოლოგი</BloodyDentist9.title>
+  <BloodyDentist9.titleShort>სტომატოლოგი</BloodyDentist9.titleShort>
+  <BloodyWanderer28.description>[PAWN_nameDef] was a wanderer, traveling from town to town, taking odd jobs and stealing to live.\n\nOne day, [PAWN_pronoun] had a mental break and went on a long rampage, destroying several towns and killing many. [PAWN_pronoun] eventually calmed, but [PAWN_possessive] bloodlust never left [PAWN_objective].</BloodyWanderer28.description>
+  <BloodyWanderer28.title>სისხლიანი მოხეტიალე</BloodyWanderer28.title>
+  <BloodyWanderer28.titleShort>მოხეტიალე</BloodyWanderer28.titleShort>
+  <BountyHunter17.description>[PAWN_nameDef] იყო თვითდასაქმებული ბონუსებზე მონადირე. [PAWN_pronoun] გაატარა [PAWN_possessive] დღეები კოსმოსურ მეკობრეებზე ნადირობაში და ფულადი ჯილდოების შეგროვებაში.</BountyHunter17.description>
+  <BountyHunter17.title>ნადირობაზე მონადირე</BountyHunter17.title>
+  <BountyHunter17.titleShort>მონადირე</BountyHunter17.titleShort>
+  <BountyHunter41.description>[PAWN_nameDef] იყო ნადირობაზე მონადირე უზარმაზარ ბრჭყვიალა სამყაროზე. [PAWN_pronoun] მუშაობდა სენსიტიურ დავალებებს უკიდურესად მდიდარი კლიენტებისთვის და ცნობილი იყო მშვიდი შესრულებისა და სრული შეხედულებისამებრ.</BountyHunter41.description>
+  <BountyHunter41.title>ნადირობაზე მონადირე</BountyHunter41.title>
+  <BountyHunter41.titleShort>მონადირე</BountyHunter41.titleShort>
+  <BountyHunter93.description>როდესაც სამოქალაქო ომი დასრულდა, [PAWN_nameDef]-ს უნდა ეპოვა ახალი გზა, რათა გამოეყენებინა [PAWN_possessive] საბრძოლო უნარები. [PAWN_pronoun]-მა გადაწყვიტა დაედევნა ომის დამნაშავეები და მალევე მიხვდა, რომ [PAWN_pronoun] სიამოვნებდა ბოროტი ბიჭების დაჭერა ყველა საჭირო საშუალებით.</BountyHunter93.description>
+  <BountyHunter93.title>ნადირობაზე მონადირე</BountyHunter93.title>
+  <BountyHunter93.titleShort>მონადირე</BountyHunter93.titleShort>
+  <Brigand68.description>[PAWN_nameDef] გაფრინდა ყაჩაღების ჯგუფთან ერთად [PAWN_pronoun], რომელსაც მეგობრები ეძახდნენ. [PAWN_pronoun] კი ჰყავდა საკუთარი [PAWN_possessive] გემი - The Dung Mucker 2000.</Brigand68.description>
+  <Brigand68.title>ყაჩაღი</Brigand68.title>
+  <Brigand68.titleShort>ყაჩაღი</Brigand68.titleShort>
+  <BushSniper94.description>[PAWN_nameDef]'s peaceful life was cut short when [PAWN_possessive] country was brutally invaded.\n\n[PAWN_nameDef] was drafted into service as soon as [PAWN_pronoun] was of legal age, and quickly showed an aptitude for rifles. [PAWN_pronoun] spent months living in the forests picking off soldiers who dared cross the border.</BushSniper94.description>
+  <BushSniper94.title>ბუჩქის სნაიპერი</BushSniper94.title>
+  <BushSniper94.titleShort>სნაიპერი</BushSniper94.titleShort>
+  <BusinessGangster58.description>კანონთან ერთი ნაბიჯით წინ დგომით, [PAWN_nameDef] ლეგიტიმური ბიზნესმენი გახდა და გააჩუმა ყველას, ვინც სხვაგვარად თქვას. როგორც ბორდელების, სპიკერების და სასადილოების მფლობელი, [PAWN_nameDef]-ის კეთილდღეობა გაგრძელდა, ხოლო [PAWN_possessive] კონკურენცია განიცადა სამწუხარო და აუხსნელი უბედური შემთხვევების სერია.</BusinessGangster58.description>
+  <BusinessGangster58.title>ბიზნეს განგსტერი</BusinessGangster58.title>
+  <BusinessGangster58.titleShort>განგსტერი</BusinessGangster58.titleShort>
+  <Caravaneer53.description>[PAWN_nameDef] was the leader of a caravan. [PAWN_pronoun] was responsible for the safety of [PAWN_possessive] caravan and was the head negotiator in countless trade deals.\n\n[PAWN_pronoun] and [PAWN_possessive] people prospered, but their wealth made them a target for brigands. They often had to take up arms to fend off bandits and highwaymen.</Caravaneer53.description>
+  <Caravaneer53.title>ქარავანი</Caravaneer53.title>
+  <Caravaneer53.titleShort>ქარავანი</Caravaneer53.titleShort>
+  <CargoPilot58.description>[PAWN_nameDef] აღიზარდა სატვირთო ხელებით გრძელვადიანი მადნის ტრანსპორტირების გემზე. [PAWN_pronoun]-მა დაასრულა [PAWN_possessive] უნარები ვაჭრობისა და ადამიანებით მანიპულირების დროს, როდესაც ატარებდა იარაღს სისტემებს შორის.</CargoPilot58.description>
+  <CargoPilot58.title>ტვირთის პილოტი</CargoPilot58.title>
+  <CargoPilot58.titleShort>პილოტი</CargoPilot58.titleShort>
+  <CasketBuilder52.description>[PAWN_nameDef] was fascinated with cryptosleep, and spent [PAWN_possessive] life learning about the mysterious technology.\n\nWorking as an assembler on a midworld, [PAWN_nameDef] built an experimental prototype casket from discarded parts. Unfortunately, while [PAWN_pronoun] was searching for the final component, [PAWN_possessive] home was leveled by a bomb.</CasketBuilder52.description>
+  <CasketBuilder52.title>კუდის მშენებელი</CasketBuilder52.title>
+  <CasketBuilder52.titleShort>მშენებელი</CasketBuilder52.titleShort>
+  <Castaway81.description>[PAWN_nameDef] რუტინული ვარსკვლავთშორისი ტრანზიტის მგზავრი იყო. როდესაც [PAWN_possessive] გემი გაანადგურეს, [PAWN_pronoun] რამდენიმე წლის განმავლობაში ცხოვრობდა როგორც ტყვედ დაუსახლებელ პლანეტაზე.</Castaway81.description>
+  <Castaway81.title>მიჯაჭვული</Castaway81.title>
+  <Castaway81.titleShort>მიჯაჭვული</Castaway81.titleShort>
+  <Chemist73.description>[PAWN_nameDef] იყო მკვლევარი ქიმიკოსი. [PAWN_pronoun] მუშაობდა ქიმიკატებთან, ფარმაცევტული პროდუქტებიდან ფეთქებადი ნივთიერებებით დამთავრებული, ახალი ნივთიერებებისა და სამკურნალო საშუალებების შესაქმნელად.</Chemist73.description>
+  <Chemist73.title>ქიმიკოსი</Chemist73.title>
+  <Chemist73.titleShort>ქიმიკოსი</Chemist73.titleShort>
+  <Chemist78.description>[PAWN_nameDef] was a renowned chemist on a thriving midworld.\n\nAfter performing inhumane experiments that turned men into beasts, [PAWN_pronoun] was arrested and banished to a far-off rimworld.</Chemist78.description>
+  <Chemist78.title>ქიმიკოსი</Chemist78.title>
+  <Chemist78.titleShort>ქიმიკოსი</Chemist78.titleShort>
+  <ChiefEngineer62.description>As chief engineer on board a large spaceship, [PAWN_nameDef] was an expert in all things fiddly and complex.\n\n[PAWN_pronoun] relied on other members of the crew for some of the basic necessities of life. [PAWN_pronoun] and [PAWN_possessive] ship eventually disappeared into a longsleep voyage of exploration.</ChiefEngineer62.description>
+  <ChiefEngineer62.title>მთავარი ინჟინერი</ChiefEngineer62.title>
+  <ChiefEngineer62.titleShort>ინჟინერი</ChiefEngineer62.titleShort>
+  <CivilEngineer2.description>[PAWN_nameDef] ცნობილი სამოქალაქო ინჟინერი იყო. [PAWN_possessive] სამუშაო მოიცავდა კლდის საფორტიფიკაციო სტრუქტურების დიზაინს და შენარჩუნებას. [PAWN_pronoun]-მა ჩაატარა საკმარისი სტატისტიკური ანალიზი, რათა შენარჩუნებულიყო [PAWN_possessive] გონება.</CivilEngineer2.description>
+  <CivilEngineer2.title>სამოქალაქო ინჟინერი</CivilEngineer2.title>
+  <CivilEngineer2.titleShort>ინჟინერი</CivilEngineer2.titleShort>
+  <CivilServant25.description>[PAWN_nameDef] was bureaucrat in the civil service.\n\nAlthough [PAWN_possessive] family connections took [PAWN_objective] far, [PAWN_possessive] vocal opposition to [PAWN_possessive] bosses' plans hindered [PAWN_possessive] advancement. Called a "red prince" by some, [PAWN_nameDef] sympathized with the poor, leading ultimately to disgrace in [PAWN_possessive] career.</CivilServant25.description>
+  <CivilServant25.title>საჯარო მოხელე</CivilServant25.title>
+  <CivilServant25.titleShort>ბიუროკრატი</CivilServant25.titleShort>
+  <ClanChief14.description>[PAWN_nameDef] მართავდა პატარა კრიმინალურ კლანს შორეულ სავაჭრო ცენტრ სამყაროში.</ClanChief14.description>
+  <ClanChief14.title>კლანის უფროსი</ClanChief14.title>
+  <ClanChief14.titleShort>უფროსი</ClanChief14.titleShort>
+  <CloneFarmer58.description>კლონური მეურნეობების პროდუქციის აღებას ძირითადად თავად კლონები ახორციელებენ - განსაკუთრებით მათ, ვისი სიმები მიდრეკილნი არიან სოციალურისკენ. ეს კლონი ერთ-ერთი იყო, რომელიც ფერმებიდან გაიქცა და ვარსკვლავებისკენ გაემართა.</CloneFarmer58.description>
+  <CloneFarmer58.title>კლონი ფერმერი</CloneFarmer58.title>
+  <CloneFarmer58.titleShort>კლონერი</CloneFarmer58.titleShort>
+  <ColiseumFighter22.description>ცოდნის გამოყენებით, რომელიც [PAWN_pronoun] მოიპოვა მებრძოლების გარშემო წლების განმავლობაში, [PAWN_pronoun] გახდა წარმატებული გლადიატორი კოლიზეუმში, რომელიც [PAWN_pronoun] ერთხელ გაასუფთავა.</ColiseumFighter22.description>
+  <ColiseumFighter22.title>კოლიზეუმის მებრძოლი</ColiseumFighter22.title>
+  <ColiseumFighter22.titleShort>მებრძოლი</ColiseumFighter22.titleShort>
+  <ColonialGovernor78.description>Disillusioned by rampant government corruption, [PAWN_nameDef] ran for governor and won. However, the local gangs and their pet officials soon forced [PAWN_objective] out of power.\n\n[PAWN_pronoun] left the community to return to [PAWN_possessive] life as a marshal.</ColonialGovernor78.description>
+  <ColonialGovernor78.title>კოლონიური გუბერნატორი</ColonialGovernor78.title>
+  <ColonialGovernor78.titleShort>გუბერნატორი</ColonialGovernor78.titleShort>
+  <ColonyEngineer7.description>The children took over the facility, and they declared independence from the corporation.\n\n[PAWN_nameDef] had used the VR system to become a master engineer, and [PAWN_pronoun] worked diligently to prepare the colony for the corporation's inevitable return.</ColonyEngineer7.description>
+  <ColonyEngineer7.title>კოლონიის ინჟინერი</ColonyEngineer7.title>
+  <ColonyEngineer7.titleShort>ინჟინერი</ColonyEngineer7.titleShort>
+  <CombatEngineer30.description>[PAWN_nameDef] was recruited by the military as an engineer and set to work improving the navy's space shuttles. The harsh training taught [PAWN_objective] how to build and repair military vehicles and structures.\n\nOne mission left [PAWN_nameDef] with pyrophobia and a strong desire to avoid plants.</CombatEngineer30.description>
+  <CombatEngineer30.title>საბრძოლო ინჟინერი</CombatEngineer30.title>
+  <CombatEngineer30.titleShort>ინჟინერი</CombatEngineer30.titleShort>
+  <CombatEngineer4.description>[PAWN_nameDef] გახდა საბრძოლო ინჟინერი. [PAWN_pronoun] ააშენა ბაზები, დააფიქსირა იარაღი და შეაკეთა მანქანები ჯარისთვის - როდესაც [PAWN_pronoun] არ ისროდა ხალხს, ანუ.</CombatEngineer4.description>
+  <CombatEngineer4.title>საბრძოლო ინჟინერი</CombatEngineer4.title>
+  <CombatEngineer4.titleShort>ინჟინერი</CombatEngineer4.titleShort>
+  <CombatMedic82.description>After [PAWN_possessive] home country entered a large-scale war, [PAWN_nameDef] was drafted into the army as a combat medic.\n\n[PAWN_possessive] few years in the trenches trying to keep [PAWN_possessive] fellow soldiers alive gave [PAWN_objective] an acute sense for first aid. Losing many friend has made [PAWN_objective] stoic and reserved.</CombatMedic82.description>
+  <CombatMedic82.title>საბრძოლო მედიკოსი</CombatMedic82.title>
+  <CombatMedic82.titleShort>მედიკოსი</CombatMedic82.titleShort>
+  <CombatMedtech59.description>As a military medtech, [PAWN_nameDef]'s job was to fix and build anything [PAWN_pronoun] could get [PAWN_possessive] hands on, from living people to machines and mechs.\n\nSent into dangerous areas, [PAWN_pronoun] never had a problem saving soldiers' lives and building the technology and machines needed to win.</CombatMedtech59.description>
+  <CombatMedtech59.title>საბრძოლო მედტექ</CombatMedtech59.title>
+  <CombatMedtech59.titleShort>მედიკოსი</CombatMedtech59.titleShort>
+  <CombatNegotiator31.description>After escaping [PAWN_possessive] homeworld, [PAWN_nameDef] took [PAWN_possessive] skills to the stars.\n\n[PAWN_pronoun] chose to operate as a hired gun, working for various rebel organizations, enslaved groups, and merchant enclaves. [PAWN_possessive] specialty was negotiation in combat situations.</CombatNegotiator31.description>
+  <CombatNegotiator31.title>საბრძოლო მომლაპარაკებელი</CombatNegotiator31.title>
+  <CombatNegotiator31.titleShort>მომლაპარაკებელი</CombatNegotiator31.titleShort>
+  <CommonerLord45.description>After years of training in martial arts and diplomacy, [PAWN_nameDef] was eventually given land and subjects of [PAWN_possessive] own to rule.\n\nBecause of [PAWN_nameDef]'s commoner heritage, the other lords disapproved. They framed [PAWN_objective] for a heinous crime, and the emperor had no choice but to exile [PAWN_objective].</CommonerLord45.description>
+  <CommonerLord45.title>უბრალო ბატონი</CommonerLord45.title>
+  <CommonerLord45.titleShort>უფალო</CommonerLord45.titleShort>
+  <ComputerEngineer10.description>Bored of [PAWN_possessive] code-monkey office job and missing the glory days of the Academy, [PAWN_nameDef] saw a commercial about the frontier where "only the strong survive".\n\nWith [PAWN_possessive] wife Morgan, [PAWN_nameDef] undertook a journey into the unknown.</ComputerEngineer10.description>
+  <ComputerEngineer10.title>კომპიუტერული ინჟინერი</ComputerEngineer10.title>
+  <ComputerEngineer10.titleShort>ტექნიკური ხელმძღვანელი</ComputerEngineer10.titleShort>
+  <ComputerEngineer36.description>Leveraging [PAWN_possessive] childhood experience, [PAWN_nameDef] became a computer engineer. [PAWN_pronoun] also learned to craft delicate sculptures and random electronics for fun.\n\n[PAWN_nameDef] became fond of technology and mostly gave up on talking to people. Using computers as friends has left [PAWN_nameDef] unable to care for others.</ComputerEngineer36.description>
+  <ComputerEngineer36.title>კომპიუტერული ინჟინერი</ComputerEngineer36.title>
+  <ComputerEngineer36.titleShort>ინჟინერი</ComputerEngineer36.titleShort>
+  <CoreworldJeweler19.description>მას შემდეგ, რაც [PAWN_nameDef]-მა დაასრულა ყველა [PAWN_possessive] ოპერაცია, [PAWN_pronoun] აღმოაჩინა, რომ [PAWN_pronoun]-ს ჰქონდა დიდი დრო და ენერგია, რათა მიეძღვნა [PAWN_possessive] გატაცებას: წვრილმანების დამზადებას. [PAWN_pronoun]-მა წლები გაატარა [PAWN_possessive] ხელოვნების სრულყოფაში, როგორც იუველირი, შემდეგ დატოვა [PAWN_possessive] მთავარი სამყარო, რათა გაეყიდა [PAWN_possessive] ნაწარმი გალაქტიკაში.</CoreworldJeweler19.description>
+  <CoreworldJeweler19.title>სამყაროს იუველირი</CoreworldJeweler19.title>
+  <CoreworldJeweler19.titleShort>იუველირი</CoreworldJeweler19.titleShort>
+  <CorporateBuilder58.description>Even as [PAWN_pronoun] stewed in [PAWN_possessive] own wasted potential, [PAWN_nameDef] found [PAWN_pronoun] had a knack for moving objects quickly. It was just what the planetary mega-corps wanted in their construction divisions.\n\nUnfortunately, the monotonous work erased [PAWN_possessive] remaining creative impulses.</CorporateBuilder58.description>
+  <CorporateBuilder58.title>კორპორატიული მშენებელი</CorporateBuilder58.title>
+  <CorporateBuilder58.titleShort>მშენებელი</CorporateBuilder58.titleShort>
+  <CorpResearcher71.description>[PAWN_nameDef] was sold to a corporation and put to work as a corporate slave doing scientific research.\n\nUnable to adapt to the social politics of [PAWN_possessive] workplace, [PAWN_pronoun] buried [PAWN_objective]self in [PAWN_possessive] work and failed to progress up the corporate ladder. Every day, [PAWN_pronoun] yearned to be left alone.</CorpResearcher71.description>
+  <CorpResearcher71.title>კორპუსის მკვლევარი</CorpResearcher71.title>
+  <CorpResearcher71.titleShort>მკვლევარი</CorpResearcher71.titleShort>
+  <CorpResearcher93.description>[PAWN_nameDef] იყო მასიური კოსმოსური საძიებო კორპორაციის წამყვანი მკვლევარი.</CorpResearcher93.description>
+  <CorpResearcher93.title>კორპუსის მკვლევარი</CorpResearcher93.title>
+  <CorpResearcher93.titleShort>მკვლევარი</CorpResearcher93.titleShort>
+  <CosmeticReject64.description>ბრჭყვიალა სამყაროს აუდიტორია ჯერ არ იყო მზად [PAWN_nameDef]-ის Vidtube-ის სერიისთვის ყველა თავისი ქანჩებით, ჩაქუჩებითა და დამგეგმავებით - ამბობდნენ, რომ ასეთი ნამუშევარი მექანოიდებისთვისაა! შეუკავებელი, [PAWN_pronoun] გაემართა ვარსკვლავებისკენ, იმ ადამიანების საძიებლად, რომლებიც დააფასებდნენ [PAWN_მფლობელობაში] უნარებს. ველური ბუნება იქ საშინლად გამოიყურება, თუმცა...</CosmeticReject64.description>
+  <CosmeticReject64.title>მოგზაური ხელოსანი</CosmeticReject64.title>
+  <CosmeticReject64.titleShort>ხელოსანი</CosmeticReject64.titleShort>
+  <CosmeticSurgeon36.description>[PAWN_nameDef] had a terrible bedside manner due to [PAWN_possessive] abrasiveness. [PAWN_pronoun] often bullied [PAWN_possessive] patients into getting cosmetic surgery. [PAWN_pronoun] made a lot of money this way.\n\nWhile very studious and careful in [PAWN_possessive] work, [PAWN_pronoun] never had to lift a finger doing domestic chores.</CosmeticSurgeon36.description>
+  <CosmeticSurgeon36.title>კოსმეტიკური ქირურგი</CosmeticSurgeon36.title>
+  <CosmeticSurgeon36.titleShort>ქირურგი</CosmeticSurgeon36.titleShort>
+  <CostumeCrafter41.description>By day, [PAWN_nameDef] was an office worker on a midworld. At night, [PAWN_pronoun] designed and built elaborate monster costumes for science fiction conventions.\n\n[PAWN_pronoun] learned a great deal about sewing. Unfortunately this came at the cost of being able to cook anything more complex than an instant meal.</CostumeCrafter41.description>
+  <CostumeCrafter41.title>კოსტუმების ხელოსანი</CostumeCrafter41.title>
+  <CostumeCrafter41.titleShort>დამკვეთი</CostumeCrafter41.titleShort>
+  <CraftShaper37.description>[PAWN_nameDef] locked [PAWN_objective]self in [PAWN_possessive] studio for years, ordering delivery food to save time on cooking.\n\nEventually, [PAWN_possessive] creations brought [PAWN_objective] the highest honor on Semantic World: Permission to materialize any design in minutes using the most advanced technologies.</CraftShaper37.description>
+  <CraftShaper37.title>ხელნაკეთობის შემქმნელი</CraftShaper37.title>
+  <CraftShaper37.titleShort>მაფორმებელი</CraftShaper37.titleShort>
+  <CrimeLord10.description>Through brutality and cruelty, [PAWN_nameDef] rose to become a crime lord.\n\n[PAWN_pronoun] relied less on [PAWN_possessive] fists and more on [PAWN_possessive] guns. [PAWN_possessive] reputation spread quickly due to [PAWN_possessive] cold-bloodedness and ruthless methods.</CrimeLord10.description>
+  <CrimeLord10.title>დანაშაულის მბრძანებელი</CrimeLord10.title>
+  <CrimeLord10.titleShort>დანაშაულის მბრძანებელი</CrimeLord10.titleShort>
+  <CriminalKingpin36.description>[PAWN_nameDef] discovered [PAWN_possessive] gift - people did what [PAWN_pronoun] said, when [PAWN_pronoun] said it. Taking advantage of this, [PAWN_pronoun] set off for the rimworlds to make a name for [PAWN_objective]self in the criminal underworld.\n\nHaving people do things for [PAWN_objective] taught [PAWN_objective] to avoid manual labor at all costs.</CriminalKingpin36.description>
+  <CriminalKingpin36.title>კრიმინალური მეფე</CriminalKingpin36.title>
+  <CriminalKingpin36.titleShort>მეფე პინი</CriminalKingpin36.titleShort>
+  <CriminalSurgeon99.description>ბევრ დაშავებულ თანამემამულე კრიმინალთან ახლოს ყოფნისას, [PAWN_nameDef] აიღო თავის თავზე [PAWN_objective] მუშაობა მათზე. მიუხედავად იმისა, რომ ბევრი ადამიანი დაიღუპა, [PAWN_pronoun] უკეთესად გამოიყენა დანები.</CriminalSurgeon99.description>
+  <CriminalSurgeon99.title>კრიმინალური ქირურგი</CriminalSurgeon99.title>
+  <CriminalSurgeon99.titleShort>ქირურგი</CriminalSurgeon99.titleShort>
+  <DeepSpaceSurveyor1.description>[PAWN_nameDef] was a deep space surveyor. [PAWN_pronoun] studied which worlds were the most suitable for colonization.\n\n[PAWN_possessive] expeditions were met by hostile natives, green-painted space-women, and wannabe Greek gods. Surviving many firefights, [PAWN_pronoun] learned to build rudimentary lathes and rock cannons to fend off enemies.</DeepSpaceSurveyor1.description>
+  <DeepSpaceSurveyor1.title>ღრმა სივრცის ამზომველი</DeepSpaceSurveyor1.title>
+  <DeepSpaceSurveyor1.titleShort>ამზომველი</DeepSpaceSurveyor1.titleShort>
+  <Defector95.description>[PAWN_nameDef] decided to leave the oppressive dictatorship where [PAWN_pronoun] lived. [PAWN_possessive] defection was not well-received, and agents were sent after [PAWN_objective].\n\n[PAWN_pronoun] spent years on the run. Since [PAWN_pronoun] could trust no doctor, [PAWN_pronoun] treated [PAWN_possessive] own wounds. The ordeal made [PAWN_objective] bitter and untrusting.</Defector95.description>
+  <Defector95.title>დეფექტორი</Defector95.title>
+  <Defector95.titleShort>დეფექტორი</Defector95.titleShort>
+  <DefenseLawyer71.description>[PAWN_nameDef] found that [PAWN_pronoun] could make more money with a quick word than a blaster. Seeking a job where [PAWN_possessive] silver tongue could be useful, [PAWN_pronoun] turned to the law.\n\n[PAWN_pronoun] often defended the illegal speeder racers [PAWN_pronoun] grew up with.</DefenseLawyer71.description>
+  <DefenseLawyer71.title>დაცვის ადვოკატი</DefenseLawyer71.title>
+  <DefenseLawyer71.titleShort>ადვოკატი</DefenseLawyer71.titleShort>
+  <DestroyerGeneral26.description>[PAWN_nameDef] held the rank of Destroyer-General in a powerful midworld military.\n\n[PAWN_pronoun] was known for [PAWN_possessive] mastery of weapons, and was also a good ship pilot.</DestroyerGeneral26.description>
+  <DestroyerGeneral26.title>გამანადგურებელი გენერალი</DestroyerGeneral26.title>
+  <DestroyerGeneral26.titleShort>გენერალი</DestroyerGeneral26.titleShort>
+  <DischargedSoldier53.description>[PAWN_nameDef] prostituted [PAWN_objective]self to fund [PAWN_possessive] drug habits. As an escape, [PAWN_pronoun] joined the military and learned to fight.\n\nToo smart for the army, [PAWN_pronoun] questioned and often disagreed with [PAWN_possessive] superiors' decisions. This eventually led to [PAWN_possessive] dishonorable discharge and left [PAWN_objective] with a chip on [PAWN_possessive] shoulder.</DischargedSoldier53.description>
+  <DischargedSoldier53.title>გათავისუფლებული ჯარისკაცი</DischargedSoldier53.title>
+  <DischargedSoldier53.titleShort>ჯარისკაცი</DischargedSoldier53.titleShort>
+  <DoomsdayPariah18.description>[PAWN_nameDef]-მა მოახერხა სხვა სამყაროს ტექნოლოგიის სარდაფის გახსნა გათხრების ადგილის გაწმენდისას. [PAWN_pronoun] უნებლიეთ ამოქმედდა განკითხვის დღის მოწყობილობა, რომელმაც გაასუფთავა პლანეტა მთელი სიცოცხლისგან. უფრო მეტად დაინტერესებული ტექნიკით, ვიდრე ადამიანის ცხოვრებით, [PAWN_pronoun] ავიდა სარდაფის კოსმოსურ ხომალდზე და გაემგზავრა, რათა ეპოვა მეტი რელიქვია, რომელიც ბოროტად იყო გამოყენებული.</DoomsdayPariah18.description>
+  <DoomsdayPariah18.title>განკითხვის დღის პარია</DoomsdayPariah18.title>
+  <DoomsdayPariah18.titleShort>პარია</DoomsdayPariah18.titleShort>
+  <DreadedDude58.description>Some followers say that [PAWN_nameDef] and [PAWN_possessive] crew of misfits found the fountain of youth, many, many centuries ago, and that they caused the extinction of the dinosaurs on many planets.\n\nThere's even a religion about them, somewhere, involving noodles and meatballs.</DreadedDude58.description>
+  <DreadedDude58.title>შეშინებული ძმაკაცი</DreadedDude58.title>
+  <DreadedDude58.titleShort>ძმაკაცი</DreadedDude58.titleShort>
+  <DromedaryKnight37.description>Having caught the eye of [PAWN_possessive] people's Sand King, [PAWN_nameDef] was trained in the Sandy Boomrat fighting technique.\n\nAlways with a camel to carry [PAWN_possessive] things, [PAWN_pronoun] served [PAWN_possessive] sand people faithfully.</DromedaryKnight37.description>
+  <DromedaryKnight37.title>დრომედიური რაინდი</DromedaryKnight37.title>
+  <DromedaryKnight37.titleShort>რაინდი</DromedaryKnight37.titleShort>
+  <DrugLieutenant98.description>[PAWN_nameDef] worked the drug trade under kingpin Grady Loughman. [PAWN_pronoun] had [PAWN_possessive] men sell drugs when it was profitable, and fight the other cartels when the government came around.\n\n[PAWN_possessive] social skills kept [PAWN_objective] on top of the political game, and [PAWN_pronoun] always had servants to cook and clean.</DrugLieutenant98.description>
+  <DrugLieutenant98.title>ნარკოლეიტენანტი</DrugLieutenant98.title>
+  <DrugLieutenant98.titleShort>ნარკომანი</DrugLieutenant98.titleShort>
+  <EnergyResearcher89.description>[PAWN_nameDef] მუშაობდა იდეაზე სწრაფი კომუნიკაციისთვის დიდ დისტანციებზე. [PAWN_pronoun] დაუშვა შეცდომა, რომელმაც გაანადგურა [PAWN_possessive] ლაბორატორია და რამდენიმე მიმდებარე შენობა. [PAWN_pronoun] გაიქცა პლანეტა ხელისუფლებისგან თავის დასაღწევად.</EnergyResearcher89.description>
+  <EnergyResearcher89.title>ენერგეტიკის მკვლევარი</EnergyResearcher89.title>
+  <EnergyResearcher89.titleShort>მკვლევარი</EnergyResearcher89.titleShort>
+  <Engineer40.description>[PAWN_nameDef]-მა იპოვა სამუშაო, როგორც ინჟინერი, სავაჭრო ცენტრ პლანეტაზე Irithir. მკაცრმა ადგილობრივმა მოვაჭრეებმა აიძულეს [PAWN_objective] ესწავლა მოლაპარაკების უნარები და [PAWN_pronoun] კარგი მოგება მიიღო განახლებული იარაღისა და ხელსაწყოების გაყიდვით.</Engineer40.description>
+  <Engineer40.title>ინჟინერი</Engineer40.title>
+  <Engineer40.titleShort>ინჟინერი</Engineer40.titleShort>
+  <EngineeredPilot75.description>After [PAWN_possessive] province was besieged by one of its neighbors, [PAWN_nameDef] volunteered for a generic modification program that created pilots for the very fighter craft that [PAWN_pronoun] had helped develop. The modifications allowed [PAWN_objective] to pilot the ship, but also made [PAWN_objective] less able to focus on the people around him.\n\nBy this time, people were calling [PAWN_objective] "Squirrel."</EngineeredPilot75.description>
+  <EngineeredPilot75.title>ინჟინერიული პილოტი</EngineeredPilot75.title>
+  <EngineeredPilot75.titleShort>პილოტი</EngineeredPilot75.titleShort>
+  <EnvoyOfTheStars19.description>[PAWN_nameDef] entered the diplomatic corps. Honor and tradition were the values [PAWN_pronoun] took with [PAWN_objective] on every mission.\n\n[PAWN_possessive] prestigious position distanced [PAWN_objective] from backbreaking manual labor, allowing [PAWN_objective] to focus on [PAWN_possessive] wordsmithing abilities. [PAWN_pronoun] left the blacksmithing to others.</EnvoyOfTheStars19.description>
+  <EnvoyOfTheStars19.title>ვარსკვლავების დესპანი</EnvoyOfTheStars19.title>
+  <EnvoyOfTheStars19.titleShort>დესპანი</EnvoyOfTheStars19.titleShort>
+  <ExecutiveOfficer5.description>[PAWN_nameDef] was an executive officer for a large space trading corporation. After a failed attempt at manipulating [PAWN_possessive] way up the corporate ladder, [PAWN_pronoun] was framed for the rape and murder of another executive and [PAWN_possessive] family.\n\n[PAWN_pronoun] was found guilty. However, because of [PAWN_possessive] family's influence, [PAWN_pronoun] was exiled instead of put to death.</ExecutiveOfficer5.description>
+  <ExecutiveOfficer5.title>აღმასრულებელი ოფიცერი</ExecutiveOfficer5.title>
+  <ExecutiveOfficer5.titleShort>აღმასრულებელი</ExecutiveOfficer5.titleShort>
+  <ExiledResearcher44.description>[PAWN_nameDef]-ის სიყვარული რობოტიკისადმი არ იყო დაფასებული [PAWN_possessive] ტექნოფობიურ იმპერიაში. სისტემის უმაღლესმა კარდინალმა იგი განკვეთა და [PAWN_pronoun] აღარ მიეცა დაბრუნების უფლება.</ExiledResearcher44.description>
+  <ExiledResearcher44.title>გადასახლებული მკვლევარი</ExiledResearcher44.title>
+  <ExiledResearcher44.titleShort>გადასახლება</ExiledResearcher44.titleShort>
+  <ExoticChef96.description>[PAWN_nameDef] has always gone overboard when it comes to food. [PAWN_pronoun] is always seeking new and exotic ingredients.\n\n[PAWN_possessive] quest for ingredients has brought [PAWN_objective] into some close calls with local flora and fauna.</ExoticChef96.description>
+  <ExoticChef96.title>ეგზოტიკური შეფ</ExoticChef96.title>
+  <ExoticChef96.titleShort>შეფ-მზარეული</ExoticChef96.titleShort>
+  <ExpertHandyman8.description>[PAWN_nameDef] მუშაობდა მოგზაურ ინჟინრად. [PAWN_pronoun]-მა დააფიქსირა რაღაცეები, დაწყებული მარტივი საკომუნიკაციო მასივიდან დამთავრებული რთული პროგრამული აღკაზმულობით, რომელიც მოიცავს [PAWN_possessive] გემის AI პერსონას. [PAWN_objective]-ისთვის შეკეთების მიღმა არაფერია.</ExpertHandyman8.description>
+  <ExpertHandyman8.title>გამოცდილი ხელოსანი</ExpertHandyman8.title>
+  <ExpertHandyman8.titleShort>ხელოსანი</ExpertHandyman8.titleShort>
+  <Explorer49.description>[PAWN_nameDef] მოგზაურობდა პლანეტიდან პლანეტაზე, აგროვებდა ნიმუშებს, ისტორიებს და კვლევებს. [PAWN_pronoun] იმედოვნებდა, რომ ერთ დღეს შეადგენდა ჩანაწერს ყველა ცხოველის, მცენარის, მინერალისა და მანქანისა და მოწყობილობის შესახებ ცნობილ სივრცეში: The Complete Traveler's Guide to the RimWorlds.</Explorer49.description>
+  <Explorer49.title>მკვლევარი</Explorer49.title>
+  <Explorer49.titleShort>მკვლევარი</Explorer49.titleShort>
+  <ExplorerWriter10.description>[PAWN_nameDef] traveled from planet to planet, gathering samples, stories, and research.\n\n[PAWN_possessive] goal was to bring together enough knowledge to make a survival guide for future generations.</ExplorerWriter10.description>
+  <ExplorerWriter10.title>მკვლევარი-მწერალი</ExplorerWriter10.title>
+  <ExplorerWriter10.titleShort>მკვლევარი</ExplorerWriter10.titleShort>
+  <FactionLeader74.description>Early in [PAWN_possessive] adulthood, [PAWN_nameDef] found [PAWN_objective]self surrounded by a gaggle of low-lifes.\n\nFor fun, [PAWN_pronoun] gathered them and lead them to a certain death. [PAWN_pronoun] knew then that [PAWN_pronoun] had the talent to realize [PAWN_possessive] ambitions of leadership.</FactionLeader74.description>
+  <FactionLeader74.title>ფრაქციის ლიდერი</FactionLeader74.title>
+  <FactionLeader74.titleShort>ლიდერი</FactionLeader74.titleShort>
+  <FallenOfficial12.description>[PAWN_nameDef] იყო ავტოკრატიული მთავრობის ოფიციალური პირი. როდესაც [PAWN_possessive] ზემდგომებმა მოითხოვეს [PAWN_pronoun] მონაწილეობა სისასტიკეში, [PAWN_nameDef] გადადგა და გაიქცა [PAWN_possessive] საშინაო სამყაროდან, გარდა [PAWN_possessive] ტანსაცმლის გარეშე.</FallenOfficial12.description>
+  <FallenOfficial12.title>დაცემული ჩინოვნიკი</FallenOfficial12.title>
+  <FallenOfficial12.titleShort>ოფიციალური</FallenOfficial12.titleShort>
+  <FearfulChef49.description>[PAWN_nameDef] was a excellent chef who worked in a high-end restaurant.\n\nOne day, [PAWN_pronoun] left the stove on, and accidentally burned down the whole building. This event shook [PAWN_objective] so much that [PAWN_pronoun] swore to never touch a stove again.</FearfulChef49.description>
+  <FearfulChef49.title>შეშინებული შეფ</FearfulChef49.title>
+  <FearfulChef49.titleShort>შეფ-მზარეული</FearfulChef49.titleShort>
+  <FelineScientist76.description>[PAWN_nameDef] გახდა ცნობილი მეცნიერი კატების სფეროში. [PAWN_possessive] ცხოველებისთვის საუკეთესოს სურდა და სელექციური მოშენების სპეციალობით, [PAWN_pronoun] გაემგზავრა მოგზაურობაში, რათა ეპოვა [PAWN_possessive] კატების გასამრავლებელი ადგილი.</FelineScientist76.description>
+  <FelineScientist76.title>კატების მეცნიერი</FelineScientist76.title>
+  <FelineScientist76.titleShort>მეცნიერი</FelineScientist76.titleShort>
+  <FerventResearcher72.description>As a young adult, [PAWN_nameDef] was sure that [PAWN_possessive] planet and its people were nearing their time of transcendence.\n\nA firm belief that [PAWN_possessive] research would be the catalyst drove [PAWN_objective] to increasingly alarming acts as bureaucrats and bioethics committees worked to stall [PAWN_possessive] progress.</FerventResearcher72.description>
+  <FerventResearcher72.title>მხურვალე მკვლევარი</FerventResearcher72.title>
+  <FerventResearcher72.titleShort>მკვლევარი</FerventResearcher72.titleShort>
+  <FighterController67.description>ზართას კრიზისის დროს, [PAWN_nameDef] იბრძოდა მრავალ სამყაროში, რაც უზრუნველყოფს სასიცოცხლო კავშირს მიწასა და ჰაერს შორის, როგორც მებრძოლი მაკონტროლებელი. კამპანიის დროს, [PAWN_pronoun] დაინახა მეგობრები დაშავებული და დაღუპული. ეს ფსიქიკური ტრავმა ადევნებს [PAWN_possessive] ოცნებებს დღემდე, მაგრამ [PAWN_possessive] მიზანი რჩება მკვეთრი.</FighterController67.description>
+  <FighterController67.title>მებრძოლი კონტროლერი</FighterController67.title>
+  <FighterController67.titleShort>კონტროლერი</FighterController67.titleShort>
+  <Flaneur30.description>[PAWN_nameDef] strolled and sipped [PAWN_possessive] way through the streets and cafes of [PAWN_possessive] world, pursuing freedom at every turn, never becoming attached.\n\nThrough all this time, [PAWN_pronoun] remained distrustful of others. And never took an order from anyone.</Flaneur30.description>
+  <Flaneur30.title>flaneur</Flaneur30.title>
+  <Flaneur30.titleShort>flaneur</Flaneur30.titleShort>
+  <ForestProwler15.description>[PAWN_nameDef] ტყეში ველური კაცების ჯგუფს ხელმძღვანელობდა. ისინი ეძებდნენ საკვებს, ნადირობდნენ და ხანდახან კლავდნენ უფრო ცივილიზებულ ადამიანებს, რათა მოეპარათ მათი მბზინავი საგნები.</ForestProwler15.description>
+  <ForestProwler15.title>ტყის მეპატრონე</ForestProwler15.title>
+  <ForestProwler15.titleShort>პროვოლერი</ForestProwler15.titleShort>
+  <FrontierMarshal27.description>[PAWN_nameDef] was the marshal of [PAWN_possessive] colony. [PAWN_pronoun] tried to honorably uphold the law, but the corrupt local mayor killed [PAWN_possessive] family and left [PAWN_objective] for dead.\n\nAfter regaining [PAWN_possessive] health, [PAWN_nameDef] arrested the mayor. [PAWN_pronoun] left [PAWN_possessive] homeworld and started a new life working to make a difference in the universe.</FrontierMarshal27.description>
+  <FrontierMarshal27.title>მესაზღვრე მარშალი</FrontierMarshal27.title>
+  <FrontierMarshal27.titleShort>მარშალი</FrontierMarshal27.titleShort>
+  <Fugitive4.description>[PAWN_nameDef] rebelled against the corporation [PAWN_pronoun] worked for. [PAWN_pronoun] failed, and was forced [PAWN_objective] to go on the run.\n\n[PAWN_pronoun] was always on the move, always leaving everything behind. [PAWN_pronoun] tried to gain supporters for [PAWN_possessive] cause, but failed due to [PAWN_possessive] poor social skills.</Fugitive4.description>
+  <Fugitive4.title>გაქცეული</Fugitive4.title>
+  <Fugitive4.titleShort>გაქცეული</Fugitive4.titleShort>
+  <GameDeveloper95.description>[PAWN_nameDef] was an independent game developer.\n\nAfter an early success, [PAWN_possessive] career quickly degenerated into a circus of misguided ideas, deals gone wrong, and desperate, failed PR stunts.</GameDeveloper95.description>
+  <GameDeveloper95.title>თამაშის დეველოპერი</GameDeveloper95.title>
+  <GameDeveloper95.titleShort>თამაშის დეველოპმენტი</GameDeveloper95.titleShort>
+  <GameTester77.description>Making a new life on a barely-livable planet after nuclear war, [PAWN_nameDef] was able to fulfill [PAWN_possessive] desires with money borrowed from [PAWN_possessive] father.\n\n[PAWN_pronoun] loved playing a particular colony simulator. [PAWN_possessive] favorite thing to do in the game was to build elaborate hospitals. Spending most of [PAWN_possessive] time playing, [PAWN_pronoun] forgot horrors of war and [PAWN_possessive] need for revenge.</GameTester77.description>
+  <GameTester77.title>თამაშის ტესტერი</GameTester77.title>
+  <GameTester77.titleShort>ტესტერი</GameTester77.titleShort>
+  <GangBoss49.description>To survive, [PAWN_nameDef]'s gang often had to rob trade ships for food and supplies. Sometimes [PAWN_pronoun] had to kill the guards. Sometimes [PAWN_pronoun] had to kill the police who arrived to stop him.\n\nAfter years of this, [PAWN_pronoun] became one of the most-wanted criminals in the local empire.</GangBoss49.description>
+  <GangBoss49.title>ბანდის უფროსი</GangBoss49.title>
+  <GangBoss49.titleShort>ბოსი</GangBoss49.titleShort>
+  <GangSoldier39.description>Living for many years between three raider settlements, [PAWN_nameDef] persevered through many challenges: a spacecraft implosion, cryptostasis, crashlanding on a miserable dustball of a planet, and nursing an old man back to health, and many of battles.\n\n[PAWN_pronoun] eventually took control of a violent gang.</GangSoldier39.description>
+  <GangSoldier39.title>ბანდის ჯარისკაცი</GangSoldier39.title>
+  <GangSoldier39.titleShort>ჯარისკაცი</GangSoldier39.titleShort>
+  <GeneticEngineer89.description>[PAWN_nameDef] carried out [PAWN_possessive] first genetic experiments on farm animals. [PAWN_pronoun] soon grew to become quite skilled in all forms of genetic engineering.\n\nA horrifying lab accident left [PAWN_objective] with a mortal fear of rodents.</GeneticEngineer89.description>
+  <GeneticEngineer89.title>გენეტიკური ინჟინერი</GeneticEngineer89.title>
+  <GeneticEngineer89.titleShort>გენეტიკოსი</GeneticEngineer89.titleShort>
+  <GeneticScientist66.description>ომის შემდეგ [PAWN_pronoun] შეუერთდა გენური ინჟინერიის ფირმას. [PAWN_pronoun] მუშაობდა გაუმჯობესებებზე ადამიანებისა და პირუტყვისთვის. [PAWN_possessive] ჭრილობების მიყენებისა და შეხორცების გამოცდილება ძალიან მომგებიანი იყო [PAWN_possessive] მუშაობისთვის, მაგრამ [PAWN_pronoun] განუვითარდა შავი იუმორის გრძნობა. ამან სოციალური შეკრებები უხერხულად აქცია.</GeneticScientist66.description>
+  <GeneticScientist66.title>გენეტიკური მეცნიერი</GeneticScientist66.title>
+  <GeneticScientist66.titleShort>გენეტიკოსი</GeneticScientist66.titleShort>
+  <Gigolo68.description>[PAWN_nameDef] sold [PAWN_objective]self into slavery for money to purchase boomrat pizza. [PAWN_pronoun] was then traded to the Zeglar colonies, where [PAWN_pronoun] worked as a male prostitute.\n\nIn a fluke event, [PAWN_pronoun] managed to join other escaping slaves as they hijacked a ship. After fighting with the captain of the slave crew over the last piece of boomrat pizza, [PAWN_nameDef] was sent off the ship in an escape pod.</Gigolo68.description>
+  <Gigolo68.title>ჟიგოლო</Gigolo68.title>
+  <Gigolo68.titleShort>ჟიგოლო</Gigolo68.titleShort>
+  <Gnomebiologist96.description>[PAWN_nameDef] was a xenobiology professor in a glitterworld university. [PAWN_pronoun] went to conferences and managed an art gallery.\n\nHowever, [PAWN_pronoun] never stopped sculpting yard gnomes, and considers this to be [PAWN_possessive] true profession.</Gnomebiologist96.description>
+  <Gnomebiologist96.title>გნომბიოლოგი</Gnomebiologist96.title>
+  <Gnomebiologist96.titleShort>ბიოლოგი</Gnomebiologist96.titleShort>
+  <GovernmentAgent61.description>[PAWN_nameDef] worked for the government against rebel groups and excelled in this capacity. During [PAWN_possessive] training [PAWN_pronoun] was taught firearms, melee combat and medical skills.\n\nHaving grown up in a war-ravaged city, dirt, blood and dead bodies don't bother [PAWN_objective] and [PAWN_pronoun] sees no reason to clean them up.</GovernmentAgent61.description>
+  <GovernmentAgent61.title>მთავრობის აგენტი</GovernmentAgent61.title>
+  <GovernmentAgent61.titleShort>აგენტი</GovernmentAgent61.titleShort>
+  <GraphicDesigner33.description>[PAWN_nameDef]-ის ინტერესმა მხატვრული გამოხატვისადმი აიძულა [PAWN_objective] გამხდარიყო დიზაინერი. [PAWN_possessive] დეტალებისთვის თვალი აქცევს [PAWN_objective] საკმაოდ ცნობილ მხატვრად [PAWN_possessive] პლანეტაზე, თუმცა [PAWN_possessive] ზედმიწევნითობა ხშირად აიძულებდა [PAWN_objective] ზედმეტად დიდ დროს ხარჯავდა ერთი პროექტის სრულყოფაზე.</GraphicDesigner33.description>
+  <GraphicDesigner33.title>გრაფიკული დიზაინერი</GraphicDesigner33.title>
+  <GraphicDesigner33.titleShort>დიზაინერი</GraphicDesigner33.titleShort>
+  <Guardian55.description>After [PAWN_pronoun] learned what truly matters in life, [PAWN_nameDef] changed for the better. [PAWN_pronoun] learned to work hard and protect the things that matter - not money or material things, but friends and loved ones.\n\n[PAWN_pronoun] became a professional guardian.</Guardian55.description>
+  <Guardian55.title>მეურვე</Guardian55.title>
+  <Guardian55.titleShort>მეურვე</Guardian55.titleShort>
+  <GunDealer14.description>[PAWN_nameDef] traded high-tech firearms between warring factions.\n\nOver time, [PAWN_pronoun] became very skilled at conducting product demonstrations and negotiating profitable deals.</GunDealer14.description>
+  <GunDealer14.title>იარაღის გამყიდველი</GunDealer14.title>
+  <GunDealer14.titleShort>იარაღის გამყიდველი</GunDealer14.titleShort>
+  <Gunfighter51.description>[PAWN_nameDef] was a deadly shot. Peace wasn't for him. [PAWN_pronoun] found [PAWN_possessive] family among the brothers and sisters that [PAWN_pronoun] spent years fighting alongside.\n\nAfter most of those close to [PAWN_objective] died, [PAWN_pronoun] once again set off to lend [PAWN_possessive] gun to those who needed it - or those who could pay.</Gunfighter51.description>
+  <Gunfighter51.title>მებრძოლი</Gunfighter51.title>
+  <Gunfighter51.titleShort>მებრძოლი</Gunfighter51.titleShort>
+  <Healer35.description>[PAWN_nameDef] took the time to admire the beauty of the world.\n\n[PAWN_possessive] passive-aggressiveness surfaced once in a while, but [PAWN_pronoun] tried to adapt to [PAWN_possessive] changing life.</Healer35.description>
+  <Healer35.title>მკურნალი</Healer35.title>
+  <Healer35.titleShort>მკურნალი</Healer35.titleShort>
+  <HedgeFundManager54.description>A top hedge fund manager on a teeming urbworld, [PAWN_nameDef]'s portfolio grew rapidly as [PAWN_pronoun] charmed clients with a sweet voice and devious intent. When the deal turned out too good to be true, [PAWN_pronoun] was forced to flee the planet with a bounty on [PAWN_possessive] head.\n\nAs [PAWN_pronoun] traveled the stars [PAWN_pronoun] found a passion in the arts, making masterpieces fit for high society customers.</HedgeFundManager54.description>
+  <HedgeFundManager54.title>ჰეჯ-ფონდის მენეჯერი</HedgeFundManager54.title>
+  <HedgeFundManager54.titleShort>ბანკირი</HedgeFundManager54.titleShort>
+  <Herpetologist3.description>After a terrible mining accident, [PAWN_nameDef] set off into space in search of exotic new animal species.\n\n[PAWN_pronoun] hoped to leave [PAWN_possessive] past behind and find long-lived companions. [PAWN_pronoun] knew the pain of loss too well.</Herpetologist3.description>
+  <Herpetologist3.title>ჰერპეტოლოგი</Herpetologist3.title>
+  <Herpetologist3.titleShort>ჰერპერი</Herpetologist3.titleShort>
+  <HiredAssassin37.description>[PAWN_nameDef] იყო ოსტატი ქურდი, რომელიც ძირითადად ორგანიზებული დანაშაულისთვის მუშაობდა. დროთა განმავლობაში, [PAWN_pronoun]-მა გაითქვა სახელი [PAWN_objective]საკუთარი თავისთვის და [PAWN_possessive] ბიზნესი გადაიტანა ადამიანური საფრთხეების ფასიან „მოცილებაში“.</HiredAssassin37.description>
+  <HiredAssassin37.title>დაქირავებული მკვლელი</HiredAssassin37.title>
+  <HiredAssassin37.titleShort>მკვლელი</HiredAssassin37.titleShort>
+  <HiredGun70.description>[PAWN_nameDef] always wanted to prove [PAWN_pronoun] could make a living without [PAWN_possessive] parents' help. [PAWN_pronoun] did shady jobs that often involved pointing guns at innocent people.\n\n[PAWN_pronoun] eventually made enough money to board a cheap freighter. [PAWN_pronoun] discovered why it was so cheap when it crashed.</HiredGun70.description>
+  <HiredGun70.title>დაქირავებული იარაღი</HiredGun70.title>
+  <HiredGun70.titleShort>დაქირავებული იარაღი</HiredGun70.titleShort>
+  <HiredMuscle5.description>Knowing what life on the streets was truly like, [PAWN_nameDef] slipped into police work. However, a particularly disturbing case ended with [PAWN_objective] beating the perpetrator to death.\n\nDishonorably discharged from [PAWN_possessive] duties, [PAWN_pronoun] used [PAWN_possessive] contacts and skills to find work as a thug for hire.</HiredMuscle5.description>
+  <HiredMuscle5.title>დაქირავებული კუნთი</HiredMuscle5.title>
+  <HiredMuscle5.titleShort>დაქირავებული ყაჩაღი</HiredMuscle5.titleShort>
+  <HumanTrafficker35.description>[PAWN_nameDef] stole children from their homes to sell them to interested buyers.\n\nOver time, [PAWN_pronoun] lost what little moral sense [PAWN_pronoun] had left.</HumanTrafficker35.description>
+  <HumanTrafficker35.title>ადამიანით მოვაჭრე</HumanTrafficker35.title>
+  <HumanTrafficker35.titleShort>ტრეფიკერი</HumanTrafficker35.titleShort>
+  <Hunter73.description>[PAWN_nameDef] was a master hunter.\n\n[PAWN_pronoun] learned to track and trap any animal in the most dangerous of places, and had deep knowledge of many ingenious methods for taking down specific large animals.</Hunter73.description>
+  <Hunter73.title>მონადირე</Hunter73.title>
+  <Hunter73.titleShort>მონადირე</Hunter73.titleShort>
+  <HunterOfTheKing53.description>[PAWN_nameDef] was forced to protect [PAWN_possessive] colony in the name of the king after a mysterious outbreak of murderous genetically-modified wildlife.\n\nDespite [PAWN_possessive] best efforts, [PAWN_possessive] kingdom was destroyed. [PAWN_nameDef] developed PTSD, a hatred of animals and a bad case of technophobia. [PAWN_pronoun] was named for the place they found him.</HunterOfTheKing53.description>
+  <HunterOfTheKing53.title>მეფის მონადირე</HunterOfTheKing53.title>
+  <HunterOfTheKing53.titleShort>მავნებლების მცველი</HunterOfTheKing53.titleShort>
+  <HypnocultLeader61.description>Desiring to understand people, [PAWN_nameDef] learned hypnotism and discovered [PAWN_possessive] talent for the art.\n\n[PAWN_pronoun] gathered followers and formed a cult around [PAWN_possessive] vibrant personality. The authorities discovered [PAWN_possessive] illegal operations, and [PAWN_nameDef] fled before [PAWN_pronoun] could be arrested.</HypnocultLeader61.description>
+  <HypnocultLeader61.title>ჰიპნოკულტის ლიდერი</HypnocultLeader61.title>
+  <HypnocultLeader61.titleShort>კულტისტი</HypnocultLeader61.titleShort>
+  <ImperialGeneral27.description>[PAWN_nameDef]'s thirst for power defined [PAWN_objective]. [PAWN_pronoun] quickly rose through the military ranks and soon attained the rank of general.\n\n[PAWN_pronoun] was given the most challenging task - conquering distant and unexplored rimworlds. Victory here could even position [PAWN_objective] as a successor to the emperor.</ImperialGeneral27.description>
+  <ImperialGeneral27.title>იმპერიული გენერალი</ImperialGeneral27.title>
+  <ImperialGeneral27.titleShort>გენერალი</ImperialGeneral27.titleShort>
+  <InformationBroker77.description>[PAWN_nameDef] caught a ship to the next star system and began a life of travel and learning, quickly collecting a massive bank of knowledge from people of all shapes and sizes.\n\n[PAWN_pronoun] learned to sell this knowledge for great profit, and became a powerful broker of information.</InformationBroker77.description>
+  <InformationBroker77.title>ინფორმაციის ბროკერი</InformationBroker77.title>
+  <InformationBroker77.titleShort>ბროკერი</InformationBroker77.titleShort>
+  <IntelligenceAgent10.description>Because of [PAWN_possessive] hacking skills, [PAWN_nameDef] was recruited by [PAWN_possessive] home planet's governing body to serve as an intelligence agent. The government trained [PAWN_objective] in combat, but [PAWN_pronoun] prefers psychological warfare.\n\nGovernment rules proved too strict for [PAWN_objective], so [PAWN_pronoun] went rogue. [PAWN_possessive] current activities are unknown.</IntelligenceAgent10.description>
+  <IntelligenceAgent10.title>დაზვერვის აგენტი</IntelligenceAgent10.title>
+  <IntelligenceAgent10.titleShort>აგენტი</IntelligenceAgent10.titleShort>
+  <IntimateAssassin35.description>[PAWN_nameDef] was a professional assassin. [PAWN_pronoun] was sadistic, calculating, and appeared utterly harmless.\n\n[PAWN_pronoun] preferred using intimate means to dispatch [PAWN_possessive] targets. This fulfilled both [PAWN_possessive] contracts and [PAWN_possessive] own personal desire for control.</IntimateAssassin35.description>
+  <IntimateAssassin35.title>ინტიმური მკვლელი</IntimateAssassin35.title>
+  <IntimateAssassin35.titleShort>მკვლელი</IntimateAssassin35.titleShort>
+  <InvoluntaryHermit38.description>[PAWN_nameDef]'s escape pod was jettisoned onto an unexplored region of a frontier world. [PAWN_pronoun] eked out a lonely existence with only a herd of muffalo for company.\n\nLater, [PAWN_pronoun] was spotted clad in pygmy wombat furs, discussing the importance of hoof hygiene with a group of elderly muffalo.</InvoluntaryHermit38.description>
+  <InvoluntaryHermit38.title>უნებლიე ჰერმიტი</InvoluntaryHermit38.title>
+  <InvoluntaryHermit38.titleShort>მოღუშული</InvoluntaryHermit38.titleShort>
+  <KingOfPirates25.description>როგორც თვითგამოცხადებული მეკობრეების მეფე, [PAWN_nameDef] დაუნდობელი იყო. მანიპულაციურ ხასიათს, [PAWN_pronoun] არ ეშინოდა შეეწირა ხალხი [PAWN_objective]-ის გარშემო [PAWN_objective] საკუთარი მიზნების სამსახურში. [PAWN_pronoun] კარგი დარტყმა იყო, მაგრამ მახვილით უფრო დახელოვნებული და [PAWN_pronoun] უყვარდა ახლო ბრძოლის ადრენალინი.</KingOfPirates25.description>
+  <KingOfPirates25.title>მეკობრეების მეფე</KingOfPirates25.title>
+  <KingOfPirates25.titleShort>მეკობრე</KingOfPirates25.titleShort>
+  <LanguageAnalyst27.description>After war broke out on [PAWN_possessive] homeworld, [PAWN_nameDef] was conscripted as a linguist. [PAWN_pronoun] spent [PAWN_possessive] days in a space station, decoding enemy communications and tending the hydroponic crops.\n\nAfter a meteorite damaged the station, [PAWN_pronoun] was forced to enter cryptosleep and hope for rescue.</LanguageAnalyst27.description>
+  <LanguageAnalyst27.title>ენის ანალიტიკოსი</LanguageAnalyst27.title>
+  <LanguageAnalyst27.titleShort>ენათმეცნიერი</LanguageAnalyst27.titleShort>
+  <LazyProgrammer3.description>[PAWN_nameDef] independently developed software that had a competitive edge against local urbworld corporations.\n\n[PAWN_possessive] legally questionable methods lead to a growing number in unsolved claims of intellectual property theft.</LazyProgrammer3.description>
+  <LazyProgrammer3.title>ზარმაცი პროგრამისტი</LazyProgrammer3.title>
+  <LazyProgrammer3.titleShort>პროგრამისტი</LazyProgrammer3.titleShort>
+  <LoneTraveler95.description>After escaping [PAWN_possessive] homeworld on a jury-rigged ship, [PAWN_nameDef] traveled to new worlds to experience their beauty.\n\n[PAWN_pronoun] joined resistance groups and applied the skills [PAWN_pronoun] cultivated on [PAWN_possessive] homeworld. [PAWN_pronoun] often warned of the nuclear horror [PAWN_pronoun] saw as a child.</LoneTraveler95.description>
+  <LoneTraveler95.title>მარტოხელა მოგზაური</LoneTraveler95.title>
+  <LoneTraveler95.titleShort>მოგზაური</LoneTraveler95.titleShort>
+  <LostMarine81.description>Shortly after being promoted to a respected position in [PAWN_possessive] planet's military, [PAWN_nameDef] disappeared without a trace.\n\nLater, [PAWN_pronoun] reappeared at the head of [PAWN_possessive] own military force. No one knows why [PAWN_pronoun] became who [PAWN_pronoun] was.</LostMarine81.description>
+  <LostMarine81.title>დაკარგული საზღვაო</LostMarine81.title>
+  <LostMarine81.titleShort>მოღალატე</LostMarine81.titleShort>
+  <LostSoldier13.description>[PAWN_nameDef]'s childhood soldier conditioning failed, and the experiment was shut down. [PAWN_pronoun] was abandoned, purposeless, friendless.\n\n[PAWN_nameDef] eventually found solace in physically demanding work. [PAWN_pronoun] especially liked building houses and crafting heavy armor.</LostSoldier13.description>
+  <LostSoldier13.title>დაკარგული ჯარისკაცი</LostSoldier13.title>
+  <LostSoldier13.titleShort>დაკარგული</LostSoldier13.titleShort>
+  <MachineFixer31.description>[PAWN_nameDef] was adept at dealing with mechanical problems, as long as the problem didn't involve the kitchen.\n\nAfter a life spent around dangerous machinery and flammable chemicals, [PAWN_pronoun] learned how to patch [PAWN_objective]self up pretty well. Despite the pain, [PAWN_pronoun] never learned to dislike fire.</MachineFixer31.description>
+  <MachineFixer31.title>მანქანის ფიქსატორი</MachineFixer31.title>
+  <MachineFixer31.titleShort>ფიქსატორი</MachineFixer31.titleShort>
+  <MadAccountant61.description>As an accountant, [PAWN_nameDef] often socialized with colleagues, and made many friends in upper management.\n\nOne day, [PAWN_nameDef] discovered a corruption racket run by some of [PAWN_possessive] bosses. After reporting this, [PAWN_pronoun] was fired. Wishing to hunt down those responsible, [PAWN_pronoun] went on a mass murder spree.</MadAccountant61.description>
+  <MadAccountant61.title>შეშლილი ბუღალტერი</MadAccountant61.title>
+  <MadAccountant61.titleShort>ბუღალტერი</MadAccountant61.titleShort>
+  <MadScientist2.description>[PAWN_nameDef]'s lust for knowledge was only matched by [PAWN_possessive] disdain for anyone who would stand in the way of [PAWN_possessive] research.\n\nTraveling from world to world, [PAWN_pronoun] sought answers to questions few dared to ask.</MadScientist2.description>
+  <MadScientist2.title>შეშლილი მეცნიერი</MadScientist2.title>
+  <MadScientist2.titleShort>მეცნიერი</MadScientist2.titleShort>
+  <MadScientist22.description>Stripped of [PAWN_possessive] life's work and exiled after [PAWN_possessive] unethical experiments on the survivors of the Callos IX incident were published, [PAWN_nameDef] learned the skills necessary to survive in the outer rim.\n\nContinuing [PAWN_possessive] research with nothing left to lose, [PAWN_pronoun] made minions to carry out the tasks that bored him.</MadScientist22.description>
+  <MadScientist22.title>შეშლილი მეცნიერი</MadScientist22.title>
+  <MadScientist22.titleShort>მეცნიერი</MadScientist22.titleShort>
+  <MadScientist31.description>After finishing [PAWN_possessive] education, [PAWN_nameDef] was hired by the planet's leading genetic researcher. Later, [PAWN_pronoun] was caught running illegal, inhumane experiments.\n\nDespite [PAWN_possessive] family's influence, [PAWN_pronoun] was convicted and sentenced to hard labor on a penal colony.</MadScientist31.description>
+  <MadScientist31.title>შეშლილი მეცნიერი</MadScientist31.title>
+  <MadScientist31.titleShort>მეცნიერი</MadScientist31.titleShort>
+  <MarbleDoctor99.description>On a bomb-blasted world, first aid is often the only aid.\n\n[PAWN_nameDef] used [PAWN_possessive] medical skills to help the injured and the sick. [PAWN_pronoun] believed that while guns and machines may be powerful, a doctor is even more so.</MarbleDoctor99.description>
+  <MarbleDoctor99.title>მარმარილოს ექიმი</MarbleDoctor99.title>
+  <MarbleDoctor99.titleShort>ექიმი</MarbleDoctor99.titleShort>
+  <MasterChef48.description>On a glitterworld, [PAWN_nameDef] found a job washing dishes at a famous restaurant and worked [PAWN_possessive] way up the ranks.\n\nA few years later, [PAWN_possessive] career came to an end when someone poisoned the meal [PAWN_pronoun] was preparing for the mayor. Jobless, [PAWN_pronoun] left to explore the stars once again.</MasterChef48.description>
+  <MasterChef48.title>მასტერ შეფი</MasterChef48.title>
+  <MasterChef48.titleShort>შეფ-მზარეული</MasterChef48.titleShort>
+  <MasterTrader65.description>[PAWN_nameDef] ვაჭრობის ოსტატი იყო. [PAWN_pronoun]-მა მოიპოვა [PAWN_possessive] მეტსახელი იმით, რომ დაეხმარა სოფელს ცდის დროს.</MasterTrader65.description>
+  <MasterTrader65.title>ოსტატი მოვაჭრე</MasterTrader65.title>
+  <MasterTrader65.titleShort>მოვაჭრე</MasterTrader65.titleShort>
+  <MechanicsEngineer64.description>[PAWN_nameDef] loved solving problems and, with [PAWN_possessive] steady hands and a reputation for quality work, earned a job as a mechanical engineer. [PAWN_pronoun] built and redesigned devices of all shapes and sizes.\n\nEventually, [PAWN_pronoun] was able to pick and choose [PAWN_possessive] corporate clients. [PAWN_pronoun] made several wealthy friends, as well as a few powerful enemies.</MechanicsEngineer64.description>
+  <MechanicsEngineer64.title>ინჟინერი მექანიკოსი</MechanicsEngineer64.title>
+  <MechanicsEngineer64.titleShort>ინჟინერი</MechanicsEngineer64.titleShort>
+  <MechWarVeteran77.description>[PAWN_nameDef] ებრძოდა თაღლითი მექანოიდების ჯგუფს, რადგან [PAWN_pronoun] საკმარისად დიდი იყო, რომ ჩაეწერა. [PAWN_pronoun] დაღვრილა ნახევარ სამყაროში და დაკარგა იმაზე მეტი, ვიდრე [PAWN_pronoun] აინტერესებს გახსენება. ამ გამოცდილებამ [PAWN_objective] გამაგრდა, როგორც გონებრივად, ასევე ფიზიკურად.</MechWarVeteran77.description>
+  <MechWarVeteran77.title>მექანიკური ომის ვეტერანი</MechWarVeteran77.title>
+  <MechWarVeteran77.titleShort>ვეტერანი</MechWarVeteran77.titleShort>
+  <MedicalScientist16.description>[PAWN_nameDef] ჩაირიცხა ექიმად გამვლელ სამეცნიერო გემზე. ვარსკვლავებზე ბრუნავდა ქსენოადამიანებისა და ტრანსფრინველების დიდ ეკიპაჟთან ერთად, [PAWN_pronoun] ჩაატარა გენეტიკური კვლევა ნაცნობ სახეობებზე. [PAWN_pronoun] დაამყარა ღრმა მეგობრობა ერთ ტრანსფრინველთან, მაგრამ იძულებული გახდა გემი დაეტოვებინა, როდესაც კაპიტანმა გაათავისუფლა ყველა არა-ფრინველი.</MedicalScientist16.description>
+  <MedicalScientist16.title>მედიცინის მეცნიერი</MedicalScientist16.title>
+  <MedicalScientist16.titleShort>მეცნიერი</MedicalScientist16.titleShort>
+  <MedicSoldier54.description>[PAWN_nameDef] enrolled in [PAWN_possessive] planetary army as a frontline medic. [PAWN_pronoun] soon knew the horrors of war and was deeply marked by them.\n\n[PAWN_pronoun] left the military and [PAWN_possessive] homeworld and began researching medicine and helping those [PAWN_pronoun] came across.</MedicSoldier54.description>
+  <MedicSoldier54.title>მედიკოსი ჯარისკაცი</MedicSoldier54.title>
+  <MedicSoldier54.titleShort>მედიკოსი</MedicSoldier54.titleShort>
+  <MedievalKnight26.description>[PAWN_nameDef] იბრძოდა მეფისა და ქვეყნისთვის ბრძოლის ველზე, სადაც [PAWN_pronoun] კიდევ უფრო დახვეწა [PAWN_possessive] უნარი, როგორც ხმლის მებრძოლი. [PAWN_possessive] უდიდესი დიდება იყო მტრის სასამართლო დარბაზში თავდასხმის შეყვანა და მეფის დაჭერა მახვილით.</MedievalKnight26.description>
+  <MedievalKnight26.title>შუა საუკუნეების რაინდი</MedievalKnight26.title>
+  <MedievalKnight26.titleShort>რაინდი</MedievalKnight26.titleShort>
+  <MentalPatient69.description>[PAWN_nameDef] was placed in a psychiatric hospital. There, [PAWN_pronoun] spent [PAWN_possessive] time engaged in the calming activities of the asylum.\n\n[PAWN_pronoun] was eventually released, but [PAWN_pronoun] retained [PAWN_possessive] emotional distance, [PAWN_possessive] curiosity about human anatomy, and [PAWN_possessive] namesake manic giggling.</MentalPatient69.description>
+  <MentalPatient69.title>ფსიქიკური პაციენტი</MentalPatient69.title>
+  <MentalPatient69.titleShort>პაციენტი</MentalPatient69.titleShort>
+  <Mercenary20.description>After escaping [PAWN_possessive] home planet, [PAWN_nameDef] fell in with a band of mercenaries. [PAWN_pronoun] fought alongside [PAWN_possessive] brothers and sisters in arms for many years.\n\nOne day, they were caught in a fight they couldn't win. Refusing to retreat, [PAWN_nameDef] was shot down by [PAWN_possessive] enemies. [PAWN_pronoun] was alarmed to awake in a heap of corpses, mysteriously unharmed.</Mercenary20.description>
+  <Mercenary20.title>დაქირავებული</Mercenary20.title>
+  <Mercenary20.titleShort>დაქირავებული</Mercenary20.titleShort>
+  <Mercenary4.description>საზღვაო სამყაროს მონებისგან შემდგარი ეკიპაჟისგან გაქცევის შემდეგ, [PAWN_nameDef] განუვითარდა სიცოცხლისადმი პატივისცემის ნაკლებობა. [PAWN_pronoun]-მა გააგრძელა დაქირავებულ ჯგუფში შესვლა, სადაც [PAWN_pronoun] განავითარა უნარები იარაღისა და გადარჩენის ტექნიკის გამოყენებით. [PAWN_nameDef]-მა გააკეთა ბინძური სამუშაო, სადაც [PAWN_pronoun] იპოვა და იმოგზაურა მრავალ სამყაროში.</Mercenary4.description>
+  <Mercenary4.title>დაქირავებული</Mercenary4.title>
+  <Mercenary4.titleShort>დაქირავებული</Mercenary4.titleShort>
+  <Mercenary55.description>[PAWN_nameDef]-მა გაატარა თინეიჯერობის [PAWN_possessive] წლები, როგორც დაქირავებული, დაქირავებული იყო სხვების მოსაკლავად და დასახიჩრებლად. [PAWN_pronoun] იყო მაღალი, საშიში და საშიში. [PAWN_pronoun]-ს შეეძლო შიში ჩაენერგა ყველა ადამიანის გულში, ვინც გადალახა [PAWN_objective] და მოკლას ნებისმიერი [PAWN_pronoun], რომელსაც სურდა.</Mercenary55.description>
+  <Mercenary55.title>დაქირავებული</Mercenary55.title>
+  <Mercenary55.titleShort>merc</Mercenary55.titleShort>
+  <MercenaryCaptain98.description>[PAWN_nameDef] was in the crew of a mercenary ship. Disciplined and confident, [PAWN_pronoun] quickly rose through the ranks and gained friends.\n\nIn [PAWN_possessive] time as a mercenary captain, [PAWN_pronoun] was known for being gregarious and calm - possibly thanks to the joywires.</MercenaryCaptain98.description>
+  <MercenaryCaptain98.title>დაქირავებული კაპიტანი</MercenaryCaptain98.title>
+  <MercenaryCaptain98.titleShort>კაპიტანი</MercenaryCaptain98.titleShort>
+  <MercenaryChef44.description>Following in [PAWN_possessive] family's footsteps, [PAWN_nameDef] was a soldier for hire.\n\n[PAWN_pronoun] was a naturally gifted sharpshooter. However, [PAWN_possessive] real passion is in perfecting a new recipe or dissecting a new gadget.</MercenaryChef44.description>
+  <MercenaryChef44.title>დაქირავებული შეფ</MercenaryChef44.title>
+  <MercenaryChef44.titleShort>დაქირავებული</MercenaryChef44.titleShort>
+  <MercenaryLeader28.description>Alone, [PAWN_nameDef] set out to rebuild [PAWN_possessive] father's life's work. [PAWN_pronoun] challenged the leader of a small band of mercenaries and took control, then led the band as they hijacked trade ships and stole valuable cargo.\n\n[PAWN_possessive] men mutinied. [PAWN_pronoun] was abandoned, arrested, and sentenced to death.</MercenaryLeader28.description>
+  <MercenaryLeader28.title>დაქირავებული ლიდერი</MercenaryLeader28.title>
+  <MercenaryLeader28.titleShort>დაქირავებული</MercenaryLeader28.titleShort>
+  <MercenaryLord13.description>[PAWN_nameDef] formed a mercenary company out of freelancers who wanted to make good money while also making slightly better-than-average moral choices. [PAWN_pronoun] called it the Ashmarines.\n\nTo avoid the coreworlds' military forces, [PAWN_pronoun] moved [PAWN_possessive] company to the rimworlds. There, [PAWN_pronoun] established bases and communities. In ruling, [PAWN_pronoun] maintained a form of order among the raiders and madmen of deep space.</MercenaryLord13.description>
+  <MercenaryLord13.title>დაქირავებული მბრძანებელი</MercenaryLord13.title>
+  <MercenaryLord13.titleShort>მოწყალე უფალი</MercenaryLord13.titleShort>
+  <MercenaryPilot63.description>[PAWN_nameDef] convinced [PAWN_possessive] squadron to abscond with their ships and make a course for the rimworlds. There they could fight for the causes they believed in.\n\n[PAWN_possessive] men were loyal and fought hard, but their ideals soon faded away and their cause became that of the highest bidder.</MercenaryPilot63.description>
+  <MercenaryPilot63.title>დაქირავებული პილოტი</MercenaryPilot63.title>
+  <MercenaryPilot63.titleShort>დაქირავებული</MercenaryPilot63.titleShort>
+  <Microbiologist12.description>A plague struck [PAWN_nameDef]'s native urbworld. [PAWN_nameDef] and other researchers revealed that the illness was a bioweapon, but the people turned on them, blaming them for the sickness.\n\n[PAWN_nameDef] barely escaped [PAWN_possessive] homeworld as it fell into chaos.</Microbiologist12.description>
+  <Microbiologist12.title>მიკრობიოლოგი</Microbiologist12.title>
+  <Microbiologist12.titleShort>ბიოლოგი</Microbiologist12.titleShort>
+  <MidworldSailor91.description>[PAWN_nameDef] joined [PAWN_possessive] country's Royal Navy. After years as a non-commissioned officer, [PAWN_pronoun] eventually cracked and used the skills [PAWN_pronoun] had acquired to start a mutiny on [PAWN_possessive] ship.\n\nIn the end, [PAWN_nameDef] was the leader of a large group of trained and dangerous pirates. [PAWN_pronoun] henceforth always had chefs to cook for him.</MidworldSailor91.description>
+  <MidworldSailor91.title>შუა სამყაროს მეზღვაური</MidworldSailor91.title>
+  <MidworldSailor91.titleShort>მეზღვაური</MidworldSailor91.titleShort>
+  <MilitaryEngineer45.description>[PAWN_nameDef] worked as an engineer for a colonial military. [PAWN_pronoun] got to play with weapons, murder-drones, and other 'fun' stuff.\n\n[PAWN_pronoun] specialized in repairing and modifying mechanoids' tools. Sometimes [PAWN_pronoun] tested them [PAWN_objective]self.</MilitaryEngineer45.description>
+  <MilitaryEngineer45.title>სამხედრო ინჟინერი</MilitaryEngineer45.title>
+  <MilitaryEngineer45.titleShort>ინჟინერი</MilitaryEngineer45.titleShort>
+  <MilitaryGunsmith27.description>When [PAWN_possessive] world was thrown into conflict, [PAWN_nameDef] was conscripted along with many of [PAWN_possessive] peers into the war machine that tore across the planet.\n\nWith [PAWN_possessive] particular expertise, [PAWN_pronoun] was lucky enough to find a position serving as small arms mechanic rather than on the front line.</MilitaryGunsmith27.description>
+  <MilitaryGunsmith27.title>სამხედრო მეიარაღე</MilitaryGunsmith27.title>
+  <MilitaryGunsmith27.titleShort>მეიარაღე</MilitaryGunsmith27.titleShort>
+  <MilitaryInventor35.description>Jackson, in a final act of rebellion, left [PAWN_possessive] father's lab and joined the local Imperial military.\n\n[PAWN_pronoun] used [PAWN_possessive] laboratory skills to design machines of war. At this [PAWN_pronoun] was one of the best on [PAWN_possessive] planet.</MilitaryInventor35.description>
+  <MilitaryInventor35.title>სამხედრო გამომგონებელი</MilitaryInventor35.title>
+  <MilitaryInventor35.titleShort>გამომგონებელი</MilitaryInventor35.titleShort>
+  <MilitaryOfficer17.description>Obsessed with interstellar travel, [PAWN_nameDef] left [PAWN_possessive] desolate life behind to join a military academy in hopes of becoming a pilot.\n\n[PAWN_pronoun] was trained in advanced combat and survival skills. While [PAWN_pronoun] excelled in [PAWN_possessive] studies, [PAWN_nameDef] was a loner and never cared about [PAWN_possessive] crewmates.</MilitaryOfficer17.description>
+  <MilitaryOfficer17.title>სამხედრო ოფიცერი</MilitaryOfficer17.title>
+  <MilitaryOfficer17.titleShort>ოფიცერი</MilitaryOfficer17.titleShort>
+  <MilitiaSoldier79.description>[PAWN_nameDef] joined the militia forces and fought for rights and peace.\n\nAfter [PAWN_possessive] homeworld was unexpectedly destroyed in the wars, [PAWN_pronoun] traveled great distances, seeking a refuge where [PAWN_pronoun] could build a new, free way of life.</MilitiaSoldier79.description>
+  <MilitiaSoldier79.title>მილიციის ჯარისკაცი</MilitiaSoldier79.title>
+  <MilitiaSoldier79.titleShort>ჯარისკაცი</MilitiaSoldier79.titleShort>
+  <MindwipedAssassin50.description>The corporation took and remade [PAWN_nameDef]. They trained [PAWN_objective] into an tool of destruction and subversion. [PAWN_pronoun] took to [PAWN_possessive] new life, finding satisfaction in the jobs they sent [PAWN_objective] on.\n\nWhen [PAWN_pronoun] learned that they planned on disposing of [PAWN_objective], [PAWN_nameDef] turned on [PAWN_possessive] masters, killing several and fleeing the planet.</MindwipedAssassin50.description>
+  <MindwipedAssassin50.title>გონებადაკარგული მკვლელი</MindwipedAssassin50.title>
+  <MindwipedAssassin50.titleShort>გონებაგაშლილი</MindwipedAssassin50.titleShort>
+  <Minister88.description>[PAWN_nameDef]-მა მოახერხა მნიშვნელოვანი თანამდებობის დაკავება მცირე ბრწყინვალე სამყაროს მთავრობაში. [PAWN_pronoun] მიეჩვია სიმდიდრეს, როდესაც ცდილობდა შეენარჩუნებინა [PAWN_possessive] მოქალაქეების შინაარსი. [PAWN_pronoun]-ს ჰქონდა საკმარისი დრო სიამოვნებისთვის და სიამოვნებისთვის – თუმცა [PAWN_pronoun] არასოდეს დაავიწყდა, როგორ გაეკეთებინა მძიმე სამუშაო.</Minister88.description>
+  <Minister88.title>მინისტრი</Minister88.title>
+  <Minister88.titleShort>მინისტრი</Minister88.titleShort>
+  <Missionary99.description>[PAWN_nameDef]-მა გადაწყვიტა [PAWN_possessive] ცხოვრება მიეძღვნა რელიგიურ მსახურებას. [PAWN_pronoun] მშვიდობის აღთქმა დადო და რამდენიმე წელი ქადაგებდა და ემსახურებოდა უსახლკაროების წვნიან სამზარეულოებში.</Missionary99.description>
+  <Missionary99.title>მისიონერული</Missionary99.title>
+  <Missionary99.titleShort>მისიონერული</Missionary99.titleShort>
+  <MobHenchman53.description>მას შემდეგ, რაც მონობის გემმა [PAWN_possessive] საშინაო სამყაროდან „გადაარჩინა“, [PAWN_nameDef] მიჰყიდეს ურბსამყაროს კრიმინალ მბრძანებელს, სადაც [PAWN_pronoun] გამოიყენებოდა როგორც მხდალი. [PAWN_pronoun] სპეციალიზირებულია დაბალტექნოლოგიურ დარტყმებსა და დაშინებაში.</MobHenchman53.description>
+  <MobHenchman53.title>ბრბოს მეთაური</MobHenchman53.title>
+  <MobHenchman53.titleShort>მეჯვარე</MobHenchman53.titleShort>
+  <MuffaloResearcher67.description>[PAWN_nameDef] specialized in studying and manipulating the genetic code of the muffalo.\n\n[PAWN_possessive] work left little time to develop an appreciation for the arts or other people's company.</MuffaloResearcher67.description>
+  <MuffaloResearcher67.title>მუფალოს მკვლევარი</MuffaloResearcher67.title>
+  <MuffaloResearcher67.titleShort>მკვლევარი</MuffaloResearcher67.titleShort>
+  <MutinousCaptain52.description>[PAWN_nameDef] was taken to the stars by slavers after [PAWN_possessive] tribe was decimated in a raid. Over the years [PAWN_pronoun] learned the language of [PAWN_possessive] captors, eventually working for them as an interpreter and diplomat.\n\nThe captain only learned of [PAWN_nameDef]'s true cunning when revenge was taken by form of mutiny.</MutinousCaptain52.description>
+  <MutinousCaptain52.title>ამბოხებული კაპიტანი</MutinousCaptain52.title>
+  <MutinousCaptain52.titleShort>კაპიტანი</MutinousCaptain52.titleShort>
+  <NavyTechOfficer0.description>After repairing a fleet admiral's holoscreen with nothing but a pair of rusty pliers and scrap wire, [PAWN_nameDef] was invited to the Federation Naval Academy.\n\n[PAWN_pronoun] received an excellent technical education and extensive firearms training, but had no interest in studying more menial skills.</NavyTechOfficer0.description>
+  <NavyTechOfficer0.title>საზღვაო ძალების ტექნიკური ოფიცერი</NavyTechOfficer0.title>
+  <NavyTechOfficer0.titleShort>საზღვაო ტექნიკა</NavyTechOfficer0.titleShort>
+  <NetworkEngineer34.description>[PAWN_nameDef] spent all [PAWN_possessive] time working on computer networking systems.\n\n[PAWN_pronoun] lived without a care in the world - other than uptime and dropped packets.</NetworkEngineer34.description>
+  <NetworkEngineer34.title>ქსელის ინჟინერი</NetworkEngineer34.title>
+  <NetworkEngineer34.titleShort>ინჟინერი</NetworkEngineer34.titleShort>
+  <NeuroScientist19.description>[PAWN_nameDef] worked for a long time to improve mankind's understanding of the human brain.\n\nAfter succeeding in mapping the whole brain, [PAWN_nameDef] joined a team of scientists on a quest to map the brains of the most exotic altered humans.</NeuroScientist19.description>
+  <NeuroScientist19.title>ნეირომეცნიერი</NeuroScientist19.title>
+  <NeuroScientist19.titleShort>მეცნიერი</NeuroScientist19.titleShort>
+  <NinjaAssassin31.description>[PAWN_nameDef] performed stiletto-precise assassinations for an interplanetary conglomerate. [PAWN_pronoun] was assigned the most complex missions involving disguise, deception, subterfuge, and efficient violence.\n\nA nasty incident with a potted plant and an assassination gone wrong left [PAWN_objective] with an aversion to plant life.</NinjaAssassin31.description>
+  <NinjaAssassin31.title>ნინძას მკვლელი</NinjaAssassin31.title>
+  <NinjaAssassin31.titleShort>ნინძა</NinjaAssassin31.titleShort>
+  <OrbitalReservist22.description>When the government declared that it would strengthen its military defenses, [PAWN_nameDef] was drafted and trained.\n\n[PAWN_pronoun] was stationed on an orbital base, manning the defense systems and, in dire situations, descending in a dropship to the surface.</OrbitalReservist22.description>
+  <OrbitalReservist22.title>ორბიტალური რეზერვისტი</OrbitalReservist22.title>
+  <OrbitalReservist22.titleShort>რეზერვისტი</OrbitalReservist22.titleShort>
+  <Osteologist74.description>After graduating university at the top of [PAWN_possessive] class, [PAWN_nameDef] quickly became a well-known and athletic college professor.\n\nWith [PAWN_possessive] new found fame and fitness came a sudden reluctance to preform menial labor - such tasks are better left to graduate students.</Osteologist74.description>
+  <Osteologist74.title>ოსტეოლოგი</Osteologist74.title>
+  <Osteologist74.titleShort>მეცნიერი</Osteologist74.titleShort>
+  <OverwatchSniper42.description>[PAWN_nameDef] didn't know why [PAWN_pronoun] joined the military, but [PAWN_pronoun] stayed to protect [PAWN_possessive] fellow soldiers.\n\nArmy life broke [PAWN_objective] down and built [PAWN_objective] back up. It taught [PAWN_objective] marksmanship, hand to hand combat and how to patch a bullet wound in a hurry.</OverwatchSniper42.description>
+  <OverwatchSniper42.title>overwatch სნაიპერი</OverwatchSniper42.title>
+  <OverwatchSniper42.titleShort>სნაიპერი</OverwatchSniper42.titleShort>
+  <ParamilitaryAgent11.description>სხვადასხვა დაჩრდილულ სამუშაოებზე გასვლის შემდეგ, [PAWN_nameDef] შეუერთდა დიდ გასამხედროებულ ჯგუფს, რათა ებრძოლა [PAWN_possessive] საშინაო სამყაროს. [PAWN_possessive] როლი იყო ინფილტრაცია და დაზვერვის შეგროვება</ParamilitaryAgent11.description>
+  <ParamilitaryAgent11.title>გასამხედროებული აგენტი</ParamilitaryAgent11.title>
+  <ParamilitaryAgent11.titleShort>აგენტი</ParamilitaryAgent11.titleShort>
+  <ParticlePhysicist44.description>[PAWN_nameDef]-მა ჩაატარა უახლესი ფიზიკის კვლევა. [PAWN_pronoun] სურდა დახმარებოდა უკეთესი და მშვიდობიანი მომავლის აშენებაში.</ParticlePhysicist44.description>
+  <ParticlePhysicist44.title>ნაწილაკების ფიზიკოსი</ParticlePhysicist44.title>
+  <ParticlePhysicist44.titleShort>ფიზიკოსი</ParticlePhysicist44.titleShort>
+  <Philosopher97.description>[PAWN_nameDef]'s thirst for archaeo-technological knowledge drove [PAWN_objective] to spend years surveying abandoned data centers and studying ancient coding languages.\n\n[PAWN_pronoun] claimed to be one of the few who could piece together the tragedy of the past - and offer a path to the future.</Philosopher97.description>
+  <Philosopher97.title>ფილოსოფოსი</Philosopher97.title>
+  <Philosopher97.titleShort>ბრძენი</Philosopher97.titleShort>
+  <Pirate56.description>As a pirate leader, [PAWN_nameDef] was well-known for [PAWN_possessive] cunning plans and chess-like traps. [PAWN_pronoun] was never afraid to sacrifice a few pawns to capture an important target.\n\n[PAWN_possessive] name has been linked more then once to strategies that overcame overwhelming odds.</Pirate56.description>
+  <Pirate56.title>მეკობრე</Pirate56.title>
+  <Pirate56.titleShort>მეკობრე</Pirate56.titleShort>
+  <PirateCaptain69.description>[PAWN_nameDef] მუშაობდა [PAWN_possessive] მეკობრეების გემის რიგებში და საბოლოოდ გახდა კაპიტანი. [PAWN_pronoun] მიჰყავს [PAWN_possessive] ეკიპაჟს სამყაროებს შორის, რაც დასამახსოვრებელ სახელს ქმნის.</PirateCaptain69.description>
+  <PirateCaptain69.title>მეკობრე კაპიტანი</PirateCaptain69.title>
+  <PirateCaptain69.titleShort>კაპიტანი</PirateCaptain69.titleShort>
+  <PirateDoctor0.description>[PAWN_nameDef] had a passion for medicine, but never bothered to get a medical degree. Only underfunded pirates and terrorists were desperate enough to hire [PAWN_possessive] services, and [PAWN_possessive] surgical patients had about a 50% survival rate.\n\nDespite this, [PAWN_possessive] optimistic attitude drove [PAWN_objective] to keep trying to heal those in need. As long as they paid up front.</PirateDoctor0.description>
+  <PirateDoctor0.title>მეკობრე ექიმი</PirateDoctor0.title>
+  <PirateDoctor0.titleShort>ცუდი დოქტორი</PirateDoctor0.titleShort>
+  <PirateKing69.description>სხვა ადამიანებზე რეალური ზრუნვის გარეშე, [PAWN_nameDef] მშვენივრად ერგებოდა მეკობრეების ეკიპაჟს, რომელიც ოდესღაც [PAWN_objective] ტყვეობაში იყო. ეკიპაჟში შეერთებიდან მალევე, [PAWN_nameDef]-მა დაიწყო ვინმეს ან ყველაფრის მოკვლა, ვინც [PAWN_possessive] გზაზე მოხვდა, მათ შორის, [PAWN_possessive] ეკიპაჟის თანამოაზრეები.</PirateKing69.description>
+  <PirateKing69.title>მეკობრე მეფე</PirateKing69.title>
+  <PirateKing69.titleShort>მეკობრე</PirateKing69.titleShort>
+  <PirateSympathizer24.description>From [PAWN_possessive] youth, [PAWN_nameDef] developed connections in the underworld. There [PAWN_pronoun] trained in melee combat and became a trusted underworld advisor.\n\nAfter participating in a failed rebellion, [PAWN_pronoun] fled [PAWN_possessive] homeworld to travel with a pirate band.</PirateSympathizer24.description>
+  <PirateSympathizer24.title>მეკობრეების თანამგრძნობი</PirateSympathizer24.title>
+  <PirateSympathizer24.titleShort>მეკობრე</PirateSympathizer24.titleShort>
+  <PirateTrooper73.description>[PAWN_nameDef] joined a renowned interstellar criminal organization, and was often part of shock-assault boarding parties during starship raids.\n\nThough [PAWN_possessive] combat experience made [PAWN_objective] a good fighter, the ruthlessness of the job left [PAWN_objective] cold-hearted and unenthusiastic about social interaction.</PirateTrooper73.description>
+  <PirateTrooper73.title>მეკობრე ჯარისკაცი</PirateTrooper73.title>
+  <PirateTrooper73.titleShort>ჯარისკაცი</PirateTrooper73.titleShort>
+  <PlagueDoctor31.description>[PAWN_nameDef] provided medical care on multiple plague-wracked worlds, always working under the Hippocratic oath. [PAWN_pronoun] improved conditions for those under quarantine while administering complex medical treatments and developing medicines.\n\n[PAWN_pronoun] never had time to enjoy a normal life outside of work.</PlagueDoctor31.description>
+  <PlagueDoctor31.title>ჭირის ექიმი</PlagueDoctor31.title>
+  <PlagueDoctor31.titleShort>ექიმი</PlagueDoctor31.titleShort>
+  <PlanetaryDiplomat7.description>[PAWN_nameDef]-ის გატაცება და პროფესია იყო პლანეტათაშორისი პოლიტიკა. [PAWN_pronoun] იყო სოციალური მანიპულაციისა და მოლაპარაკებების ოსტატი და მიუძღვნა [PAWN_objective] მუშაობას მშვიდობის, კომპრომისისა და ორმხრივი სარგებლისკენ.</PlanetaryDiplomat7.description>
+  <PlanetaryDiplomat7.title>პლანეტარული დიპლომატი</PlanetaryDiplomat7.title>
+  <PlanetaryDiplomat7.titleShort>დიპლომატი</PlanetaryDiplomat7.titleShort>
+  <PoisonGardener29.description>[PAWN_nameDef] spent almost all [PAWN_possessive] time tending to a poison garden and became withdrawn from society.\n\nIn that time [PAWN_pronoun] learnt a few safe culinary and medicinal uses for the otherwise deadly plants.</PoisonGardener29.description>
+  <PoisonGardener29.title>შხამიანი მებაღე</PoisonGardener29.title>
+  <PoisonGardener29.titleShort>ბოტანიკოსი</PoisonGardener29.titleShort>
+  <PoliticalActivist20.description>[PAWN_nameDef] was involved with a radical political faction which worked against [PAWN_possessive] homeworld's government.\n\nThe guerilla tactics training that [PAWN_nameDef] received from [PAWN_possessive] associates gave [PAWN_objective] the skills to fight, but also drove [PAWN_objective] to compromise [PAWN_possessive] own beliefs.</PoliticalActivist20.description>
+  <PoliticalActivist20.title>პოლიტიკური აქტივისტი</PoliticalActivist20.title>
+  <PoliticalActivist20.titleShort>აქტივისტი</PoliticalActivist20.titleShort>
+  <PoliticalAssassin46.description>[PAWN_nameDef] realized that [PAWN_possessive] true calling was in physical solutions to diplomatic problems. [PAWN_pronoun] sought training from the assassins guild on Ceti V.\n\n[PAWN_pronoun] was a quick study at the arts of subterfuge and death. [PAWN_pronoun] soon earned the guild rank of Deathjack.</PoliticalAssassin46.description>
+  <PoliticalAssassin46.title>პოლიტიკური მკვლელი</PoliticalAssassin46.title>
+  <PoliticalAssassin46.titleShort>სიკვდილის ჯეკი</PoliticalAssassin46.titleShort>
+  <Politician57.description>[PAWN_nameDef] was an activist in a powerful political faction. There [PAWN_pronoun] learned the art of persuasion and speech.\n\n[PAWN_pronoun] had many enemies, so [PAWN_pronoun] took secret courses in shooting and hand-to-hand combat.</Politician57.description>
+  <Politician57.title>პოლიტიკოსი</Politician57.title>
+  <Politician57.titleShort>პოლიტიკოსი</Politician57.titleShort>
+  <PopIdol59.description>[PAWN_nameDef] მუდმივად ატარებდა ინტერვიუებს. [PAWN_pronoun] დახვეწა [PAWN_possessive] უნარები ცეკვასა და სიმღერაში და გახდა სოციალური პრეზენტაციის ოსტატი.</PopIdol59.description>
+  <PopIdol59.title>პოპ კერპი</PopIdol59.title>
+  <PopIdol59.titleShort>პოპ კერპი</PopIdol59.titleShort>
+  <PopIdolPirate39.description>[PAWN_nameDef] and [PAWN_possessive] fans set out as a space pirate crew. [PAWN_pronoun] raided corporations for money and staged performances to spread [PAWN_possessive] name.\n\n[PAWN_nameDef] became afraid of fire when a rival burned [PAWN_possessive] stage down. [PAWN_pronoun] relied on [PAWN_possessive] fans to do the work [PAWN_pronoun] found unappealing.</PopIdolPirate39.description>
+  <PopIdolPirate39.title>პოპ კერპი მეკობრე</PopIdolPirate39.title>
+  <PopIdolPirate39.titleShort>მეკობრე</PopIdolPirate39.titleShort>
+  <PrisonerOfWar2.description>[PAWN_nameDef] was captured and put on death row for war crimes.\n\nFortunately for [PAWN_objective], someone cut the power to [PAWN_possessive] cell block. Riots ignited. Guards and trained wargs were deployed to quell the uprising. Organizing a few other inmates, [PAWN_nameDef] escaped in a small spacecraft.</PrisonerOfWar2.description>
+  <PrisonerOfWar2.title>ომის ტყვე</PrisonerOfWar2.title>
+  <PrisonerOfWar2.titleShort>პატიმარი</PrisonerOfWar2.titleShort>
+  <PrivateDetective66.description>როგორც პირადი თვალი, მახვილი ჭკუა და ვერცხლისფერი ენა [PAWN_nameDef]-ის საუკეთესო იარაღები იყო. [PAWN_ნაცვალსახელი] ხშირად ატარებდა ღამეებს [PAWN_possessive] სამუშაო საქმეებზე, რომლებიც მერყეობდა საქმეების გამოვლენიდან და სავაჭრო საიდუმლოების შესწავლიდან მკვლელობის საქმეების მოგვარებამდე და კრიმინალურ ორგანიზაციებში შეღწევით. არ ყოფილა შემთხვევა, რომ [PAWN_pronoun] არ მიეღო სწორ ფასად.</PrivateDetective66.description>
+  <PrivateDetective66.title>კერძო დეტექტივი</PrivateDetective66.title>
+  <PrivateDetective66.titleShort>დეტექტივი</PrivateDetective66.titleShort>
+  <ProstheticSurgeon0.description>[PAWN_nameDef]-მა გამოიყენა [PAWN_possessive] ნიჭი პროთეზირებისთვის, რათა სხვები „წინასწარიყოს“ კიდურების და ორგანოების ლითონისა და ელექტრონიკის ჩანაცვლებით.</ProstheticSurgeon0.description>
+  <ProstheticSurgeon0.title>პროთეზი ქირურგი</ProstheticSurgeon0.title>
+  <ProstheticSurgeon0.titleShort>ქირურგი</ProstheticSurgeon0.titleShort>
+  <ProstituteIdol28.description>After [PAWN_possessive] father was deposed, [PAWN_nameDef]'s beauty led [PAWN_objective] to be forced into pornography to survive.\n\nOver years of difficult treatments, [PAWN_possessive] body was remodeled to appear temporarily ageless. Sold to an orbital brothel, [PAWN_pronoun] became popular, with a steady stream of clients from all over the planet.</ProstituteIdol28.description>
+  <ProstituteIdol28.title>მეძავი კერპი</ProstituteIdol28.title>
+  <ProstituteIdol28.titleShort>მეძავი</ProstituteIdol28.titleShort>
+  <RaiderKing38.description>დაწყებული როგორც სხვა არაფერი, თუ არა მონა, [PAWN_nameDef] სწრაფად ამაღლდა თავდამსხმელთა რიგებში, სანამ ყველამ არ იცოდა [PAWN_possessive] სახელი და [PAWN_possessive] დაუნდობლობა.</RaiderKing38.description>
+  <RaiderKing38.title>რაიდერ მეფე</RaiderKing38.title>
+  <RaiderKing38.titleShort>მეკობრე</RaiderKing38.titleShort>
+  <Ranger6.description>[PAWN_nameDef] ცხოვრობდა მარტო, ტყის სიღრმეში. [PAWN_pronoun] იცავდა ველურ ბუნებას ბრაკონიერებისგან და ისწავლა საკუთარი მატერიალური მოთხოვნილებების დაკმაყოფილება გარე დახმარების გარეშე.</Ranger6.description>
+  <Ranger6.title>რეინჯერი</Ranger6.title>
+  <Ranger6.titleShort>რეინჯერი</Ranger6.titleShort>
+  <RebelFighter39.description>When civil war broke out [PAWN_nameDef] remained neutral, until [PAWN_possessive] home was firebombed by a loyalist militia.\n\nLater, [PAWN_possessive] unit gave [PAWN_objective] the nickname "Rare" after [PAWN_pronoun] burnt down the luxury villa of a loyalist leader, with them still inside it.</RebelFighter39.description>
+  <RebelFighter39.title>მეამბოხე მებრძოლი</RebelFighter39.title>
+  <RebelFighter39.titleShort>მეამბოხე</RebelFighter39.titleShort>
+  <ReligiousHierarch16.description>Ordained as a priest in [PAWN_possessive] local community, [PAWN_nameDef] used intrigue and diplomacy to rise to the higher echelon of the clergy. [PAWN_pronoun] held numerous titles and lands.\n\nOne day, a merchant landed [PAWN_possessive] spaceship near [PAWN_nameDef]'s home. [PAWN_pronoun] decided to accompany the merchant in search for new worlds and challenges.</ReligiousHierarch16.description>
+  <ReligiousHierarch16.title>რელიგიური იერარქი</ReligiousHierarch16.title>
+  <ReligiousHierarch16.titleShort>იერარქი</ReligiousHierarch16.titleShort>
+  <RenegadeEngineer43.description>After a daring escape from the prison planet with a small crew of fellow inmates, [PAWN_nameDef] set [PAWN_possessive] gaze on [PAWN_possessive] homeworld.\n\n[PAWN_pronoun] traveled there, recruited more followers, hijacked a space cruiser, and launched into the void.</RenegadeEngineer43.description>
+  <RenegadeEngineer43.title>რენეგატი ინჟინერი</RenegadeEngineer43.title>
+  <RenegadeEngineer43.titleShort>ინჟინერი</RenegadeEngineer43.titleShort>
+  <RenownedProfessor51.description>[PAWN_nameDef]'s bottomless compassion and love of knowledge drove [PAWN_objective] to a life of teaching. [PAWN_pronoun] became one of the best-known names in academia throughout the urbworld bubble.\n\n[PAWN_possessive] holo-lectures were revered by all that watched, and the few students [PAWN_pronoun] accepted into [PAWN_possessive] seminars spoke widely of [PAWN_possessive] kindness and patience.</RenownedProfessor51.description>
+  <RenownedProfessor51.title>ცნობილი პროფესორი</RenownedProfessor51.title>
+  <RenownedProfessor51.titleShort>პროფესორი</RenownedProfessor51.titleShort>
+  <Reporter71.description>[PAWN_nameDef] spent many years as an investigative reporter. [PAWN_pronoun] was notorious for making chaotic reports from exotic locations.\n\nAlthough seen as a lightweight by [PAWN_possessive] critics, [PAWN_pronoun] managed to break several high-profile stories after lengthy investigations.</Reporter71.description>
+  <Reporter71.title>რეპორტიორი</Reporter71.title>
+  <Reporter71.titleShort>რეპორტიორი</Reporter71.titleShort>
+  <ReptileResearcher37.description>After leaving [PAWN_possessive] parents' vineyard, [PAWN_nameDef] traveled across much of known space, and learned many skills along the way.\n\n[PAWN_pronoun] spent most of [PAWN_possessive] time researching and interacting with reptile species. [PAWN_pronoun] was renowned for making several breakthroughs, and for discovering the "Thorny Devil".</ReptileResearcher37.description>
+  <ReptileResearcher37.title>ქვეწარმავლების მკვლევარი</ReptileResearcher37.title>
+  <ReptileResearcher37.titleShort>მკვლევარი</ReptileResearcher37.titleShort>
+  <Restorer70.description>[PAWN_nameDef] იმოგზაურა მთელ მსოფლიოში, ყოველთვის ეძებდა ძველ და მივიწყებულ ნივთებს სხვების სასიკეთოდ შესაკეთებლად, მუშაობდა ყველაფერში ჭეშმარიტი სილამაზის დასანახად.</Restorer70.description>
+  <Restorer70.title>რესტავრატორი</Restorer70.title>
+  <Restorer70.titleShort>რესტავრატორი</Restorer70.titleShort>
+  <RimworldExile32.description>After [PAWN_possessive] planet was technologically uplifted by a benevolent glitterworld charity, [PAWN_nameDef] saw an opportunity to make some money by defrauding the wealthy glitterworld visitors.\n\nAfter [PAWN_pronoun] was caught, [PAWN_pronoun] was exiled to the rim, where [PAWN_pronoun] targeted rich trading companies to continue [PAWN_possessive] life of crime.</RimworldExile32.description>
+  <RimworldExile32.title>Rimworld გადასახლება</RimworldExile32.title>
+  <RimworldExile32.titleShort>გადასახლება</RimworldExile32.titleShort>
+  <Roboticist1.description>Sailors often died on the dangerous waters of [PAWN_nameDef]'s ocean planet. [PAWN_pronoun] created robots to replace them.\n\nOver time, [PAWN_pronoun] collected a small crew of robots to do [PAWN_possessive] bidding. [PAWN_pronoun] became proficient at mechanics and engineering, but lost the taste for manual labor.</Roboticist1.description>
+  <Roboticist1.title>რობოტიკოსი</Roboticist1.title>
+  <Roboticist1.titleShort>რობოტიკოსი</Roboticist1.titleShort>
+  <Roboticist41.description>[PAWN_nameDef] felt more comfortable with robots and artificial intelligences than with organic people, so [PAWN_pronoun] worked as a roboticist. [PAWN_pronoun] took a particular interest in mechanites and ancient technology.\n\n[PAWN_nameDef] relied on other people for [PAWN_possessive] basic needs.</Roboticist41.description>
+  <Roboticist41.title>რობოტიკოსი</Roboticist41.title>
+  <Roboticist41.titleShort>რობოტიკოსი</Roboticist41.titleShort>
+  <RocketEngineer53.description>[PAWN_nameDef]-მა მოიგო გრანტი უმაღლეს სკოლაში და მიიღო ხარისხი რაკეტის ინჟინერიაში. კოსმოსური მაღაროების კომპანიაში [PAWN_pronoun] რამდენიმე წლის მუშაობის შემდეგ გაემგზავრა სამოგზაუროდ და სამყაროს სანახავად.</RocketEngineer53.description>
+  <RocketEngineer53.title>რაკეტის ინჟინერი</RocketEngineer53.title>
+  <RocketEngineer53.titleShort>ინჟინერი</RocketEngineer53.titleShort>
+  <RocketPioneer19.description>As a self-taught engineer, [PAWN_nameDef] escaped [PAWN_possessive] dying homeworld on a rocket [PAWN_pronoun] built [PAWN_objective]self.\n\n[PAWN_pronoun] later spent years of [PAWN_possessive] life on several worlds, helping less-developed planets develop rocket technology.</RocketPioneer19.description>
+  <RocketPioneer19.title>რაკეტის პიონერი</RocketPioneer19.title>
+  <RocketPioneer19.titleShort>რაკეტატორი</RocketPioneer19.titleShort>
+  <RugbyPlayer71.description>After years of addiction to virtual reality games, [PAWN_nameDef] was saved when the doctors unplugged him.\n\nUnfortunately, they unplugged [PAWN_objective] during a match of Rugby Rampage 4. The mental backlash merged [PAWN_possessive] real identity and [PAWN_possessive] virtual identity, leaving [PAWN_objective] with the personality and skills of a rugby player.</RugbyPlayer71.description>
+  <RugbyPlayer71.title>მორაგბე</RugbyPlayer71.title>
+  <RugbyPlayer71.titleShort>გარემარბი</RugbyPlayer71.titleShort>
+  <RunawayDancer35.description>Grown by and for science, [PAWN_nameDef] gave it up. Instead, [PAWN_pronoun] wanted to dance for crowds across many worlds, from the glamor of the glitterworlds to the dangers of the rim.\n\nSuch work required wearing a smile on [PAWN_possessive] face and a pistol under [PAWN_possessive] costume.</RunawayDancer35.description>
+  <RunawayDancer35.title>გაქცეული მოცეკვავე</RunawayDancer35.title>
+  <RunawayDancer35.titleShort>მოცეკვავე</RunawayDancer35.titleShort>
+  <SanitationCaptain29.description>After graduating officer training school, [PAWN_nameDef] was assigned to main battle deck on the Thunder-Child. [PAWN_pronoun] served there for a year before [PAWN_possessive] "gallant" actions saw [PAWN_objective] reassigned to the maintenance corps.\n\nIt was with the maintenance corps [PAWN_pronoun] was dubbed [PAWN_nameDef] on account of [PAWN_possessive] legs.</SanitationCaptain29.description>
+  <SanitationCaptain29.title>სანიტარული კაპიტანი</SanitationCaptain29.title>
+  <SanitationCaptain29.titleShort>დამლაგებელი</SanitationCaptain29.titleShort>
+  <SelflessHunter61.description>[PAWN_nameDef] was a hunter of mysterious creatures that many didn't even believe existed. Sometimes the people were right - and sometimes they were wrong.\n\nAlong the way, [PAWN_pronoun] helped people in need.</SelflessHunter61.description>
+  <SelflessHunter61.title>უანგარო მონადირე</SelflessHunter61.title>
+  <SelflessHunter61.titleShort>მონადირე</SelflessHunter61.titleShort>
+  <SerialMurderer47.description>[PAWN_nameDef] started to enjoy killing people, so [PAWN_pronoun] did more often and perfected [PAWN_possessive] methods. [PAWN_pronoun] lurked in the darkest streets, stalking prey for hours.\n\n[PAWN_pronoun] enjoyed making artworks of [PAWN_possessive] victims, and was known for leaving [PAWN_possessive] signature on the bodies of those [PAWN_pronoun] killed.</SerialMurderer47.description>
+  <SerialMurderer47.title>სერიული მკვლელი</SerialMurderer47.title>
+  <SerialMurderer47.titleShort>მკვლელი</SerialMurderer47.titleShort>
+  <ShadowMarine63.description>After perfecting [PAWN_possessive] skills as a pathfinder, [PAWN_nameDef] left [PAWN_possessive] unit to put [PAWN_possessive] skills to use on the planets [PAWN_pronoun] helped chart.\n\nFamiliar with orbital trade routes, [PAWN_pronoun] was able to get onto and off any planet without being detected.</ShadowMarine63.description>
+  <ShadowMarine63.title>ჩრდილოვანი საზღვაო</ShadowMarine63.title>
+  <ShadowMarine63.titleShort>საზღვაო</ShadowMarine63.titleShort>
+  <ShamanOfShadows47.description>When the monsters of fire came from the sky, [PAWN_nameDef] was called upon by [PAWN_possessive] tribe to guide them into battle.\n\n[PAWN_nameDef] made use of medicines and rituals to inspire and lead the warriors of many tribes against the invaders. The pirates were forced to retreat without capturing a single slave.</ShamanOfShadows47.description>
+  <ShamanOfShadows47.title>ჩრდილების შამანი</ShamanOfShadows47.title>
+  <ShamanOfShadows47.titleShort>შამანი</ShamanOfShadows47.titleShort>
+  <ShockTrooper15.description>[PAWN_nameDef] was in a deep space shock troop unit deployed on multiple planets in various wars.\n\nDuring a risky assault, [PAWN_possessive] whole unit was wiped out. Nobody else knew what happened on the field that day, but [PAWN_nameDef] will carry the burden forever.</ShockTrooper15.description>
+  <ShockTrooper15.title>შოკი ჯარისკაცი</ShockTrooper15.title>
+  <ShockTrooper15.titleShort>შოკტროპი</ShockTrooper15.titleShort>
+  <SicklyLawyer49.description>As a lawyer, [PAWN_nameDef] could convict a deaf man for stealing music. [PAWN_possessive] sharp mind and lack of empathy let [PAWN_objective] say anything to get the other person to talk. With the right amount of money, [PAWN_pronoun] knew, any case can be won.\n\n[PAWN_possessive] childhood cough never went away.</SicklyLawyer49.description>
+  <SicklyLawyer49.title>ავადმყოფი ადვოკატი</SicklyLawyer49.title>
+  <SicklyLawyer49.titleShort>ადვოკატი</SicklyLawyer49.titleShort>
+  <Sightseer70.description>[PAWN_nameDef] traveled the stars. [PAWN_pronoun] could barely scrape together travel costs doing odd-jobs, but it was all worth it.\n\n[PAWN_pronoun] loved camping in exotic places and learning the patterns of strange wildlife. [PAWN_pronoun] never could focus on intellectual endeavors, as [PAWN_possessive] sightseeing distracted [PAWN_objective] far too much.</Sightseer70.description>
+  <Sightseer70.title>ღირსშესანიშნაობების დამთვალიერებელი</Sightseer70.title>
+  <Sightseer70.titleShort>ღირსშესანიშნაობების დამთვალიერებელი</Sightseer70.titleShort>
+  <SlaveChemist84.description>[PAWN_nameDef] გახდა ნიჭიერი ფარმაცევტული მეცნიერი, მაგრამ ტყვედ ჩავარდა მონებმა. [PAWN_pronoun] მიჰყიდეს მეომრს და აიძულეს შეექმნა წამლები სხვა მონებზე შესამოწმებლად. ამან [PAWN_objective] დატოვა ღრმა და შემაშფოთებელი კითხვები სამეცნიერო კვლევისა და მედიცინის ეთიკის შესახებ.</SlaveChemist84.description>
+  <SlaveChemist84.title>მონა ქიმიკოსი</SlaveChemist84.title>
+  <SlaveChemist84.titleShort>ქიმიკოსი</SlaveChemist84.titleShort>
+  <Smuggler23.description>As a contract pilot, [PAWN_nameDef] had a knack for stealing goods and trafficking contraband without getting caught.\n\n[PAWN_pronoun] eventually saved up enough to buy [PAWN_possessive] own ship, and used it to travel from world to world dealing [PAWN_possessive] goods in person.</Smuggler23.description>
+  <Smuggler23.title>კონტრაბანდისტი</Smuggler23.title>
+  <Smuggler23.titleShort>კონტრაბანდისტი</Smuggler23.titleShort>
+  <SoftwareDeveloper84.description>მას შემდეგ, რაც [PAWN_pronoun]-მა მოიპოვა ავტომატიზაციის გამოყენების უნარი დაღლილობის მოსაშორებლად, [PAWN_nameDef] ვეღარ მოითმენს ტრადიციულ განათლებას და დასაქმებას.</SoftwareDeveloper84.description>
+  <SoftwareDeveloper84.title>პროგრამული უზრუნველყოფის შემქმნელი</SoftwareDeveloper84.title>
+  <SoftwareDeveloper84.titleShort>დეველოპერი</SoftwareDeveloper84.titleShort>
+  <SoleSurvivor85.description>[PAWN_nameDef] ცხოვრობდა შორეულ კოლონიაში. როდესაც მექანოიდური ასტოფეხები თავს დაესხნენ [PAWN_possessive] სახლს და მოკლეს [PAWN_possessive] ადამიანები, [PAWN_pronoun] იყო უკანასკნელი გადარჩენილი.</SoleSurvivor85.description>
+  <SoleSurvivor85.title>ერთადერთი გადარჩენილი</SoleSurvivor85.title>
+  <SoleSurvivor85.titleShort>გადარჩენილი</SoleSurvivor85.titleShort>
+  <SpaceBartender0.description>[PAWN_nameDef] became a bartender on a space station. [PAWN_pronoun] interacted with and befriended many strangers.\n\nAs time went on, [PAWN_nameDef] used [PAWN_possessive] knowledge of herbs to craft [PAWN_possessive] own strange concoctions for [PAWN_possessive] customers.</SpaceBartender0.description>
+  <SpaceBartender0.title>კოსმოსური ბარმენი</SpaceBartender0.title>
+  <SpaceBartender0.titleShort>ბარმენი</SpaceBartender0.titleShort>
+  <SpaceExplorer53.description>[PAWN_nameDef] spent years trapped, alone on an unknown planet. [PAWN_pronoun] quickly adapted to the local environment, and learned to communicate with [PAWN_possessive] local enemies.\n\nThis long period alone left [PAWN_objective] without close friends. [PAWN_possessive] heart is sensitive, but [PAWN_pronoun] learned to hide [PAWN_possessive] emotions very well.</SpaceExplorer53.description>
+  <SpaceExplorer53.title>კოსმოსური მკვლევარი</SpaceExplorer53.title>
+  <SpaceExplorer53.titleShort>მკვლევარი</SpaceExplorer53.titleShort>
+  <SpaceHumanitarian9.description>მას შემდეგ, რაც დაინახა ჭარბი სიღარიბე, რომელიც გავრცელებულია გადატვირთულ ურბანულ სამყაროებში, [PAWN_nameDef]-მა გადაწყვიტა მიეძღვნა [PAWN_possessive] ცხოვრება ნაკლებად იღბლიანთა დასახმარებლად. ამ ჯვაროსნულმა ლაშქრობამ ასწავლა [PAWN_objective], თუ როგორ უნდა ეზრუნა ავადმყოფებზე და მშიერებზე.</SpaceHumanitarian9.description>
+  <SpaceHumanitarian9.title>კოსმოსური ჰუმანიტარული</SpaceHumanitarian9.title>
+  <SpaceHumanitarian9.titleShort>აქტივისტი</SpaceHumanitarian9.titleShort>
+  <SpaceHunter79.description>ახლა კაცი, ისევე როგორც გამოცდილი მონადირე და მსროლელი, [PAWN_nameDef] უფრო მეტისკენ სურდა. [PAWN_pronoun] დატოვა [PAWN_possessive] დაბადების სამყარო, იმოგზაურა დიდ სივრცეში ეგზოტიკური თამაშის საძიებლად.</SpaceHunter79.description>
+  <SpaceHunter79.title>კოსმოსური მონადირე</SpaceHunter79.title>
+  <SpaceHunter79.titleShort>მონადირე</SpaceHunter79.titleShort>
+  <SpaceMarine19.description>[PAWN_nameDef] შეუერთდა კოსმოსურ საზღვაო ქვეითთა ​​რაზმს, რომელიც ცნობილია მკვლელობის სასტიკი ეფექტურობით. [PAWN_possessive] გვარი და [PAWN_possessive] ემოციების ნაკლებობა ბრძოლის დროს შთაგონებული [PAWN_possessive] მეტსახელი.</SpaceMarine19.description>
+  <SpaceMarine19.title>კოსმოსური საზღვაო</SpaceMarine19.title>
+  <SpaceMarine19.titleShort>საზღვაო</SpaceMarine19.titleShort>
+  <SpaceMarine5.description>[PAWN_nameDef] joined Interplanetary Marines to travel the stars fight for [PAWN_possessive] planet. [PAWN_pronoun] distinguished [PAWN_objective]self in several battles.\n\n[PAWN_possessive] experiences desensitized [PAWN_objective] to people around [PAWN_objective], and [PAWN_possessive] social skills degraded. But, [PAWN_pronoun] did learn how to fight.</SpaceMarine5.description>
+  <SpaceMarine5.title>კოსმოსური საზღვაო</SpaceMarine5.title>
+  <SpaceMarine5.titleShort>საზღვაო</SpaceMarine5.titleShort>
+  <SpaceMarine51.description>[PAWN_nameDef] დაკომპლექტდა პლანეტაგარე კორპორაციის უსაფრთხოების ძალებში. [PAWN_pronoun] იცავდა გემებს მეკობრეებისგან და მონაწილეობდა კერძო კოსმოსური ომის კონტრაქტებში.</SpaceMarine51.description>
+  <SpaceMarine51.title>კოსმოსური საზღვაო</SpaceMarine51.title>
+  <SpaceMarine51.titleShort>საზღვაო</SpaceMarine51.titleShort>
+  <SpaceMarine9.description>[PAWN_nameDef] was a member of an elite imperial space warrior unit. Subjected to intense training, [PAWN_pronoun] developed remarkable combat skills.\n\n[PAWN_possessive] unit's quasi-religious ceremonies and beliefs helped [PAWN_objective] stay more-or-less sane through the horrors of the war.</SpaceMarine9.description>
+  <SpaceMarine9.title>კოსმოსური საზღვაო</SpaceMarine9.title>
+  <SpaceMarine9.titleShort>საზღვაო</SpaceMarine9.titleShort>
+  <SpaceMarine94.description>[PAWN_nameDef] was a warrior in an Imperial navy.\n\n[PAWN_possessive] job was to punch into enemy starships, gun down the crew, and capture the ship intact. And [PAWN_pronoun] was good at it.</SpaceMarine94.description>
+  <SpaceMarine94.title>კოსმოსური საზღვაო</SpaceMarine94.title>
+  <SpaceMarine94.titleShort>საზღვაო</SpaceMarine94.titleShort>
+  <SpaceMarineMedic10.description>[PAWN_nameDef] joined a colony contact expeditionary force as a medic. The mission turned bad when the colonists turned out to be suffering from a zombifying disease. [PAWN_pronoun] ran and fought for days.\n\nCornered with wounded men, [PAWN_pronoun] sprayed enough ammunition to wear out four machine gun barrels, and learned the value of high-volume fire. But [PAWN_possessive] nickname, Noob, stuck from that day forward.</SpaceMarineMedic10.description>
+  <SpaceMarineMedic10.title>კოსმოსური საზღვაო მედიკოსი</SpaceMarineMedic10.title>
+  <SpaceMarineMedic10.titleShort>მედიკოსი</SpaceMarineMedic10.titleShort>
+  <SpaceMerchant97.description>როგორც თავისუფალი ინტერპლანეტარული ცხოვრების წესის ნაწილი, [PAWN_nameDef] ცდილობდა დაეუფლა [PAWN_possessive] რომანტიკულ ინტერესებს ისევე, როგორც [PAWN_possessive] ბიზნეს მოწინააღმდეგეებზე. როდესაც [PAWN_pronoun]-ს არ ჰყავდა [PAWN_possessive] საკუთარი გემი საფრენად, [PAWN_pronoun] მუშაობდა ჩარტერულ გემებზე დაქირავებით.</SpaceMerchant97.description>
+  <SpaceMerchant97.title>კოსმოსური ვაჭარი</SpaceMerchant97.title>
+  <SpaceMerchant97.titleShort>ვაჭარი</SpaceMerchant97.titleShort>
+  <SpaceNavyDoctor72.description>[PAWN_nameDef] ემსახურებოდა რამდენიმე ტურს, როგორც ექიმი იმ რამდენიმე ხომალდზე, რომელიც იცავდა [PAWN_possessive] საშინაო სამყაროს. [PAWN_pronoun] ისწავლა საბრძოლო უნარები მეკობრეების დროდადრო პანსიონატებთან ბრძოლისას და გახდა ექსპერტი საბრძოლო ჭრილობების შემზარავი ჭრილობების სამკურნალოდ.</SpaceNavyDoctor72.description>
+  <SpaceNavyDoctor72.title>კოსმოსური ფლოტის ექიმი</SpaceNavyDoctor72.title>
+  <SpaceNavyDoctor72.titleShort>ექიმი</SpaceNavyDoctor72.titleShort>
+  <SpaceNavyTech37.description>[PAWN_nameDef] was in a space navy for the most powerful planet in the local star group. [PAWN_pronoun] developed skills in maintenance, electronic systems, radar and imaging, and logistics management.\n\n[PAWN_pronoun] served with pride and patriotic love for [PAWN_possessive] planet.</SpaceNavyTech37.description>
+  <SpaceNavyTech37.title>კოსმოსური საზღვაო ტექნიკა</SpaceNavyTech37.title>
+  <SpaceNavyTech37.titleShort>საზღვაო ტექნიკა</SpaceNavyTech37.titleShort>
+  <SpaceRaider71.description>[PAWN_nameDef] იყო კოსმოსური მეკობრეების ეკიპაჟის ლიდერი. საზღვრულ სამყაროებს შორის გადახტომით, [PAWN_pronoun] გახდა მრავალი დასახლების საშინელი მტერი.</SpaceRaider71.description>
+  <SpaceRaider71.title>კოსმოსური თავდამსხმელი</SpaceRaider71.title>
+  <SpaceRaider71.titleShort>მეკობრე</SpaceRaider71.titleShort>
+  <SpaceResearcher25.description>[PAWN_nameDef] inherited [PAWN_possessive] parents' ship and carried on their research.\n\n[PAWN_possessive] childhood experiences with diverse cultures allowed [PAWN_objective] to preserve [PAWN_possessive] caring nature despite spending most of [PAWN_possessive] life isolated in space.</SpaceResearcher25.description>
+  <SpaceResearcher25.title>კოსმოსის მკვლევარი</SpaceResearcher25.title>
+  <SpaceResearcher25.titleShort>მკვლევარი</SpaceResearcher25.titleShort>
+  <SpaceshipChef41.description>[PAWN_nameDef]-მა მიიღო ადგილი გემზე, როდესაც გახდა გემის მზარეული. [PAWN_pronoun] სიამოვნებით ამზადებდა და ეხმარებოდა ექიმს ჭრილობების გაწმენდაში, მაგრამ [PAWN_pronoun] არასოდეს მიეჩვია ჭურჭლის წმენდას.</SpaceshipChef41.description>
+  <SpaceshipChef41.title>კოსმოსური ხომალდის შეფ</SpaceshipChef41.title>
+  <SpaceshipChef41.titleShort>შეფ-მზარეული</SpaceshipChef41.titleShort>
+  <SpaceshipSalesman34.description>[PAWN_nameDef] სცადა [PAWN_possessive] ხელი სხვადასხვა სამუშაოში, მათ შორის კოსმოსური კურდღლის გალიების აშენება და მუტანტის ხორბლის კვლევის პროექტში მუშაობა. საბოლოოდ, [PAWN_pronoun]-მა იპოვა [PAWN_possessive] ჭეშმარიტი მოწოდება, როგორც კოსმოსური ხომალდის გამყიდველი. რეკრეაციული კოსმოსური ხომალდების სპეციალობით, [PAWN_possessive] გლუვი საუბარი და მომხიბვლელი ბუნება კარგად ემსახურებოდა [PAWN_objective]-ს.</SpaceshipSalesman34.description>
+  <SpaceshipSalesman34.title>კოსმოსური ხომალდის გამყიდველი</SpaceshipSalesman34.title>
+  <SpaceshipSalesman34.titleShort>გამყიდველი</SpaceshipSalesman34.titleShort>
+  <SpaceStationCook63.description>კოსმოსური სადგური [PAWN_nameDef] საიდანაც მოვიდა, შორს იყო დასახლებული პლანეტებისგან და თავისთავად არასაკმარისი იყო პერსონალით. ამ მიზეზით, [PAWN_nameDef] იძულებული გახდა ესწავლა საჭმლის მომზადება, რათა ეკიპაჟის სიცოცხლე შეენარჩუნებინა. მიუხედავად იმისა, რომ [PAWN_pronoun] აფასებდა სწავლის ამ შესაძლებლობას, [PAWN_pronoun] არ აფასებდა კრიტიკას, რომელიც მას მოჰყვა და მას შემდეგ ჰქონდა თვითშეფასების პრობლემები.</SpaceStationCook63.description>
+  <SpaceStationCook63.title>კოსმოსური სადგურის მზარეული</SpaceStationCook63.title>
+  <SpaceStationCook63.titleShort>მზარეული</SpaceStationCook63.titleShort>
+  <SpaceTechnician29.description>[PAWN_nameDef]-მა საბოლოოდ მოახერხა [PAWN_possessive] კრიმინალური ცხოვრებიდან გაქცევა ახლომდებარე კოსმოსურ სადგურზე ტექნიკური სამუშაოს ჩატარებით. [PAWN_pronoun]-მა შეასრულა მრავალი სარემონტო და სამშენებლო ოპერაცია. [PAWN_pronoun] ასევე გამოიყენებოდა საბაზისო კვლევით აქტივობებში მონაწილეობისთვის და ხშირად ამშვიდებდა თანამშრომლების არგუმენტებს. [PAWN_pronoun] არასოდეს მოსწონდა ხელოვნების კეთება.</SpaceTechnician29.description>
+  <SpaceTechnician29.title>კოსმოსური ტექნიკოსი</SpaceTechnician29.title>
+  <SpaceTechnician29.titleShort>ტექნიკოსი</SpaceTechnician29.titleShort>
+  <SpaceTrafficker68.description>[PAWN_nameDef] discovered [PAWN_pronoun] was heir of [PAWN_possessive] distant uncle's weapons-trading business.\n\nTo protect the future of the company [PAWN_pronoun] went through extensive military training, in case of any "unforeseen circumstances".</SpaceTrafficker68.description>
+  <SpaceTrafficker68.title>კოსმოსური მოვაჭრე</SpaceTrafficker68.title>
+  <SpaceTrafficker68.titleShort>ტრეფიკერი</SpaceTrafficker68.titleShort>
+  <SpecialForces13.description>Give me a reason to kill - a good reason.\n\n[PAWN_nameDef] was a soldier and a skilled one - so skilled that [PAWN_pronoun] entered the special forces to battle militants and xenohuman raiders. [PAWN_pronoun] never imagined [PAWN_objective]self as lone hero, but [PAWN_pronoun] played [PAWN_possessive] part in the group well.</SpecialForces13.description>
+  <SpecialForces13.title>სპეცრაზმი</SpecialForces13.title>
+  <SpecialForces13.titleShort>სპეციალისტი</SpecialForces13.titleShort>
+  <Spiceminer81.description>[PAWN_nameDef] made [PAWN_possessive] mark on the universe as a spice miner assigned to the lucrative mining colony of Rural Pen'The.\n\nLittle did [PAWN_pronoun] know, [PAWN_nameDef] was about to embark on a career path that would change [PAWN_possessive] life.</Spiceminer81.description>
+  <Spiceminer81.title>Spiceminer</Spiceminer81.title>
+  <Spiceminer81.titleShort>Spiceminer</Spiceminer81.titleShort>
+  <Spy58.description>[PAWN_nameDef] გაწვრთნილი იყო [PAWN_possessive] მთავრობის მიერ ინფილტრაციასა და ჯაშუშობაში. [PAWN_pronoun] ისწავლა თავშეკავება და ლაპარაკი [PAWN_possessive] მძიმე სიტუაციებიდან გამოსავალზე. როდესაც ლაპარაკი არ მუშაობდა, [PAWN_pronoun] შეეძლო უფრო ძალადობრივი პირდაპირი ქმედება.</Spy58.description>
+  <Spy58.title>ჯაშუში</Spy58.title>
+  <Spy58.titleShort>ჯაშუში</Spy58.titleShort>
+  <StalwartFarmer21.description>ფერმა ყაჩაღების მუდმივი საფრთხის ქვეშ, [PAWN_nameDef] ისწავლა [PAWN_objective] თავის დაცვა [PAWN_possessive] მამის სანადირო თოფით. [PAWN_pronoun] ასევე დაეუფლა ღობეების აგებას პირუტყვის შესანარჩუნებლად და ადგილობრივი ველური ბუნების გარეთ. [PAWN_nameDef] ცდილობდა დაეხატა [PAWN_possessive] სახლის სურათი და შეიტყო, რომ [PAWN_pronoun]-ს შეუძლია მხოლოდ ჩანაწერების და იხვების დახატვა.</StalwartFarmer21.description>
+  <StalwartFarmer21.title>მტკიცე ფერმერი</StalwartFarmer21.title>
+  <StalwartFarmer21.titleShort>ფერმერი</StalwartFarmer21.titleShort>
+  <StalwartFarmer90.description>With the farm under constant threat from brigands, [PAWN_nameDef] learned to defend [PAWN_objective]self with [PAWN_possessive] father's rifle. [PAWN_pronoun] also mastered how to construct walls to keep livestock in and predators out.\n\n[PAWN_pronoun] once tried to paint a picture of [PAWN_possessive] home, but discovered that [PAWN_pronoun] could only draw scribbles and ducks.</StalwartFarmer90.description>
+  <StalwartFarmer90.title>მტკიცე ფერმერი</StalwartFarmer90.title>
+  <StalwartFarmer90.titleShort>ფერმერი</StalwartFarmer90.titleShort>
+  <StarfighterPilot79.description>After years of training and drilling, [PAWN_nameDef] finally became a starfighter pilot.\n\nHundreds of combat missions later, [PAWN_pronoun] grew bored and started seeking newer thrills. [PAWN_pronoun] joined a band of space pirates, which eagerly welcomed [PAWN_objective] because of [PAWN_possessive] piloting skill.</StarfighterPilot79.description>
+  <StarfighterPilot79.title>starfighter-ის პილოტი</StarfighterPilot79.title>
+  <StarfighterPilot79.titleShort>პილოტი</StarfighterPilot79.titleShort>
+  <StarKnight5.description>Abducted from [PAWN_possessive] medieval homeworld, [PAWN_nameDef] later escaped [PAWN_possessive] captors via an impressive display of swordsmanship.\n\nFor a moment, as [PAWN_pronoun] drifted in the escape pod, [PAWN_possessive] childhood dream of becoming a knight among the stars felt so real. Then [PAWN_pronoun] crash-landed.</StarKnight5.description>
+  <StarKnight5.title>ვარსკვლავი რაინდი</StarKnight5.title>
+  <StarKnight5.titleShort>რაინდი</StarKnight5.titleShort>
+  <StarshipDoctor37.description>[PAWN_nameDef] ექიმი იყო ვარსკვლავურ ხომალდზე. [PAWN_pronoun] იყო ბრწყინვალე ქირურგი და ჩართული იყო საკუთარი [PAWN_possessive] კვლევაში. თუმცა, [PAWN_pronoun] საკმაოდ თავშეკავებული იყო და არასდროს ჰქონია საწოლის საუკეთესო მანერა.</StarshipDoctor37.description>
+  <StarshipDoctor37.title>ვარსკვლავური ხომალდის ექიმი</StarshipDoctor37.title>
+  <StarshipDoctor37.titleShort>ექიმი</StarshipDoctor37.titleShort>
+  <StateEngineer60.description>[PAWN_nameDef] enrolled in the state weapons research program.\n\nWhile brilliant in [PAWN_possessive] work, [PAWN_pronoun] was so enthusiastic in testing [PAWN_possessive] creations that [PAWN_pronoun] accidentally wounded some colleagues and was marked as unfit for service.</StateEngineer60.description>
+  <StateEngineer60.title>სახელმწიფო ინჟინერი</StateEngineer60.title>
+  <StateEngineer60.titleShort>ინჟინერი</StateEngineer60.titleShort>
+  <StationSecurity38.description>[PAWN_nameDef] was commissioned as a special constable on a network of space stations. There [PAWN_pronoun] prevented illegal human trafficking.\n\nOnce, fire broke out on the station, and [PAWN_pronoun] saved many from the flames. Since then, [PAWN_pronoun] has avoided fires.</StationSecurity38.description>
+  <StationSecurity38.title>სადგურის დაცვა</StationSecurity38.title>
+  <StationSecurity38.titleShort>უსაფრთხოება</StationSecurity38.titleShort>
+  <StellarPirate10.description>[PAWN_nameDef] was captain of a pirate ship. [PAWN_pronoun] and [PAWN_possessive] crew made their living capturing traders who wandered off-course.\n\n[PAWN_pronoun] was known for [PAWN_possessive] balanced approach to problems, building, fighting, or negotiating as needed.</StellarPirate10.description>
+  <StellarPirate10.title>ვარსკვლავური მეკობრე</StellarPirate10.title>
+  <StellarPirate10.titleShort>მეკობრე</StellarPirate10.titleShort>
+  <StilettoAssassin34.description>Because of [PAWN_possessive] skills, [PAWN_nameDef] developed a sense of superiority. In time, [PAWN_pronoun] lost [PAWN_possessive] sense of empathy. [PAWN_pronoun] often got into fights, and discovered how easy it is to kill a person.\n\nAfter realizing [PAWN_possessive] talents, [PAWN_pronoun] became one of the most efficient assassins in the system.</StilettoAssassin34.description>
+  <StilettoAssassin34.title>სტილეტოს მკვლელი</StilettoAssassin34.title>
+  <StilettoAssassin34.titleShort>მკვლელი</StilettoAssassin34.titleShort>
+  <Storyteller63.description>[PAWN_nameDef] traveled [PAWN_possessive] world recounting the legends that [PAWN_pronoun] had studied.\n\nObsessed with the legends of [PAWN_possessive] people, [PAWN_nameDef] seeks someone who can help [PAWN_objective] grow scales on [PAWN_possessive] skin, so [PAWN_pronoun] too can be as the ancients were.</Storyteller63.description>
+  <Storyteller63.title>მთხრობელი</Storyteller63.title>
+  <Storyteller63.titleShort>ფაბულისტი</Storyteller63.titleShort>
+  <Streamer52.description>[PAWN_nameDef] worked as a videogame streamer, and was known for [PAWN_possessive] monkey-related impressions and jokes.\n\nA pandemic forced [PAWN_objective] to go into cryptosleep for several years. During [PAWN_possessive] sleep, [PAWN_pronoun] was launched on an interstellar diplomatic mission. Nothing was heard of [PAWN_objective] ever again.</Streamer52.description>
+  <Streamer52.title>სტრიმერი</Streamer52.title>
+  <Streamer52.titleShort>სტრიმერი</Streamer52.titleShort>
+  <SuperSoldier95.description>Product of a super-soldier program run by a now-deposed government, [PAWN_nameDef] was lost. [PAWN_pronoun] survived the final suicide attack on the enemy mothership. What now.\n\nFor the first time in [PAWN_possessive] life, [PAWN_pronoun] had no orders, no objectives. [PAWN_pronoun] rose from wreckage and strove towards uncertainty, towards freedom.</SuperSoldier95.description>
+  <SuperSoldier95.title>სუპერ ჯარისკაცი</SuperSoldier95.title>
+  <SuperSoldier95.titleShort>ჯარისკაცი</SuperSoldier95.titleShort>
+  <SystemLord77.description>[PAWN_nameDef]-ისთვის ქვეყნის, ან თუნდაც პლანეტის მართვა არ იყო საკმარისად კარგი. [PAWN_pronoun] ცდილობდა გაეფართოებინა [PAWN_possessive] გავლენა სისტემაზე - ლეგალური ან არალეგალური საშუალებებით.</SystemLord77.description>
+  <SystemLord77.title>სისტემის მბრძანებელი</SystemLord77.title>
+  <SystemLord77.titleShort>უფალო</SystemLord77.titleShort>
+  <SystemsEngineer1.description>Like [PAWN_possessive] father, [PAWN_nameDef] was a systems engineer. [PAWN_pronoun] was qualified in both colony and ship systems.\n\nWhen not working, [PAWN_pronoun] would make mechanical figurines, read old books, or occasionally travel to uncharted worlds. Being introverted, [PAWN_pronoun] did these things mostly alone.</SystemsEngineer1.description>
+  <SystemsEngineer1.title>სისტემების ინჟინერი</SystemsEngineer1.title>
+  <SystemsEngineer1.titleShort>ინჟინერი</SystemsEngineer1.titleShort>
+  <Technician9.description>როგორც IT ტექნიკოსს, [PAWN_nameDef]-ს აღარ ჰქონდა ბევრი დრო კოდის დასაწერად. [PAWN_pronoun] გამოიძახეს მუდმივად იმუშაოს კრიპტოძილის კამერისა და ხელოვნური ინტელექტის დამაჯერებლობის სისტემებში ჩავარდნების გამოსასწორებლად.</Technician9.description>
+  <Technician9.title>ტექნიკოსი</Technician9.title>
+  <Technician9.titleShort>ტექნიკური</Technician9.titleShort>
+  <TechnologyDoctor35.description>[PAWN_nameDef] ფერმერი იყო [PAWN_possessive] შუა სამყაროში და [PAWN_possessive] თავისუფალ დროს ატარებდა იარაღთან ვარჯიშში. [PAWN_pronoun]-მა იცოდა, თუ რამდენად მნიშვნელოვანი იქნებოდა მეურნეობისა და სროლის უნარები რთულ დროს და გაწვრთნილი იყო ადგილობრივ მილიციაში მსახურებისთვის.</TechnologyDoctor35.description>
+  <TechnologyDoctor35.title>ჯარისკაცი-ფერმერი</TechnologyDoctor35.title>
+  <TechnologyDoctor35.titleShort>ჯარისკაცი</TechnologyDoctor35.titleShort>
+  <TestSubject39.description>[PAWN_nameDef] ჩაირიცხა სამეცნიერო კვლევაში, რომელმაც პირობა დადო, რომ მას შეუძლია [PAWN_objective] უფრო ჭკვიანი გახადოს. სამწუხაროდ, გვერდითი მოვლენები ძალიან განსხვავებული იყო, ვიდრე [PAWN_pronoun] მოსალოდნელი იყო. [PAWN_pronoun] გაგიჟდა და რამდენიმე ადამიანი მოკლა გაქცევამდე.</TestSubject39.description>
+  <TestSubject39.title>ტესტის საგანი</TestSubject39.title>
+  <TestSubject39.titleShort>საგანი</TestSubject39.titleShort>
+  <TestSubject90.description>[PAWN_nameDef] თინეიჯერობისას გატაცებული იყო ექსპერიმენტული გენური თერაპიის უნებლიე საცდელი სუბიექტი. ლაბორატორიები და მეცნიერები აშინებენ [PAWN_objective].</TestSubject90.description>
+  <TestSubject90.title>ტესტის საგანი</TestSubject90.title>
+  <TestSubject90.titleShort>ექსპერიმენტი</TestSubject90.titleShort>
+  <TestSubject92.description>[PAWN_nameDef]'s tests went from geometry to quantum physics, and [PAWN_pronoun] could run the grand gauntlet without a scratch.\n\nOne day, Mother said that [PAWN_possessive] final test lay beyond the red door, and that even if [PAWN_pronoun] couldn't hear her voice, Mother would always be there.</TestSubject92.description>
+  <TestSubject92.title>ტესტის საგანი</TestSubject92.title>
+  <TestSubject92.titleShort>საგანი</TestSubject92.titleShort>
+  <TheaterTechnician80.description>[PAWN_nameDef] spent countless hours behind the scenes of a famous theater. [PAWN_pronoun] built scenery, programmed lights, and monitored the machines that moved the sets.\n\nOff duty, [PAWN_pronoun] would talk with the cast members. Navigating the social drama of the actors helped [PAWN_objective] learn how to communicate well and manipulate others.</TheaterTechnician80.description>
+  <TheaterTechnician80.title>თეატრის ტექნიკოსი</TheaterTechnician80.title>
+  <TheaterTechnician80.titleShort>ტექნიკოსი</TheaterTechnician80.titleShort>
+  <Tinkerer86.description>"How does this work?\n\nWhy does this move?\n\nMaybe if I change this... oops, I hope it works better... or maybe I broke it..."</Tinkerer86.description>
+  <Tinkerer86.title>მეჭეჭა</Tinkerer86.title>
+  <Tinkerer86.titleShort>მეჭეჭა</Tinkerer86.titleShort>
+  <ToasterRepairman22.description>Good with [PAWN_possessive] hands and passionate about technology, [PAWN_nameDef] aspired to invent gadgets and machines that would change [PAWN_possessive] home world forever.\n\nA few failed and occasionally disastrous creations later, [PAWN_pronoun] gave up on [PAWN_possessive] dream and took a job more befitting [PAWN_possessive] skill set.</ToasterRepairman22.description>
+  <ToasterRepairman22.title>ტოსტერის შემკეთებელი</ToasterRepairman22.title>
+  <ToasterRepairman22.titleShort>შემკეთებელი</ToasterRepairman22.titleShort>
+  <ToolMechanic77.description>[PAWN_nameDef] was a famous tool mechanic on a dusty rimworld.\n\nAfter [PAWN_possessive] firm closed due to scandal, [PAWN_pronoun] joined a tribe to survive, crafting fine knives and hammers, traveling, and dealing [PAWN_possessive] wares between settlements.</ToolMechanic77.description>
+  <ToolMechanic77.title>ხელსაწყოების მექანიკოსი</ToolMechanic77.title>
+  <ToolMechanic77.titleShort>მექანიკოსი</ToolMechanic77.titleShort>
+  <TournamentFighter28.description>Motivated by the violence in [PAWN_possessive] environment, [PAWN_nameDef] studied martial arts, eventually signing up for an unarmed fighting tournament.\n\nUnlike [PAWN_possessive] opponents, [PAWN_nameDef] looked to the ancient warriors for guidance. [PAWN_pronoun] trained from dusk till dawn, perfecting [PAWN_possessive] skills.</TournamentFighter28.description>
+  <TournamentFighter28.title>ტურნირის მებრძოლი</TournamentFighter28.title>
+  <TournamentFighter28.titleShort>მებრძოლი</TournamentFighter28.titleShort>
+  <TravelingBard93.description>[PAWN_nameDef] joined the famous Star Pilots On Channel K (aka S.P.O.C.K) and toured the star system, but eventually the band split up and their fame faded away.\n\n[PAWN_pronoun] ended up as a travelling bard playing on [PAWN_possessive] portable synthesizer as [PAWN_pronoun] traveled from spaceport to spaceport.</TravelingBard93.description>
+  <TravelingBard93.title>მოგზაური ბარდი</TravelingBard93.title>
+  <TravelingBard93.titleShort>მუსიკოსი</TravelingBard93.titleShort>
+  <TreasureHunter82.description>[PAWN_nameDef] explored outlying rimworlds in hopes of finding rare treasures.\n\nAfter succeeding in finding one legendary sculpture, [PAWN_pronoun] was betrayed by [PAWN_possessive] men. [PAWN_pronoun] survived their treasonous attack, but the sculpture was taken.\n\n[PAWN_pronoun] created the Anvil Mercenary Company to help [PAWN_objective] seek revenge.</TreasureHunter82.description>
+  <TreasureHunter82.title>საგანძურის მონადირე</TreasureHunter82.title>
+  <TreasureHunter82.titleShort>ავანტიურისტი</TreasureHunter82.titleShort>
+  <Undertaker93.description>[PAWN_nameDef] ტრიალებდა და სთავაზობდა დახმარებას მწუხარებაში მათ, ვისაც ბოლო ზარალი ჰქონდა. მიუხედავად იმისა, რომ [PAWN_pronoun] არასოდეს ერიდებოდა ფიზიკურ დაპირისპირებას, [PAWN_pronoun] ურჩევნია რთულ სიტუაციებს მშვიდი სიტყვით დაუპირისპირდეს.</Undertaker93.description>
+  <Undertaker93.title>მესაფლავე</Undertaker93.title>
+  <Undertaker93.titleShort>მესაფლავე</Undertaker93.titleShort>
+  <UnethicalDoctor29.description>[PAWN_nameDef] became a doctor to save lives and research medicine. [PAWN_pronoun] soon realized the only way to make progress on [PAWN_possessive] research was to perform experiments on human patients.\n\n[PAWN_pronoun] often used patients for [PAWN_possessive] experiments - whether they were willing or not.</UnethicalDoctor29.description>
+  <UnethicalDoctor29.title>არაეთიკური ექიმი</UnethicalDoctor29.title>
+  <UnethicalDoctor29.titleShort>ექიმი</UnethicalDoctor29.titleShort>
+  <UnstableButcher31.description>[PAWN_nameDef]-მა დაიწყო ხმების მოსმენა. ცხოველები ესაუბრებოდნენ [PAWN_objective]-ს და შეურაცხყოფას აყენებდნენ მას. [PAWN_pronoun] შეძულდა მათ და საბოლოოდ მოკლა [PAWN_possessive] ბეწვიანი ყოფილი მეგობრები. [PAWN_pronoun]-მა დაიწყო ხორცის გაყიდვა მხოლოდ ადამიანური ურთიერთობის მისაღებად.</UnstableButcher31.description>
+  <UnstableButcher31.title>არასტაბილური ჯალათი</UnstableButcher31.title>
+  <UnstableButcher31.titleShort>ჯალათი</UnstableButcher31.titleShort>
+  <UprightDiplomat49.description>As a diplomat, [PAWN_nameDef] was assigned to deal with diplomatic tasks in the blood-soaked outer rim sectors.\n\n[PAWN_pronoun] hoped to end the endless wars, until [PAWN_possessive] consularship, the St. Anthem, was attacked by a raider fleet.</UprightDiplomat49.description>
+  <UprightDiplomat49.title>მართალი დიპლომატი</UprightDiplomat49.title>
+  <UprightDiplomat49.titleShort>დიპლომატი</UprightDiplomat49.titleShort>
+  <UrbworldEnforcer11.description>[PAWN_nameDef] was an enforcer of law on an ancient urbworld.\n\n[PAWN_pronoun] dealt with the worst of humanity, from protecting greedy urbworld nobility in their spire palaces to rooting out cannibal cults in the deepest reaches of the underground hive.</UrbworldEnforcer11.description>
+  <UrbworldEnforcer11.title>urbworld აღმასრულებელი</UrbworldEnforcer11.title>
+  <UrbworldEnforcer11.titleShort>აღმასრულებელი</UrbworldEnforcer11.titleShort>
+  <UrbworldPimp93.description>At first, [PAWN_nameDef] made a small profit from selling drugs. Then, [PAWN_pronoun] switched to selling women and made a fortune.\n\n[PAWN_pronoun] developed great skills with [PAWN_possessive] fists. [PAWN_pronoun] also learned to fix up the injuries [PAWN_pronoun] inflicted on the girls.</UrbworldPimp93.description>
+  <UrbworldPimp93.title>Urbworld სუტენიორი</UrbworldPimp93.title>
+  <UrbworldPimp93.titleShort>სუტენიორი</UrbworldPimp93.titleShort>
+  <UrbworldPolitican92.description>It's no secret that the Companies own much of the urbworlds, but someone has to take the bribes. [PAWN_nameDef] was one such figurehead.\n\n[PAWN_pronoun] learned how to manipulate the hopes and dreams of the people while living comfortably in a penthouse.</UrbworldPolitican92.description>
+  <UrbworldPolitican92.title>Urbworld პოლიტიკოსი</UrbworldPolitican92.title>
+  <UrbworldPolitican92.titleShort>პოლიტიკოსი</UrbworldPolitican92.titleShort>
+  <UrbworldSergeant50.description>[PAWN_nameDef]'s passion for all things militaristic kept with [PAWN_objective] all the way to adulthood.\n\nAfter enrolling as a local policeman, [PAWN_pronoun] was soon promoted to sergeant.</UrbworldSergeant50.description>
+  <UrbworldSergeant50.title>Urbworld სერჟანტი</UrbworldSergeant50.title>
+  <UrbworldSergeant50.titleShort>სერჟანტი</UrbworldSergeant50.titleShort>
+  <UrbworldSexSlave25.description>[PAWN_nameDef] გაიყიდა სექსუალურ მონობაში. შექმნილია ისე, რომ იყოს არაადამიანურად მიმზიდველი და ზედმეტად სუსტი, რათა აჯანყდეს [PAWN_possessive] ოსტატების წინააღმდეგ, [PAWN_pronoun] გადავიდა ათობით მფლობელს შორის და არაფერი იცოდა თავისუფლების შესახებ.</UrbworldSexSlave25.description>
+  <UrbworldSexSlave25.title>ურბსამყაროს სექსის მონა</UrbworldSexSlave25.title>
+  <UrbworldSexSlave25.titleShort>სექსის მონა</UrbworldSexSlave25.titleShort>
+  <Vagabond73.description>[PAWN_nameDef]-მა გაიღვიძა საშიშ პლანეტაზე რესურსების გარეშე და მცირე გადარჩენის უნარებით. [PAWN_pronoun] გადახტა ბანაკებს შორის, აკეთებდა ყველაფერს, რაც საჭირო იყო, მხოლოდ იმისთვის, რომ კიდევ ერთხელ ენახა მზე ამოსული.</Vagabond73.description>
+  <Vagabond73.title>მაწანწალა</Vagabond73.title>
+  <Vagabond73.titleShort>მაწანწალა</Vagabond73.titleShort>
+  <VengefulExplorer54.description>A violent drifter without a home, [PAWN_nameDef] and [PAWN_possessive] father fought many battles across hundreds of years. [PAWN_pronoun] became a grizzled fighter and crack shot.\n\nAfter [PAWN_possessive] father's death in battle, [PAWN_nameDef] began exploring the stars alone, seeking [PAWN_possessive] father's killer, on the hunt for revenge.</VengefulExplorer54.description>
+  <VengefulExplorer54.title>შურისმაძიებელი მკვლევარი</VengefulExplorer54.title>
+  <VengefulExplorer54.titleShort>მკვლევარი</VengefulExplorer54.titleShort>
+  <VengefulNomad67.description>After refusing the wild demands of a tyrannical king, [PAWN_nameDef]'s nomad band was marked as an outlaw group and systematically hunted.\n\n[PAWN_nameDef]'s family was eventually captured. Those who weren't killed were taken as slaves. Sold to the owner of a manufactory, [PAWN_nameDef] swore that one day [PAWN_pronoun] would have [PAWN_possessive] revenge.</VengefulNomad67.description>
+  <VengefulNomad67.title>შურისმაძიებელი მომთაბარე</VengefulNomad67.title>
+  <VengefulNomad67.titleShort>მომთაბარე</VengefulNomad67.titleShort>
+  <VersatileWorker13.description>Spending [PAWN_possessive] later teenage years in a colony of settlers, [PAWN_pronoun] offered what little skills [PAWN_pronoun] had to anyone who would take him.\n\nBeing a quick learner, [PAWN_pronoun] honed many of [PAWN_possessive] skills and, apart from [PAWN_possessive] crippling inability to understand fire, is now a fully functioning adult.</VersatileWorker13.description>
+  <VersatileWorker13.title>მრავალმხრივი მუშაკი</VersatileWorker13.title>
+  <VersatileWorker13.titleShort>მუშაკი</VersatileWorker13.titleShort>
+  <VideoProducer83.description>Too awkward to socialize, [PAWN_nameDef] found comfort in the production of videos. Oddly, people enjoyed [PAWN_possessive] videos, calling them "perfect sitcom dramas".\n\n[PAWN_nameDef] took advantage of this and broadcast more, ever hopeful that [PAWN_pronoun] would be contacted by the Wizards.</VideoProducer83.description>
+  <VideoProducer83.title>ვიდეო პროდიუსერი</VideoProducer83.title>
+  <VideoProducer83.titleShort>პროდიუსერი</VideoProducer83.titleShort>
+  <Villain89.description>[PAWN_possessive] კრიმინალური ჯგუფის მწვერვალზე ასვლის შემდეგ, [PAWN_nameDef] ასწავლეს ბოროტმოქმედების ხელოვნება, ცეცხლსასროლი იარაღის ტარებიდან დაწყებული იარაღის ახალი ტექნოლოგიების შემუშავებამდე. [PAWN_ნაცვალსახელი] გამოირჩეოდა სხვების [PAWN_მფლობელობით] ნებისკენ მოქცევაში.</Villain89.description>
+  <Villain89.title>ბოროტმოქმედი</Villain89.title>
+  <Villain89.titleShort>ბოროტმოქმედი</Villain89.titleShort>
+  <VinhoKing98.description>After prohibition came to Aracena VI, [PAWN_nameDef] expanded [PAWN_possessive] underground liquor business until it dominated the market on two continents. They called [PAWN_objective] the Vinho King.\n\nThough [PAWN_pronoun] mostly controlled [PAWN_possessive] competition by masterful political maneuvering, [PAWN_pronoun] was not above the occasional beat-down or stiletto assassination.</VinhoKing98.description>
+  <VinhoKing98.title>ვინჰოს მეფე</VinhoKing98.title>
+  <VinhoKing98.titleShort>ალკოჰოლური სასმელების მეფე</VinhoKing98.titleShort>
+  <VoidRaider74.description>თავგადასავლისა და დიდების მსურველი, [PAWN_nameDef] გაემართა სიცარიელის გასწვრივ, რაიდერ ჯგუფთან ერთად, [PAWN_possessive] ერთგულებას შეჰფიცა [PAWN_possessive] ჯგუფსა და ძმებს და გაავრცელა მათი დიდება ვარსკვლავებში [PAWN_possessive] პირითა და პისტოლეტით ხელში.</VoidRaider74.description>
+  <VoidRaider74.title>void raider</VoidRaider74.title>
+  <VoidRaider74.titleShort>მეკობრე</VoidRaider74.titleShort>
+  <VoidspaceRaider94.description>After years of seeking the assassin that broke up [PAWN_possessive] family, [PAWN_nameDef] was offered a place with a group of space-faring raiders. [PAWN_pronoun] accepted, hoping to find the killer [PAWN_pronoun] sought.\n\nDue to [PAWN_possessive] seemingly-unending ability to narrowly escape danger, [PAWN_pronoun] earned the nickname 'Blackjack' in recognition of [PAWN_possessive] luck.</VoidspaceRaider94.description>
+  <VoidspaceRaider94.title>voidspace raider</VoidspaceRaider94.title>
+  <VoidspaceRaider94.titleShort>მეკობრე</VoidspaceRaider94.titleShort>
+  <WanderingCrafter42.description>[PAWN_nameDef] აგრძელებდა [PAWN_possessive] მშობლების მომთაბარე გზებს, მხარს უჭერდა [PAWN_objective] საკუთარ თავს [PAWN_possessive] ხელოსნობის უნარებით. მაგრამ ხეტიალი რთული ცხოვრებაა და [PAWN_pronoun] ხშირად ფიქრობდა ადგილის პოვნაზე დასამკვიდრებლად და [PAWN_possessive] უნარების კარგად გამოყენებაზე.</WanderingCrafter42.description>
+  <WanderingCrafter42.title>მოხეტიალე ხელოსანი</WanderingCrafter42.title>
+  <WanderingCrafter42.titleShort>ხელოსანი</WanderingCrafter42.titleShort>
+  <WanderingHealer52.description>[PAWN_nameDef] studied to be a doctor, but was dissatisfied with [PAWN_possessive] practice on an otherwise peaceful midworld.\n\nInstead, [PAWN_pronoun] chose to pull up roots and travel to the rimworlds in order to care for people who needed [PAWN_objective] most.</WanderingHealer52.description>
+  <WanderingHealer52.title>მოხეტიალე მკურნალი</WanderingHealer52.title>
+  <WanderingHealer52.titleShort>მკურნალი</WanderingHealer52.titleShort>
+  <WarChief97.description>[PAWN_nameDef] იყო ტომის ბანდის ლიდერი რგოლში. [PAWN_objective]-სთვის ბრძოლის ველი არის თამაში და არაფერია იმაზე მხიარული, ვიდრე ომის ცეცხლი.</WarChief97.description>
+  <WarChief97.title>ომის მეთაური</WarChief97.title>
+  <WarChief97.titleShort>უფროსი</WarChief97.titleShort>
+  <Warlordess56.description>[PAWN_nameDef] იყო მეკობრე ჯგუფის მკაცრი ლიდერი. [PAWN_pronoun] მიიღებს ნებისმიერ გამოწვევას, რაც არ უნდა იყოს ძალადობრივი ან საშიში. სხვებმა [PAWN_objective] მკვლელობის მანქანას უწოდეს.</Warlordess56.description>
+  <Warlordess56.title>მეომარი</Warlordess56.title>
+  <Warlordess56.titleShort>მეომარი</Warlordess56.titleShort>
+  <Warrior73.description>[PAWN_nameDef] იყო ომის გმირი [PAWN_possessive] პლანეტის მესამე მსოფლიო ომის დროს. [PAWN_pronoun] დაეხმარა ბირთვული იარაღის გაშვების თავიდან აცილებას განსაკუთრებით დაძაბული დაპირისპირების დროს.</Warrior73.description>
+  <Warrior73.title>მეომარი</Warrior73.title>
+  <Warrior73.titleShort>მეომარი</Warrior73.titleShort>
+  <WarshipCaptain67.description>Years of being commanding officer of an advanced corvette taught [PAWN_nameDef] the art of leadership, the techniques of higher engineering, and how to stay calm while enemies try to kill you.\n\nUnfortunately, [PAWN_nameDef] only very rarely had contact with nature.</WarshipCaptain67.description>
+  <WarshipCaptain67.title>ხომალდის კაპიტანი</WarshipCaptain67.title>
+  <WarshipCaptain67.titleShort>კაპიტანი</WarshipCaptain67.titleShort>
+  <WhiteHatHacker82.description>[PAWN_possessive] კომპიუტერიდან, [PAWN_nameDef] დაეხმარა ონლაინ სამყაროს ცუდი ადამიანებისგან განთავისუფლებას.</WhiteHatHacker82.description>
+  <WhiteHatHacker82.title>თეთრქუდის ჰაკერი</WhiteHatHacker82.title>
+  <WhiteHatHacker82.titleShort>ჰაკერი</WhiteHatHacker82.titleShort>
+  <WildlifeRanger99.description>Dismayed at the poachers driving several animal species to near-extinction, [PAWN_nameDef] became a wildlife ranger. [PAWN_pronoun] cared for and protect the animals - by force if necessary.\n\n[PAWN_pronoun] grew to hate people slaughtering animals for luxury and profit.</WildlifeRanger99.description>
+  <WildlifeRanger99.title>ველური ბუნების რეინჯერი</WildlifeRanger99.title>
+  <WildlifeRanger99.titleShort>რეინჯერი</WildlifeRanger99.titleShort>
+</LanguageData>

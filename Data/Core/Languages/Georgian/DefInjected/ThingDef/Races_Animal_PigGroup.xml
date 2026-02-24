@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Chinchilla.description>პატარა, მოხერხებული მღრღნელი. მისი ბეწვი უფრო რბილია, ვიდრე თითქმის ყველაფერი სამყაროში, რაც მას ძალიან ღირებულს ხდის როგორც სავაჭრო საქონელს.</Chinchilla.description>
+  <Chinchilla.label>ჩინჩილა</Chinchilla.label>
+  <Deer.description>საშუალო ზომის მესაქონლე ბალახისმჭამელი, რომელიც ამჯობინებს შერეულ ტყეებსა და დაბლობებში ცხოვრებას. ირმები ძალიან ჩქარობენ.</Deer.description>
+  <Deer.label>ირემი</Deer.label>
+  <Gazelle.description>პატარა, ძალიან სწრაფი ანტილოპა, რომელიც ცნობილია თავისი საოცრად გრძელი ნახტომით.</Gazelle.description>
+  <Gazelle.label>გაზელი</Gazelle.label>
+  <Ibex.description>მოშინაურებული თხის ველური წინაპარი. Ibexes ცხოვრობს მარგინალურ ტერიტორიაზე, სადაც ანტილოპების უმეტესობა ვერ გადარჩა, ჭამს ლიქენებს და მთის მწვერვალებს. ისინი განთქმულნი არიან კლდეების შიშველი სახეების ოსტატურად გადახტომით და ძალადობრივი შეტევით.</Ibex.description>
+  <Ibex.label>კენჭი</Ibex.label>
+  <Pig.description>ღორი იყო ერთ-ერთი პირველი ცხოველი, რომელიც ადამიანებმა მოიშინაურეს. ისინი ხორცის ეფექტური წყაროა და ადვილად იკვებება, რადგან ისინი თითქმის ყველაფერს შეჭამენ.</Pig.description>
+  <Pig.label>ღორი</Pig.label>
+  <WildBoar.description>This hairy omnivore is descended from escaped pigs and evolved for living in the wild.\n\nIts tusks make it a better fighter than its domesticated pig cousins. Unfortunately, it is too unruly to be trained in the most complex tasks.</WildBoar.description>
+  <WildBoar.label>გარეული ღორი</WildBoar.label>
+</LanguageData>

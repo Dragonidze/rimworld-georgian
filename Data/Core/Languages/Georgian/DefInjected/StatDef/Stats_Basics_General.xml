@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Beauty.description>How enjoyable an object is to look at.\n\nBeautiful objects fulfill characters' need for beauty.</Beauty.description>
+  <Beauty.label>სილამაზე</Beauty.label>
+  <BeautyOutdoors.description>How enjoyable something is to look at if it's outside.\n\nBeautiful objects fulfill peoples' need for beauty.</BeautyOutdoors.description>
+  <BeautyOutdoors.label>გარე სილამაზე</BeautyOutdoors.label>
+  <CaravanBonusSpeedFactor.description>მულტიპლიკატორი გამოიყენება ქარავნის სიჩქარეზე, როდესაც ეს ადამიანი ქარავნის ნაწილია.</CaravanBonusSpeedFactor.description>
+  <CaravanBonusSpeedFactor.label>ქარავნის სიჩქარის ფაქტორი</CaravanBonusSpeedFactor.label>
+  <Cleanliness.description>რამდენად უწყობს ხელს ობიექტი ტერიტორიის სისუფთავის ქულას.</Cleanliness.description>
+  <Cleanliness.label>სისუფთავე</Cleanliness.label>
+  <Comfort.description>How comfortable an object is to sit or lay on.\n\nUsing comfortable objects fulfills a character's need for comfort.</Comfort.description>
+  <Comfort.label>კომფორტს</Comfort.label>
+  <DeteriorationRate.description>The rate at which this item deteriorates when left outside, in average hit points per day.\n\nDeterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water.</DeteriorationRate.description>
+  <DeteriorationRate.label>გაუარესების მაჩვენებელი</DeteriorationRate.label>
+  <Flammability.description>რამდენად ადვილად იკიდებს ცეცხლს საგანი და რამდენად სწრაფად გაიზრდება ცეცხლი მისი დაწვისას.</Flammability.description>
+  <Flammability.label>აალებადი</Flammability.label>
+  <FoodPoisonChanceFixedHuman.description>შანსი, რომ ეს საკვები გამოიწვიოს საკვები მოწამვლა.</FoodPoisonChanceFixedHuman.description>
+  <FoodPoisonChanceFixedHuman.label>საკვები მოწამვლის შანსი</FoodPoisonChanceFixedHuman.label>
+  <MarketValue.description>The market value of an object.\n\nThe actual trade price will be adjusted by negotiation skill, relationship status, and other contextual factors.</MarketValue.description>
+  <MarketValue.label>საბაზრო ღირებულება</MarketValue.label>
+  <MarketValueIgnoreHp.label>საბაზრო ღირებულება დარტყმების იგნორირება</MarketValueIgnoreHp.label>
+  <Mass.description>საგნის ან არსების ფიზიკური მასა.</Mass.description>
+  <Mass.label>მასა</Mass.label>
+  <MaxHitPoints.description>The maximum hit points of an object.\n\nThis represents how much damage it can take before being destroyed.</MaxHitPoints.description>
+  <MaxHitPoints.label>დარტყმის მაქსიმალური რაოდენობა</MaxHitPoints.label>
+  <Nutrition.description>რამდენად მკვებავია ეს საკვები.</Nutrition.description>
+  <Nutrition.label>კვება</Nutrition.label>
+  <RoyalFavorValue.description>პატივის ოდენობა, რომელსაც თქვენი ტრეიდერი გამოიმუშავებს ხარკის ამკრეფისთვის ამის გადაცემისთვის.</RoyalFavorValue.description>
+  <RoyalFavorValue.label>საპატიო ღირებულება</RoyalFavorValue.label>
+  <SellPriceFactor.description>მულტიპლიკატორი იმ ფასზე, რომლითაც შეგიძლიათ ნივთების გაყიდვა.</SellPriceFactor.description>
+  <SellPriceFactor.label>გაყიდვის ფასის მულტიპლიკატორი</SellPriceFactor.label>
+  <ShootingAccuracyTurret.description>Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target.</ShootingAccuracyTurret.description>
+  <ShootingAccuracyTurret.label>სროლის სიზუსტე</ShootingAccuracyTurret.label>
+  <WorkToMake.description>სამუშაოს ძირითადი რაოდენობა, რომელიც საჭიროა ნივთის დასამზადებლად, მას შემდეგ, რაც ყველა მასალა შეგროვდება.</WorkToMake.description>
+  <WorkToMake.label>მუშაობა გასაკეთებლად</WorkToMake.label>
+</LanguageData>

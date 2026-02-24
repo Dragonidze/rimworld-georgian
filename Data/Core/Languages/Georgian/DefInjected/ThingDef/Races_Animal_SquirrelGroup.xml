@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Boomrat.description>ან მიზანმიმართული გენეტიკური იარაღით, ან როგორც უჩვეულო თავდაცვის მექანიზმი, ეს მღრღნელების მსგავსი არსებები ქმნიან ძლიერ ხანძარსაწინააღმდეგო აფეთქებას მოკვლისას.</Boomrat.description>
+  <Boomrat.label>ბუმრატი</Boomrat.label>
+  <Iguana.description>These large lizards normally feed on plant matter. However, when angered, their tough hide and sharp claws make them quite dangerous.\n\nResting iguanas hold their heads high, giving them an amusing 'proud' look. But they're not proud; they're just trying to see predators so they don't get eaten.</Iguana.description>
+  <Iguana.label>იგუანა</Iguana.label>
+  <Raccoon.description>პატარა, გამძლე ცხოველი, რომელიც ფართოდ ვრცელდება ტყეებსა და ბუჩქნარებში. სასიამოვნოა შენს ნაგვის კონტეინერში, ან სამზარეულოში შეჭრა, თითქმის ყველაფრის ჭამა.</Raccoon.description>
+  <Raccoon.label>ენოტი</Raccoon.label>
+  <Rat.description>ფართოდ საძულველ მღრღნელს, რომელიც ცნობილია სამზარეულოების დაბინძურებითა და დაავადების გავრცელებით, ვირთხებს აქვთ საშუალება მიჰყვნენ ადამიანებს ყველგან, სადაც მიდიან. ის თითქმის ყველაფერს ჭამს და თითქმის ყველგან ცხოვრობს.</Rat.description>
+  <Rat.label>ვირთხა</Rat.label>
+  <Squirrel.description>ერთ-ერთი გამძლე მღრღნელების სახეობებიდან, რომელიც მიჰყვება კაცობრიობას ყველგან, სადაც გავრცელებულია. ციყვები გამოირჩევიან ბუჩქოვანი კუდებით, რომელსაც ცუდ ამინდში ქოლგად იყენებენ.</Squirrel.description>
+  <Squirrel.label>ციყვი</Squirrel.label>
+</LanguageData>

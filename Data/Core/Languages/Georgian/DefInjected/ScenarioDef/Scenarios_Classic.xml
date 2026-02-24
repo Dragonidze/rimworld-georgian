@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Crashlanded.description>თქვენ სამივე იღვიძებთ თქვენს კრიპტოძილს სარკოფაგებში სირენებისა და ლითონის ჭრის ხმაზე. ძლივს მიდიხარ გაქცევის ღობემდე, სანამ გემი დაიშლება. გარკვეული პერიოდის შემდეგ, თქვენ დაეშვით ამ უცნობ საზღვრულ სამყაროზე.</Crashlanded.description>
+  <Crashlanded.label>ჩამოვარდა</Crashlanded.label>
+  <Crashlanded.scenario.summary>სამი ავარიის შედეგად გადარჩენილი - კლასიკური RimWorld გამოცდილება.</Crashlanded.scenario.summary>
+  <LostTribe.description>Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.\n\nNote: Since you'll start poor and lack technology, this is a difficult scenario.</LostTribe.description>
+  <LostTribe.label>დაკარგული ტომი</LostTribe.label>
+  <LostTribe.scenario.summary>ხუთი დაკარგული ტომი ცდილობს აღდგენას. რთული.</LostTribe.scenario.summary>
+  <NakedBrutality.description>You went under anesthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: There is nothing fair about this scenario - it is extremely difficult and death can happen for any reason.</NakedBrutality.description>
+  <NakedBrutality.label>შიშველი სისასტიკე</NakedBrutality.label>
+  <NakedBrutality.scenario.summary>შიშველი, მარტო და სრულიად მოუმზადებელი. შეგიძლია გადარჩე? უკიდურესად რთული და უსამართლო.</NakedBrutality.scenario.summary>
+  <TheRichExplorer.description>People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.\n\nNote: Since your starting character will lack some skills, this is an especially difficult scenario in the early game.</TheRichExplorer.description>
+  <TheRichExplorer.label>მდიდარი მკვლევარი</TheRichExplorer.label>
+  <TheRichExplorer.scenario.summary>ერთი მდიდარი მკვლევარი გამოდის სამყაროს შესასწავლად. ზედმეტი რთული.</TheRichExplorer.scenario.summary>
+  <Tutorial.label>სახელმძღვანელო</Tutorial.label>
+</LanguageData>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CleaningTimeFactor.description>მულტიპლიკატორი იმის შესახებ, თუ რამდენი დრო სჭირდება ამ ზედაპირიდან ჭუჭყის გაწმენდას.</CleaningTimeFactor.description>
+  <CleaningTimeFactor.label>დასუფთავების დროის მულტიპლიკატორი</CleaningTimeFactor.label>
+  <ConstructionSpeedFactor.description>The speed at which buildings made of this are constructed is multiplied by this value.\n\nSome materials, like stone, are slow to build from, while others, like wood, are fast.</ConstructionSpeedFactor.description>
+  <ConstructionSpeedFactor.label>მშენებლობის სიჩქარე</ConstructionSpeedFactor.label>
+  <FilthMultiplier.description>რამდენად მგრძნობიარეა ეს ზედაპირი სიბინძურისთვის. თუ ეს 100%-ზე ნაკლებია, აქ დეპონირებული ჭუჭყის ნაწილი გაქრება კონტაქტის დროს. ეს ეხება მხოლოდ ორგანულ სიბინძურეს.</FilthMultiplier.description>
+  <FilthMultiplier.label>სიბინძურის გამრავლება</FilthMultiplier.label>
+  <MedicalPotency.description>How effective this is when used to tend wounds and diseases, or do surgery.\n\nHigher medical potency improves the quality of tending, and acts as a multiplier on the chance of success during surgery.\nMedical potency is just one factor in medical outcomes, among many others, including doctor ability, equipment, cleanliness, and luck.</MedicalPotency.description>
+  <MedicalPotency.label>სამედიცინო პოტენციალი</MedicalPotency.label>
+  <MedicalQualityMax.description>The maximum quality of medical tending that can be achieved while using this.\n\nBetter tend quality allows skilled doctors to treat wounds better, as well as more reliably.</MedicalQualityMax.description>
+  <MedicalQualityMax.label>სამედიცინო ტენდენცია ხარისხის მაქსიმუმ</MedicalQualityMax.label>
+  <MeditationFocusStrength.description>The amount of extra psyfocus someone gains by focusing on this object during meditation, in addition to their own base rate of meditation psyfocus gain.\n\nFor some objects, this number can change depending on the surroundings and the person doing the meditating.</MeditationFocusStrength.description>
+  <MeditationFocusStrength.label>მედიტაციის ფსიფოკუსის ბონუსი</MeditationFocusStrength.label>
+  <PsychicEntropyMaxOffset.description>ოფსეტური გამოყენებულია მომხმარებლის ნერვული სითბოს ლიმიტზე.</PsychicEntropyMaxOffset.description>
+  <PsychicEntropyMaxOffset.label>ნერვული სითბოს ლიმიტის კომპენსირება</PsychicEntropyMaxOffset.label>
+  <PsychicEntropyRecoveryRateOffset.description>ოფსეტური გამოყენებულია მომხმარებლის ნერვული სითბოს აღდგენის სიჩქარეზე.</PsychicEntropyRecoveryRateOffset.description>
+  <PsychicEntropyRecoveryRateOffset.label>ნერვული სითბოს აღდგენის სიჩქარის კომპენსირება</PsychicEntropyRecoveryRateOffset.label>
+  <PsychicSensitivityFactor.description>ფაქტორი, რომელიც გამოიყენება მომხმარებლის ფსიქიკურ მგრძნობელობაზე.</PsychicSensitivityFactor.description>
+  <PsychicSensitivityFactor.label>ფსიქიკური მგრძნობელობის ფაქტორი</PsychicSensitivityFactor.label>
+  <PsychicSensitivityOffset.description>ოფსეტი გამოიყენება მომხმარებლის ფსიქიკურ მგრძნობელობაზე.</PsychicSensitivityOffset.description>
+  <PsychicSensitivityOffset.label>ფსიქიკური მგრძნობელობის კომპენსირება</PsychicSensitivityOffset.label>
+</LanguageData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnimalInsanityMass.label>ცხოველთა მასობრივი სიგიჟე</AnimalInsanityMass.label>
+  <AnimalInsanitySingle.label>მარტოხელა ცხოველის სიგიჟე</AnimalInsanitySingle.label>
+  <DeepDrillInfestation.label>ღრმა საბურღი ინვაზია</DeepDrillInfestation.label>
+  <DeepDrillInfestation.letterLabel>ძალიან ღრმა: ინვაზია</DeepDrillInfestation.letterLabel>
+  <DeepDrillInfestation.letterText>Vibrations from your deep drills have angered some underground insects. Now they're tunneling upwards to seek revenge!\n\nBeware - the insects have been angered and will try to destroy your base.</DeepDrillInfestation.letterText>
+  <DefoliatorShipPartCrash.label>გემის ნაწილის ავარია (დეფოლიატორი)</DefoliatorShipPartCrash.label>
+  <DefoliatorShipPartCrash.letterLabel>დეფოლიატორ გემი</DefoliatorShipPartCrash.letterLabel>
+  <DefoliatorShipPartCrash.letterText>A large piece of an ancient ship has crashed nearby.\n\nIts mysterious influence will kill all plants in an expanding circle around itself.\n\nDestroy it as soon as possible. But beware - it will probably defend itself.</DefoliatorShipPartCrash.letterText>
+  <Infestation.label>ინვაზია</Infestation.label>
+  <Infestation.letterLabel>ინფექცია</Infestation.letterLabel>
+  <Infestation.letterText>Giant insects are tunneling towards you! They will break through in a few seconds and plant hives.\n\nThe hives will spawn more insects and more hives.\n\nIf you don't want the insects to infest the whole area, destroy the hives. But beware - the bugs will defend their home.</Infestation.letterText>
+  <ManhunterPack.label>კაცის მონადირეთა შეკვრა</ManhunterPack.label>
+  <PsychicEmanatorShipPartCrash.label>გემის ნაწილის ავარია (ფსიქიკური)</PsychicEmanatorShipPartCrash.label>
+  <PsychicEmanatorShipPartCrash.letterLabel>ფსიქიკური ხომალდი</PsychicEmanatorShipPartCrash.letterLabel>
+  <PsychicEmanatorShipPartCrash.letterText>A large piece of an ancient ship has crashed nearby.\n\nYour colonists can feel it in the back of their mind, exhorting unspeakable acts. It must have an onboard machine persona with psychic projection ability. And this persona is not friendly.\n\nDestroy it as soon as possible. But beware - it will probably defend itself.</PsychicEmanatorShipPartCrash.letterText>
+  <RaidEnemy.label>მტრის დარბევა</RaidEnemy.label>
+</LanguageData>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SmokeleafAddiction.description>A chemical addiction to smokeleaf. Long-term use of smokeleaf has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.
+\nWithout regular doses of smokeleaf, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.</SmokeleafAddiction.description>
+  <SmokeleafAddiction.label>კვამლის ფოთოლზე დამოკიდებულება</SmokeleafAddiction.label>
+  <SmokeleafAddiction.stages.1.label>გაყვანა</SmokeleafAddiction.stages.1.label>
+  <SmokeleafHigh.description>Smokeleaf-ის აქტიური ქიმიური ნივთიერება სისხლში. წარმოქმნის ბუნდოვანი კეთილდღეობის რბილ განცდას.</SmokeleafHigh.description>
+  <SmokeleafHigh.label>ჩაქოლეს კვამლის ფოთოლზე</SmokeleafHigh.label>
+  <SmokeleafHigh.labelNoun>კვამლის ფოთოლი მაღალი</SmokeleafHigh.labelNoun>
+  <SmokeleafTolerance.description>გაზრდილი ტოლერანტობა კვამლის ფოთლის მიმართ. რაც უფრო მკაცრია ეს ტოლერანტობა, მით მეტი კვამლის ფოთოლი სჭირდება იგივე ეფექტის მისაღებად.</SmokeleafTolerance.description>
+  <SmokeleafTolerance.label>კვამლის ფოთლის ტოლერანტობა</SmokeleafTolerance.label>
+</LanguageData>

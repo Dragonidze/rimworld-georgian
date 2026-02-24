@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AccuracyLong.description>The weapon's accuracy at a distance of 40 cells or more.\n\nAn actual shot's chance to hit will also be affected by other factors.</AccuracyLong.description>
+  <AccuracyLong.label>სიზუსტე (გრძელი)</AccuracyLong.label>
+  <AccuracyMedium.description>The weapon's accuracy at a distance of 25 cells.\n\nAn actual shot's chance to hit will also be affected by other factors.</AccuracyMedium.description>
+  <AccuracyMedium.label>სიზუსტე (საშუალო)</AccuracyMedium.label>
+  <AccuracyShort.description>The weapon's accuracy at a distance of 12 cells.\n\nAn actual shot's chance to hit will also be affected by other factors.</AccuracyShort.description>
+  <AccuracyShort.label>სიზუსტე (მოკლე)</AccuracyShort.label>
+  <AccuracyTouch.description>The weapon's accuracy at a distance of 3 cells or less.\n\nAn actual shot's chance to hit will also be affected by other factors.</AccuracyTouch.description>
+  <AccuracyTouch.label>სიზუსტე (დაახლოება)</AccuracyTouch.label>
+  <RangedWeapon_ArmorPenetrationMultiplier.description>მულტიპლიკატორი გამოიყენება ჯავშნის შეღწევაზე.</RangedWeapon_ArmorPenetrationMultiplier.description>
+  <RangedWeapon_ArmorPenetrationMultiplier.label>ჯავშნის შეღწევადობის მულტიპლიკატორი</RangedWeapon_ArmorPenetrationMultiplier.label>
+  <RangedWeapon_Cooldown.description>რამდენი დრო სჭირდება აღდგენას ამ იარაღის გასროლის შემდეგ.</RangedWeapon_Cooldown.description>
+  <RangedWeapon_Cooldown.label>მერყეობდა გაგრილება</RangedWeapon_Cooldown.label>
+  <RangedWeapon_DamageMultiplier.description>მულტიპლიკატორი გამოიყენება ამ იარაღის დაზიანებაზე.</RangedWeapon_DamageMultiplier.description>
+  <RangedWeapon_DamageMultiplier.label>დაზიანების მულტიპლიკატორი</RangedWeapon_DamageMultiplier.label>
+  <RangedWeapon_RangeMultiplier.description>მულტიპლიკატორი გამოიყენება ამ იარაღის დიაპაზონზე.</RangedWeapon_RangeMultiplier.description>
+  <RangedWeapon_RangeMultiplier.label>დიაპაზონის მულტიპლიკატორი</RangedWeapon_RangeMultiplier.label>
+  <RangedWeapon_WarmupMultiplier.description>მულტიპლიკატორი გამოიყენება ამ იარაღის დამიზნების დროზე.</RangedWeapon_WarmupMultiplier.description>
+  <RangedWeapon_WarmupMultiplier.label>დამიზნების დროის მულტიპლიკატორი</RangedWeapon_WarmupMultiplier.label>
+</LanguageData>

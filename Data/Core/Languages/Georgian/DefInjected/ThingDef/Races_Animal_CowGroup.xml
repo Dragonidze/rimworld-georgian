@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bison.description>დიდი მცენარე, რომელიც ჭამს ძუძუმწოვრებს, გამოჩნდა სავანის უდაბნოში. მოთვინიერები საკმაოდ მორჩილები არიან, მაგრამ გაბრაზებულები სწრაფი და საშიშია.</Bison.description>
+  <Bison.label>ბიზონი</Bison.label>
+  <Boomalope.description>ქიმიკატების წარმოებისთვის შემუშავებული ბუმალოპი ზურგზე ზრდის აქროლადი ქიმიკატების დიდ ტომარას. მიუხედავად იმისა, რომ ის სუსტი და მყიფეა თავისი ზომით, სხვა ცხოველებმა ისწავლეს მისი თავიდან აცილება უზარმაზარი აფეთქების გამო, რომელსაც ის წარმოქმნის სიკვდილის დროს. მისი წველა შესაძლებელია ქიმიური საწვავის წარმოებისთვის - ძალიან ფრთხილად.</Boomalope.description>
+  <Boomalope.label>ბუმალოპი</Boomalope.label>
+  <Caribou.description>ირმის ოჯახის დიდი წევრი, კარგად ეგუება ცივ კლიმატში ცხოვრებას. კარიბუ შეიძლება წველოს, მაგრამ უარი თქვას შეფუთვაზე.</Caribou.description>
+  <Caribou.label>კარიბუ</Caribou.label>
+  <Cow.description>მსხვილი მოშინაურებული ჩლიქოსანი ძროხები ათასწლეულების განმავლობაში იყო გამოყვანილი დიდი რაოდენობით რძის, ხორცისა და ტყავის წარმოებისთვის. ისინი საოცრად ნაზი არსებები არიან და არასოდეს ეძიებენ შურისძიებას, რამდენჯერაც არ უნდა დაზარალდნენ. მათი უმეტესობა იმდენად არის ადაპტირებული ფერმის ცხოვრებასთან, რომ ვერ გადარჩება ველურში.</Cow.description>
+  <Cow.label>ძროხა</Cow.label>
+  <Donkey.description>A small relative of the horse, domesticated in ancient times for farm work. Its goofy call is simultaneously annoying and endearing.\n\nWhen in a caravan, people can ride donkeys to increase the caravan's speed.</Donkey.description>
+  <Donkey.label>ვირი</Donkey.label>
+  <Dromedary.description>A large land mammal adapted to arid environments. Domesticated since ancient times, its leather is exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal and mount, but its bouncing gait makes it slower to ride than a horse.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking.\n\nWhen in a caravan, people can ride dromedaries to increase the caravan's speed.</Dromedary.description>
+  <Dromedary.label>დრომედარი</Dromedary.label>
+  <Elephant.description>The largest unmodified land animal. Elephants have a long trunk they use to manipulate objects, and sharp tusks they use to gore attackers. A dead elephant's valuable tusks can be recovered by butchering it.\n\nIntelligent creatures with complex social relationships, elephants can be used as pack animals or trained to carry out the most complex of tasks. They live a long time, and are known to remember events and relationships from many decades before.</Elephant.description>
+  <Elephant.label>სპილო</Elephant.label>
+  <Elk.description>ირმის ოჯახის დიდი წევრი, კარგად ეგუება ცივ კლიმატში ცხოვრებას. შინაური ელა შეიძლება წველოს, მაგრამ უარი თქვას შეფუთვაზე.</Elk.description>
+  <Elk.label>ელკა</Elk.label>
+  <Goat.description>ბუნებრივად ცნობისმოყვარე თხა კაცობრიობის მიერ გამოყვანილ ყველაზე მეგობრულ შინაურ არსებებს შორისაა.</Goat.description>
+  <Goat.label>თხა</Goat.label>
+  <Horse.description>A large hoofed mammal with a short coat, a long mane, and a long tail. Horses have been domesticated since ancient times.\n\nWhen in a caravan, people can ride horses to increase the caravan's speed.</Horse.description>
+  <Horse.label>ცხენი</Horse.label>
+  <Muffalo.description>A large herding herbivore descended from buffalo and adapted for both cold and warm environments. While enraged muffalo are deadly, tamed muffalo are quite docile and can be used as pack animals.\n\nNobody is quite sure why they're blue - it might even be some early genetic modification test that just never got changed.</Muffalo.description>
+  <Muffalo.label>მუფალო</Muffalo.label>
+  <Rhinoceros.description>მიუხედავად იმისა, რომ ბალახოვანია, ეს დიდი ძუძუმწოვარი ძალიან ადვილია გაბრაზება. მას შემდეგ, რაც გაბრაზდა, მისი უზარმაზარი ძალა და მკვეთრი რქა მას სასტიკ მოწინააღმდეგედ აქცევს. მას უფრო მეტი კუნთი აქვს ერთ ფეხზე, ვიდრე ადამიანების უმეტესობას მთელ სხეულში.</Rhinoceros.description>
+  <Rhinoceros.label>მარტორქა</Rhinoceros.label>
+  <Yak.description>იაკები მტკიცე პირუტყვია მოცულობითი ჩარჩოთი, მოკლე, მაგრამ სქელი ფეხებით და მომრგვალებული ჩლიქებით, რომლებსაც ატრიალებენ თოვლში სიარულის დასახმარებლად.</Yak.description>
+  <Yak.label>იაკ</Yak.label>
+</LanguageData>
